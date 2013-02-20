@@ -9,17 +9,17 @@ Databrary (http://databrary.org) is a library for research data and software too
  
 The research data stored in Databrary consists of video, audio, static, or ordered image sequences, physiological or position sensor data, spreadsheets, databases, manuscripts, coding manuals, and other metadata associated with scientific research in the behavioral and neural sciences. The tools stored in Databrary consist of software that aids the extraction, visualization, and analysis of time series based research data. These tools may be open source, freeware, or commercially licensed, and may be supplemented by sample data sets, web links to data sets shared elsewhere within Databrary, or documentation. Every data set and tool will have its own unique, permanent uniform resource locator (URL) - web address - so that researchers may both take credit for their own Databrary contributions and properly and consistently cite the Databrary resources they use from others.
  
-The Databrary ecosystem also includes a database of  and contributorsmembers who have permission to use and contribute data. The database keeps track of the identities of each member who contributes to, browses data within, withdraws data or tools from Databrary, and cites Databrary resources.
+The Databrary ecosystem also includes a database of members and contributors who have permission to use and contribute data. The database keeps track of the identities of each member who contributes to, browses data within, withdraws data or tools from Databrary, and cites Databrary resources.
 
 ## 2.	The Challenges of Databrary
 
 Implementing the Databrary ecosystem poses several challenges. The most crucial challenge concerns research ethics. 
 
-Principles of ethical research with human participants require that individuals depicted in any recording that contains identifiable information must give permission for their data to be shared with others in Databrary. Individuals must decide what level of sharing permission they wish to give-no permission at all because they do not wish to share data-or sharing permission with different levels of restriction concerning who can view and analyze the data. Only recordings for which permission to share has been given by all individuals depicted may be shared with Databrary. In turn, Databrary must ensure that the level of access agreed to by individuals who give permission to share is guaranteed. This means that information about sharing permissions must be permanently linked with individual data files in Databrary. It also means that members who access files in Databrary must agree to follow the wishes of individuals who grant permission for their data to be shared.
+Principles of ethical research with human participants require that individuals depicted in any recording that contains identifiable information must give permission for their data to be shared with others in Databrary. Individuals must decide what level of sharing permission they wish to give: no permission at all because they do not wish to share data, or sharing permission with different levels of restriction concerning who can view and analyze the data. Only recordings for which permission to share has been given by all individuals depicted may be shared with Databrary. In turn, Databrary must ensure that the level of access agreed to by individuals who give permission to share is guaranteed. This means that information about sharing permissions must be permanently linked with individual data files in Databrary. It also means that members who access files in Databrary must agree to follow the wishes of individuals who grant permission for their data to be shared.
  
 Any intentional identification of a research participant or unauthorized disclosure of his or her confidential information violates the _promise of confidentiality_ given to the research participant. This requirement poses a challenge. Many of the data sources, especially video, photographic, and audio recordings contain personally identifying information about research participants and other individuals involved in a study. Images and/or voices may be visible or heard. Names may be spoken out loud. Images and voices of visitors or other people who are not research participants may be recorded. If a study takes place in a home or other setting, aspects of that home or setting may be recorded. Thus, individuals or locations could be identified from recordings.
 
-Therefore, Databrary must do everything possible to ensure that data sets are used solely for research purposes and not for investigation of specific research participants. Databrary and its users must do everything practicable to minimize the chances that individuals can be identified from information shared within Databrary. Databrary staff, data contributors and users must understand, certify competence in, and abide by the highest standards of ethics concerning research with human participants. No data files can be deposited, stored, or shared within the Databrary ecosystem that contain personally identifying information (names, addresses, phone numbers, email addresses, social media user IDs, personal or professional websites, Social Security or other identification numbers) beyond that incidentally contained in the video or audio recordings-faces, voices, and the physical location of the recording. Additional provisions are described in the sections that follow.
+Therefore, Databrary must do everything possible to ensure that data sets are used solely for research purposes and not for investigation of specific research participants. Databrary and its users must do everything practicable to minimize the chances that individuals can be identified from information shared within Databrary. Databrary staff, data contributors and users must understand, certify competence in, and abide by the highest standards of ethics concerning research with human participants. No data files can be deposited, stored, or shared within the Databrary ecosystem that contain personally identifying information (names, addresses, phone numbers, email addresses, social media user IDs, personal or professional websites, Social Security or other identification numbers) beyond that incidentally contained in the video or audio recordings---faces, voices, and the physical location of the recording. Additional provisions are described in the sections that follow.
 
 A second challenge concerns the long-term storage of data. Many IRBs require investigators to destroy data after a fixed period of time. However, a central aim of the Databrary is to preserve data in perpetuity. Thus, for Databrary to work, those practices will need to be changed.
 
@@ -71,6 +71,10 @@ Optional, but recommended
 
 The application process also requires the assignment of a unique Databrary user ID and password. For transparency and data archiving purposes, Databrary requires that user account IDs be created that concatenate the user's surname, first, and other names or initials, e.g., (gilmore.rick.o or adolph.karen.e) and include an additional numeric suffix assigned by Databrary to disambiguate duplications (e.g., smith.edward.g.1001).
 
+> Backwards names are ambiguous and confusing.  The point of this is that we will automatically generate IDs somehow, just for unique identification, externally visible in some URLs.
+> Since names can change, it may be better if these unique IDs are not based on names at all.
+> These can also be completely unrelated to a user-chosen login name, which needn't be visible to others at all.
+
 #### Application Review
 
 Once a member or sponsored member application has been completed and submitted, applicants, and their research ethics entity official(s), will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine the following:
@@ -93,13 +97,13 @@ Databrary will log access to the system by user ID and by IP address. Most acces
 
 #### Viewing Data
 
-Any member of the public may browse data sets or tools with unrestricted/public level of access. Individuals with Databrary member status may browse or download data sets and tools with the *unrestricted/public* level of access. Members may also browse or download assets with *restricted, but open* access. They may request access to *restricted by contributor* assets, and if granted access, browse or download those files. All browsing and downloading will be logged by Databrary. Databrary will send periodic reminders to members of downloaded data reminding them to cite datasets and associated papers, to obtain appropriate IRB approvals for conducting research, to maintain the security of the downloaded data, and to remove data that are no longer needed. .
+Any member of the public may browse data sets or tools with unrestricted/public level of access. Individuals with Databrary member status may browse or download data sets and tools with the *unrestricted/public* level of access. Members may also browse or download assets with *restricted, but open* access. They may request access to *restricted by contributor* assets, and if granted access, browse or download those files. All browsing and downloading will be logged by Databrary. Databrary will send periodic reminders to members of downloaded data reminding them to cite datasets and associated papers, to obtain appropriate IRB approvals for conducting research, to maintain the security of the downloaded data, and to remove data that are no longer needed.
 
 Many possible use cases will involve browsing or downloading data without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities on a dataset to determine whether formal analyses are feasible or promising). If members intend to conduct research with datasets, they may be required to obtain permission from a research ethics entity at their institution; decisions about whether members may conduct research on datasets is beyond Databrary's control. Thus, when permitted by the research entity that supervises their research, members may conduct research on data sets. 
 
 #### Member Account Renewal
 
-Member and sponsored member accounts must be renewed annually. Databrary will send members and sponsored members reminders that their accounts are due to expire and ask researchers to update their account information. To renew their accounts, members and sponsored members will electronically sign the Databrary User Agreement. Information about account renewals will be sent to research ethics staff at each member's home institution.All browsing and downloading will be logged by user.
+Member and sponsored member accounts must be renewed annually. Databrary will send members and sponsored members reminders that their accounts are due to expire and ask researchers to update their account information. To renew their accounts, members and sponsored members will electronically sign the Databrary User Agreement. Information about account renewals will be sent to research ethics staff at each member's home institution.
 
 ### 3.2.	Deposits
 
@@ -130,7 +134,7 @@ Researchers who wish to share data with Databrary should seek permission to do s
 
 Links to all of the relevant Databrary documents concerning permissions and access may be found on the Databrary website (http://databrary.org/permissions).
 
-#### StatusApplying for Approval to Share Data from a Specific Study
+#### Applying for Approval to Share Data from a Specific Study
 
 In addition to securing members status, researchers must file a separate web-based application to share data from a specific study or source. That application seeks information commonly included in an application to an IRB for approval to conduct a study. In particular, the following information will be required:
 
@@ -159,11 +163,9 @@ or
 
 	databrary.org/gilmore.rick.o.1001/tools/2012/tool01
 
+> These probably will not contain user names and be rather shorter.  databrary.org/study/1234/ignored-study-title
+
 At this point, the data owner(s) may begin data collection, or if the data have already been collected or the tool readied for sharing, may proceed to upload the data or tool.
-
-#### Member Account Renewal
-
-Contributor status must be renewed annually. Databrary will send members reminders that their accounts are due to expire and ask contributors to update their account information. To renew their member accounts, researchers will electronically sign the Databrary Member Agreement. At the annual renewal, Databrary will also send members information about how their data sets have been accessed.
 
 ### 3.3	Securing permission from participants to share data
 
@@ -183,7 +185,7 @@ No non-anonymized research data from individual participants may be shared beyon
 
 ##### Sharing, but only within Databrary members' labs (Level 1)
 
-Data may be shared but only with Databrary members who agree to conduct scientific activities in the context of a private, laboratory environment. Video or audio files may NOT be excerpted or presented in public settings-in classrooms, at scientific or technical meetings - nor may digital files be released on the internet, to publishers of textbooks, to the media, or as supplemental material for publications. .
+Data may be shared but only with Databrary members who agree to conduct scientific activities in the context of a private, laboratory environment. Video or audio files may NOT be excerpted or presented in public settings-in classrooms, at scientific or technical meetings - nor may digital files be released on the internet, to publishers of textbooks, to the media, or as supplemental material for publications.
 
 ##### Sharing, public excerpts may be shown but not distributed (Level 2)
 
@@ -195,7 +197,7 @@ Research data from individual participants may be shared with other Databrary me
 
 ##### What constitutes an excerpt?
 
-An excerpt is a selection from a larger data recording that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Members may select segments of a recording as an excerpt for display in public settings if the individual(s) depicted have granted sharing permission at level 3 or 4. Members must exercise professional judgment about which individuals and which segments are suitable for public viewing and should refrain from creating excerpts for all individuals in a data set.
+An excerpt is a selection from a larger data recording that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Members may select segments of a recording as an excerpt for display in public settings if the individual(s) depicted have granted sharing permission at level 3. Members must exercise professional judgment about which individuals and which segments are suitable for public viewing and should refrain from creating excerpts for all individuals in a data set.
 
 #### When should permission to share data be sought?
 
@@ -203,7 +205,7 @@ Permission to share data should be sought _after_ a testing session is complete.
 
 #### How will the levels of permission granted by participants be linked to data files?
 
-Member who collect identifiable data will be responsible for ensuring that every participant or individual depicted on a recording gives consent to share data with Databrary.  Consent to share may be secured in writing on paper forms or by electronic signature, but individuals depicted in a recording must be given paper records if electronic signatures are given. Paper copies of the signed consent to share data form must be kept in secured files comparable to those used for storing informed consent forms. If no consent to share data is secured or written documentation of a participant's preference is lost or damaged, then it must be assumed that the data in question may not be shared (Level 0).
+Members who collect identifiable data will be responsible for ensuring that every participant or individual depicted on a recording gives consent to share data with Databrary.  Consent to share may be secured in writing on paper forms or by electronic signature, but individuals depicted in a recording must be given paper records if electronic signatures are given. Paper copies of the signed consent to share data form must be kept in secured files comparable to those used for storing informed consent forms. If no consent to share data is secured or written documentation of a participant's preference is lost or damaged, then it must be assumed that the data in question may not be shared (Level 0).
 
 There are two ways the level of sharing permission granted by an individual depicted in a recording may be associated with that individual's data files.
 
@@ -220,16 +222,18 @@ In some cases, multiple individuals may be depicted on a recording, some who are
 
 	participant_id		test_date	mos_at_test	sex		perm_level
 	study01_7824		20121230	5.15		f		2
-	study01_7824_01	20121230	NA		NA		3
-	study01_7824_02	20121230	NA		NA		3
+	study01_7824_01		20121230	NA		NA		3
+	study01_7824_02		20121230	NA		NA		3
 	study01_7825		20130102	4.75		m		3	
-	study01_7825_01	20130102	NA		NA		0
+	study01_7825_01		20130102	NA		NA		0
 
 In this case, the recording featuring participant 7824 includes two other individuals (7825\_01, and 7824\_02) both of whom who gave level 3 permission. But, the participant's parent or guardian gave only level 2 permission, so that level will be binding on the entire recording. Similarly, for the recording featuring participant 7825, level 3 permission was given, but a non-participant refused to grant sharing permission. Thus, no recording depicting this individual may be shared. If the recording can be edited to remove this person from the recording, the modified file may be shared.
 
 Note that these files must not contain personally identifying information. Participants must be identified by alphanumeric code. Databrary will recommend best practices about the construction of participant identification codes in order to facilitate automated deposit cataloging. Contributors who use the LabNanny software will have Databrary-compatible participant identification codes assigned for them. Investigators are strongly encouraged to provide participant's age-at-testing and sex.
 
-Databrary will publish text (.txt, .csv) and spreadsheet (.xls, .xlsx, .odf) templates to make it easy for investigators to report this type of information in a consistent format. Before any raw data files may be uploaded to Databrary, participants must upload information about participant sharing permission levels in one of these approved formats.
+Databrary will publish text (.txt, .csv) and spreadsheet (.xls, .xlsx, .odf) templates to make it easy for investigators to report this type of information in a consistent format. Before any raw data files may be uploaded to Databrary, members must upload information about participant sharing permission levels in one of these approved formats.
+
+> We should just provide a web form for entering this information when uploading data.  We can provide templates for convenience but there's no reason to force people to have an extra step when they can just enter it directly.
 
 ##### Automatic tagging of individual data files with permission to share level
 
@@ -249,9 +253,14 @@ A future version of the Datavyu coding tool will use the permission to share fil
 
 Before a data set may be shared with Databrary, investigators must evaluate video/audio and associated individual-level meta-data for volatile or sensitive content. Even if a participant (or parent or legal guardian) has given permission to share data, the ultimate responsibility for determining whether data should be shared lies with the investigator. If an investigator determines that an individual's data set should not be shared, the investigator will code the sharing level as -1 either in the sharing permission file or within the LabNanny system. Note, the -1 tag differentiates investigator choice not to share from participant initiated refusal to permit sharing.
 
+> We don't need to make people remember all these magic numbers.  There can just be a checkbox for this, and drop-downs for whatever else they enter from the sharing consent form.
+
 #### Contributors provide study-level meta-data
 
 Databrary's database includes investigator-level, study-level, participant-level, and measure-level meta-data. Members provide investigator-level meta-data at the time they apply for member status and preliminary study-level meta-data at the time they apply to deposit a specific data set. Prior to or during the process of uploading participant-level data to Databrary, contributors may provide enhanced study-level meta-data. This may include manuscripts, posters or talks, figures, statistical analysis scripts, code books, or grant proposals. The default will be for study-level meta-data to have level 3 sharing permission associated with it.
+
+> Why level 3?  Ideally we should default these to be fully public, but it should at least be an option.
+> Really only participant data need these special levels.  We can be more flexible with non-protected data.
 
 #### Contributors upload/deposit data to Databrary
 
