@@ -37,6 +37,9 @@ We envision four levels of access: unrestricted and open to the public; restrict
 
 ![Figure 1: Levels of Access](levels-of-access.png)
 
+> At what granularity do these access levels need to be enforced?  Does a user need to be able to set individual permissions on each data file, or is setting one per study (dataset) sufficient.
+> I can't think of any use cases that require more fine-grained control.
+
 #### Types of Access, User Accounts and Privileges
 
 There are three types of access to Databrary's assets: *browsing*, *downloading*, and *contributing*. Individuals who wish only to browse Databrary's public/unrestricted assets may do so without registering with Databrary, however the system will log access by internet protocol (IP) addresses (see Access Logging). Unregistered individuals may not comment in Databrary's comment sections. Individuals who wish to browse Databrary's restricted, but open assets must apply for a member account.
@@ -146,7 +149,11 @@ In addition to securing members status, researchers must file a separate web-bas
 What to do when reusing already shared data in Databrary.
 * an electronically signed copy of the Databrary Contributor Agreement.
 
+> This is potentially a lot of manual data to review each data set.
+> If contributors are incrementally uploading a dataset as it is acquired, at what point does this have to happen?
+
 #### Study-level Application Review
+
 Once study-level applications have been completed and submitted, applicants, and their research ethics entity official(s), will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine that th proposed data to be deposited does not violate Databrary standards.
 
 The application review and approval process will be carried out by project staff under the supervision of the Project Director (Adolph) and Associate Director (Gilmore). The approval and review process will be audited periodically (twice annually) by the Databrary Ethics Committee. 
@@ -313,6 +320,8 @@ Databrary will form an Ethics Committee to monitor the project, review and modif
 ## 4.	Related Policies and Procedures
 
 [Mention Member Agreement; Authorized Contributor Agreement; Permission to Share Data Template]
+
+> Copyrights on data?  Policy?  Ownership?
 
 ## 5.	Definitions of Terms
 
