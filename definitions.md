@@ -40,7 +40,23 @@ Collections of information from which *Personally Identifying Information* has b
 
 Video or audio recordings, photographs, MR images, physiological data, or genetic information.
 
-### Personally Identifying Information (PII)- Full name- National identification number (e.g., Social Security number)- Internet Protocol (IP) address- Vehicle registration plate number- Driver's license number- Health certificate or insurance number- Fingerprints, or handwriting- Credit card or financial account or access numbers- Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)- Date of birth- Birthplace- Address- Telephone number- Faces and voices.
+### Personally Identifying Information (PII)
+
+- Full name
+- National identification number (e.g., Social Security number)
+- Internet Protocol (IP) address
+- Vehicle registration plate number
+- Driver's license number
+- Health certificate or insurance number
+- Fingerprints, or handwriting
+- Credit card or financial account or access numbers
+- Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)
+- Date of birth
+- Birthplace
+- Address
+- Telephone number
+- Faces and voices.
+
 
 ### Depicted Individual
 
@@ -60,16 +76,34 @@ Any *Identifiable Data*, *De-Identified Data*, or *Metadata*.
 
 ### Promise of Confidentiality
 
-A promise to a respondent or *Research Participant* that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
-### Research ParticipantA person or organization observed for purposes of research.
+A promise to a respondent or *Research Participant* that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
+
+
+### Research Participant
+
+A person or organization observed for purposes of research.
+
 
 ### Third-Party User
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an *Authorized Researcher* or *Sponsored Researcher* account.### Research Staff
-Persons authorized by the *Authorized Researcher's* *Institution*, excluding the *Authorized Researcher* or any *Sponsored Researcher* under the *Authorized Researcher’s* supervision, who will have access to *Data*. *Research Staff* include project staff or students conducting dissertation or thesis research.
-### Institution
-The university or research institution at which the *Authorized Researcher* will conduct scientific activities, including research using *Data*.### Representative of the Institution
-A person authorized to enter into contractual agreements on behalf of an *Authorized Researcher's* *Institution*. ### Private Person
-Any individual (including an individual acting in his official capacity) and any private (i.e., non-government) partnership, corporation, association, organization, or entity (or any combination thereof), including family, household, school, neighborhood, health service, or institution. 
-### Deductive Disclosure
-The discerning of an individual's identity or confidential information through the use of known characteristics of that individual. Disclosure risk is present if an unacceptably narrow estimation of an individual’s confidential information is possible or if determining the exact attributes of the individual is possible with a high level of confidence.
+An individual who wishes to obtain access to Databrary, but has not yet been granted an *Authorized Researcher* or *Sponsored Researcher* account.
+
+### Research Staff
+
+Persons authorized by the *Authorized Researcher's* *Institution*, excluding the *Authorized Researcher* or any *Sponsored Researcher* under the *Authorized Researcher’s* supervision, who will have access to *Data*. *Research Staff* include project staff or students conducting dissertation or thesis research.
+
+### Institution
+
+The university or research institution at which the *Authorized Researcher* will conduct scientific activities, including research using *Data*.
+
+### Representative of the Institution
+
+A person authorized to enter into contractual agreements on behalf of an *Authorized Researcher's* *Institution*.
+ 
+### Private Person
+
+Any individual (including an individual acting in his official capacity) and any private (i.e., non-government) partnership, corporation, association, organization, or entity (or any combination thereof), including family, household, school, neighborhood, health service, or institution. 
+
+### Deductive Disclosure
+
+The discerning of an individual's identity or confidential information through the use of known characteristics of that individual. Disclosure risk is present if an unacceptably narrow estimation of an individual’s confidential information is possible or if determining the exact attributes of the individual is possible with a high level of confidence.
