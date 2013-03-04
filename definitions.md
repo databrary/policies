@@ -13,6 +13,8 @@ An individual eligible for principal investigator (PI) status at an *Institution
 
 An individual who has been approved for access to Databrary under the sponsorship and supervision of an *Authorized Researcher*.
 
+Suggestions to disambiguate from "Sponsored" research: Designated Researcher, Associate Researcher
+
 #### Research Staff
 
 Persons authorized by the *Authorized Researcher's* *Institution*, excluding the *Authorized Researcher* or any *Sponsored Researcher* under the *Authorized Researcher’s* supervision, who will have access to *Data*. *Research Staff* include project staff or students conducting dissertation or thesis research.
@@ -40,6 +42,15 @@ A person authorized to enter into contractual agreements on behalf of an *Author
 #### Minor
 
 A person under the age of 18.
+
+#### Sharing Permission (Level)
+
+Specific rights for sharing and public release granted by *Depicted Individuals* in a *Permission to Share Data* document.
+
+#### Access Permissions (Level)
+
+Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
+These are distinct from and may have more flexibility than *Sharing Permissions*.
 
 ---
 
@@ -88,6 +99,8 @@ Collections of information from which *Personally Identifying Information* has b
 Video or audio recordings, or photographs.
 
 #### Personally Identifying Information (PII)
+
+See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 - Full name
 - National identification number (e.g., Social Security number)
