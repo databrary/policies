@@ -104,7 +104,7 @@ Collections of information from which *Personally Identifying Information* has b
 
 #### Recordings
 
-Video or audio recordings, or photographs.
+Video or audio recordings, or still images.
 
 #### Personally Identifying Information (PII)
 
