@@ -102,7 +102,7 @@ Collections of information that do not contain *Identifiable Data*.
 
 Collections of information from which *Personally Identifying Information* has been removed or altered in such a way as to prevent the identification of individual persons.
 
-#### Recordings
+#### [Recordings](id:Recordings)
 
 Video or audio recordings, or still images.
 
