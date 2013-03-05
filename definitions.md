@@ -1,112 +1,114 @@
 # Databrary
 
 ## Definitions
+- [People](#People)
+- [Entities](#Entities)
+- [Documents](#Documents)
+- [Data-types](#Data-types)
+- [Actions](#Actions)
 
 ---
-### People
+### [People](id:People)
 
-#### Authorized Researcher
+#### [Authorized Researcher](id:Authorized Researcher)
 
-An individual eligible for principal investigator (PI) status at an *Institution* who has received authorization from Databrary to view, download, and contribute data.
+An individual eligible for principal investigator (PI) status at an [Institution](#Institution) who has received authorization from Databrary to view, download, and contribute data.
 
-#### Sponsored Researcher
+#### [Sponsored Researcher](id:Sponsored Researcher)
 
-An individual who has been approved for access to Databrary under the sponsorship and supervision of an *Authorized Researcher*.
+An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Authorized Researcher](#Authorized Researcher).
 
 Suggestions to disambiguate from "Sponsored" research: Designated Researcher, Associate Researcher
 
-#### Research Staff
+#### [Research Staff](id:Research Staff)
 
-Persons authorized by the *Authorized Researcher's* *Institution*, excluding the *Authorized Researcher* or any *Sponsored Researcher* under the *Authorized Researcher’s* supervision, who will have access to *Data*. *Research Staff* include project staff or students conducting dissertation or thesis research.
+Persons authorized by the [Authorized Researcher](#Authorized Researcher)'s [Institution](#Institution), excluding the [Authorized Researcher](#Authorized Researcher) or any [Sponsored Researcher](#Sponsored Researcher) under the [Authorized Researcher](#Authorized Researcher)’s supervision, who will have access to [Data](#Data). [Research Staff](#Research Staff) include project staff or students conducting dissertation or thesis research.
 
-#### Depicted Individual
+#### [Depicted Individual](id:Depicted Individual)
 
-A person depicted in *Recordings*.
+A person depicted in [Recordings](#Recordings).
 
-#### Research Participant
+#### [Research Participant](id:Research Participant)
 
 A person or organization observed for purposes of research.
 
-#### Third-Party User
+#### [Third-Party User](id:Third Party User)
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an *Authorized Researcher* or *Sponsored Researcher* account.
+An individual who wishes to obtain access to Databrary, but has not yet been granted an [Authorized Researcher](#Authorized Researcher) or [Sponsored Researcher](#Sponsored Researcher) account.
 
-#### Private Person
+#### [Private Person](id:Private Person)
 
 Any individual (including an individual acting in his official capacity) and any private (i.e., non-government) partnership, corporation, association, organization, or entity (or any combination thereof), including family, household, school, neighborhood, health service, or institution. 
 
-#### Representative of the Institution
+#### [Representative of the Institution](id:Representative of the Institution)
 
-A person authorized to enter into contractual agreements on behalf of an *Authorized Researcher's* *Institution*.
+A person authorized to enter into contractual agreements on behalf of an [Authorized Researcher](#Authorized Researcher)'s* [Institution](#Institution).
 
-#### Minor
+#### [Minor](id:Minor)
 
 A person under the age of 18.
 
-#### Sharing Permission (Level)
+---
 
-Specific rights for sharing and public release granted by *Depicted Individuals* in a *Permission to Share Data* document.
+### [Entities](id:Entities)
 
-#### Access Permissions (Level)
+#### [Research Supervision Entity](id:Research Supervision Entity)
 
-Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
-These are distinct from and may have more flexibility than *Sharing Permissions*.
+An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an [Institution](#Institution).
+
+#### [Institution](id:Institution)
+
+The university or research organization at which the [Authorized Researcher](#Authorized Researcher) will conduct scientific activities, including research using [Data](#Data).
 
 ---
 
-### Entities
+### [Documents](id:Documents)
 
-#### Research Supervision Entity
+#### [Authorized/Sponsored Researcher Agreement](id:Researcher Agreement)
 
-An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an *Institution*.
+#### [Permission to Share Recordings](id:Permission to Share Recordings)
 
-#### Institution
+Written or electronic documentation that an adult [Depicted Individual](#Depicted Individual) has given permission to allow [Recordings](#Recordings) to be shared.
 
-The university or research institution at which the *Authorized Researcher* will conduct scientific activities, including research using *Data*.
+#### [Assent to Share Recordings](id:Assent to Share Recordings)
 
----
+Assent given by a [Depicted Individual](#Depicted Individual) who is a minor that indicates willingness to allow [Recordings](#Recordings) to be shared.
 
-### Documents
+#### [Permission to Share Data](id:Permission to Share Data)
 
-#### Authorized/Sponsored Researcher Agreement
+Written or electronic documentation that an adult [Depicted Individual](#Depicted Individual) has given permission to allow [Identifiable Data](#Identifiable Data) to be shared.
 
-#### Permission to Share Recordings
+- May be superceded by other definitions.
 
-Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Recordings* to be shared.
+#### [Assent to Share Data](id:Assent to Share Data)
 
-#### Assent to Share Recordings
+Assent given by a [Depicted Individual](#Depicted Individual) who is a [minor](#Minor) that indicates willingness to allow [Identifiable Data](#Identifiable Data) to be shared.
 
-Assent given by a *Depicted Individual* who is a minor that indicates willingness to allow *Recordings* to be shared.
+- May be superceded by other definitions.
 
-#### Permission to Share Data
-
-Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Identifiable Data* to be shared.
-
-#### Assent to Share Data
-
-Assent given by a *Depicted Individual* who is a minor that indicates willingness to allow *Identifiable Data* to be shared.
+### [Permission to Share Health-Related Information](id:Permission to Share Health-Related)
 
 ---
 
-### Data
+### [Data-types](id:Data-types)
 
-#### Identifiable data
+#### [Identifiable Data](id:Identifiable data)
 
-Collections of *Personally Identifying Information* that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
+Collections of [Personally Identifying Information](#PII) that might be used singly or in combination to determine the identity of [Research Participants](#Research Participants) or other individuals depicted in [Recordings](#Recordings).
 
-#### Non-Identifiable Data
+#### [Non-Identifiable Data](id:Non-Identifiable Data)
 
-Collections of information that do not contain *Identifiable Data*.
+Collections of information that do not contain [Identifiable Data](#Identifiable Data).
 
-#### De-identified data
+#### [De-identified Data](id:De-identified Data)
 
-Collections of information from which *Personally Identifying Information* has been removed or altered in such a way as to prevent the identification of individual persons.
+Collections of information from which [Personally Identifying Information](#PII) has been removed or altered in such a way as to prevent the identification of individual persons.
 
 #### [Recordings](id:Recordings)
 
-Video or audio recordings, or still images.
+Video or audio recordings or still images.
 
-#### Personally Identifying Information (PII)
+#### [Personally Identifying Information (PII)](id:PII)
 
 See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
@@ -125,38 +127,47 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 - Telephone number
 - Faces and voices.
 
-#### Shareable Identifiable Data
+#### [Shareable Identifiable Data](id:Shareable Identificable Data)
 
-Identifable data for which a *Depicted Individual* has granted *Assent to Share Data* or *Permission to Share Data*. 
+[Identifable data](#Identifiable Data) for which a [Depicted Individual](#Depicted Individual) has granted [Assent to Share Data](#Assent to Share Data) or [Permission to Share Data](Permission to Share Data). 
 
-#### Metadata
+#### [Metadata](id:Metadata)
 
-Information that describes how, where, why, and by whom *Identifiable Data*, *De-Identified* or *Non-Identifiable Data* were collected.
+Information that describes how, where, why, and by whom [Identifiable Data](#Identifiable Data), [De-Identified Data](#De-Identified Data) or [Non-Identifiable Data](#Non-Identifiable Data) were collected.
 
-#### Data
+#### [Data](id:Data)
 
-Any *Identifiable Data*, *De-Identified Data*, or *Metadata*.
+Any [Identifiable Data](#Identifiable Data), [De-Identified Data](#De-Identified Data), Non-Identifiable Data or [Metadata](#Metadata).
+[Public Showing](#Public Showing)
+#### [Excerpts](id:Exerpts)
 
-#### Excerpts
+An excerpt is a selection from a larger [recording](#Recordings) that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. [Authorized Researchers](#Authorized Researchers) or [Sponsored Researchers](#Sponsored Researchers) may select segments of a recording as an excerpt for display in public settings if the [Depicted Individuals](#Depicted Individuals) have granted sharing permission that includes [Public Showing](#Public Showing).
 
-An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. *Authorized Researchers* or *Sponsored Researchers* may select segments of a recording as an excerpt for display in public settings if the *Depicted Individuals* have granted sharing permission that includes *Public Showing*.
+#### [Digital Files](id:Digital Files)
 
-#### Digital files
-
-Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not *Research Staff* over electronic networks like the Internet.
+Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not [Research Staff](#Research Staff) over electronic networks like the Internet.
 
 ---
 
-### Actions
+### [Actions](id:Actions)
 
-#### Promise of Confidentiality
+#### [Sharing Permission](id:Sharing Permission) (Level)
 
-A promise to a respondent or *Research Participant* that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
+Specific rights for sharing and public release granted by [Depicted Individuals](#Depicted Individuals) in a [Permission to Share Data](#Permission to Share Data) document.
 
-#### Deductive Disclosure
+#### [Access Permissions](id:Access Permissions) (Level)
+
+Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
+These are distinct from and may have more flexibility than [Sharing Permissions](#Sharing Permission).
+
+#### [Promise of Confidentiality](id:Promise of Confidentiality)
+
+A promise to a respondent or [Research Participant](#Research Participant) that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
+
+#### [Deductive Disclosure](id:Deductive Disclosure)
 
 The discerning of an individual's identity or confidential information through the use of known characteristics of that individual. Disclosure risk is present if an unacceptably narrow estimation of an individual’s confidential information is possible or if determining the exact attributes of the individual is possible with a high level of confidence.
 
-#### Public Showing
+#### [Public Showing](id:Public Showing)
 
-Playing an audio or video segment or showing a photograph to an audience that is not limited to *Research Staff*.
+Playing an audio or video segment or showing a photograph to an audience that is not limited to [Research Staff](#Research Staff).
