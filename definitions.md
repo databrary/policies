@@ -70,6 +70,14 @@ The university or research institution at which the *Authorized Researcher* will
 
 #### Authorized/Sponsored Researcher Agreement
 
+#### Permission to Share Recordings
+
+Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Recordings* to be shared.
+
+#### Assent to Share Recordings
+
+Assent given by a *Depicted Individual* who is a minor that indicates willingness to allow *Recordings* to be shared.
+
 #### Permission to Share Data
 
 Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Identifiable Data* to be shared.
