@@ -42,7 +42,7 @@ Any individual (including an individual acting in his official capacity) and any
 
 #### [Representative of the Institution](id:Representative of the Institution)
 
-A person authorized to enter into contractual agreements on behalf of an [Authorized Researcher](#Authorized Researcher)'s* [Institution](#Institution).
+A person authorized to enter into contractual agreements on behalf of an [Authorized Researcher](#Authorized Researcher)'s [Institution](#Institution).
 
 #### [Minor](id:Minor)
 
