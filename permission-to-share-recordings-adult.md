@@ -31,10 +31,10 @@ If in the future you no longer wish to have your video/audio recordings or still
 ### Permissions
 
 #### Permission to share with authorized researchers
-☐ I give permission to share my video/audio recordings or still images with authorized researchers in the data library.
+☐ I give permission to share my video/audio recordings or still images with authorized researchers in a secure data library.
 
 #### Permission to share excerpts with the public
-☐ I give permission for authorized researchers to select excerpts from my video/audio recordings or still images and to share excerpts with the public for scientific and educational purposes (professional talks and presentations, classroom lectures, scientific articles, textbooks, the media, on the web, etc.). 
+☐ I give permission for authorized researchers to select excerpts from my video/audio recordings or still images and to share excerpts with the public for scientific and educational purposes. 
 	
 I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts to share.
 
