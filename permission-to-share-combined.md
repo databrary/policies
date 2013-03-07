@@ -26,9 +26,9 @@ Only authorized researchers have access to information in the library. Researche
 
 ### How long will information remain in the library?
 
-Information in the library will be preserved forever in a secure location. We do not intend to erase the information. We intend to store the information so that future researchers may be able to use it.
+Information in the library will be preserved forever in a secure location. Databrary does not intend to erase the information. Databrary intends to store the information so that future researchers may be able to use it.
 
-If in the future you no longer wish to have [ your child’s | your | your ] [ video/audio recordings or still images | self-reported health information ] stored in the library, please contact Databrary at ethics@databrary.org.
+If in the future I no longer wish to have [ my child’s | my | my ] [ video/audio recordings or still images | self-reported health information ] stored in the library, I will contact Databrary at ethics@databrary.org.
 
 ### Permissions
 
