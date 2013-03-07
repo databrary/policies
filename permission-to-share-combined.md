@@ -1,18 +1,18 @@
 # Databrary
 ## Permission to Share 
-## [ Recordings of | Self-Reported Health Information About ]
+## [ Recordings of | Self-Reported Health-Related Information About ]
 ## [ Child Under 12 | Minor 12-17 | Adult ]
 ### version 2013-03-07
 
 ### Overview
 
-This form requests my permission to include [ video/audio recordings or still images of | self-reported health information about ] [ your child | you | you ] in a secure data library on the Internet (Databrary.org). The library allows authorized researchers to share data. Data sharing will help researchers to learn more and will lead to faster progress in our understanding of human development.
+This form requests my permission to include [ video/audio recordings or still images of | self-reported health-related information about ] [ your child | you | you ] in a secure data library on the Internet (Databrary.org). The library allows authorized researchers to share data. Data sharing will help researchers to learn more and will lead to faster progress in our understanding of human development.
 
-Giving permission to share is entirely separate from giving consent to participate in a research study. I do not have to give permission to share [ my child’s | my | my ] [ video/audio recordings or still images | self-reported health information ] in the library. My choice will not affect payment if offered for participation in this or future studies.
+Giving permission to share is entirely separate from giving consent to participate in a research study. I do not have to give permission to share [ my child’s | my | my ] [ video/audio recordings or still images | self-reported health-related information ] in the library. My choice will not affect payment if offered for participation in this or future studies.
 
 ### What will be shared?
 
-With my permission, [ video/audio recordings or still images | self-reported health information ] of [ my child | me | me ] will be included in the library.
+With my permission, [ video/audio recordings or still images | self-reported health-related information ] of [ my child | me | me ] will be included in the library.
 
 ### Will the information be kept private?
 
@@ -28,17 +28,17 @@ Only authorized researchers have access to information in the library. Researche
 
 Information in the library will be preserved forever in a secure location. Databrary does not intend to erase the information. Databrary intends to store the information so that future researchers may be able to use it.
 
-If in the future I no longer wish to have [ my child’s | my | my ] [ video/audio recordings or still images | self-reported health information ] stored in the library, I will contact Databrary at ethics@databrary.org.
+If in the future I no longer wish to have [ my child’s | my | my ] [ video/audio recordings or still images | self-reported health-related information ] stored in the library, I will contact Databrary at ethics@databrary.org.
 
 ### Permissions
 
 #### Permission to share with authorized researchers
-☐ I give permission to share [ my child’s | my ] [ video/audio recordings or still images | self-reported health information ] with authorized researchers in a secure data library.
+☐ I give permission to share [ my child’s | my ] [ video/audio recordings or still images | self-reported health-related information ] with authorized researchers in a secure data library.
 
-#### Permission to share excerpts with the public
+[ #### Permission to share excerpts with the public
 ☐ I give permission for authorized researchers to select excerpts from  [ my child’s | my ] video/audio recordings or still images and to share excerpts with the public for scientific and/or educational purposes.
 
-I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts to share.
+I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts to share. | BLANK ]
 
 ### Payment
 
