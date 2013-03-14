@@ -10,41 +10,43 @@
 ---
 ### [People](id:People)
 
-#### [Authorized Researcher](id:Authorized Researcher)
+#### [Investigator(s)](id:Investigator)
 
 An individual eligible for principal investigator (PI) status at an [Institution](#Institution) who has received authorization from Databrary to view, download, and contribute data.
 
-#### [Sponsored Researcher](id:Sponsored Researcher)
+#### [Data Contributor(s)](id: Data Contributor)
 
-An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Authorized Researcher](#Authorized Researcher).
+An [Investigator](#Investigator) who contributes [Data](#Data) to Databrary.
 
-Suggestions to disambiguate from "Sponsored" research: Designated Researcher, Associate Researcher
+#### [Affiliate Investigator(s)](id:Affiliate Investigator)
+
+An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Investigator](#Investigator).
 
 #### [Research Staff](id:Research Staff)
 
-Persons authorized by the [Authorized Researcher](#Authorized Researcher)'s [Institution](#Institution), excluding the [Authorized Researcher](#Authorized Researcher) or any [Sponsored Researcher](#Sponsored Researcher) under the [Authorized Researcher](#Authorized Researcher)’s supervision, who will have access to [Data](#Data). [Research Staff](#Research Staff) include project staff or students conducting dissertation or thesis research.
+Persons authorized by the [Investigator](#Investigator)'s [Institution](#Institution), excluding the [Investigator](#Investigator) or any [Affiliate Investigator](#Affiliate Investigator) under the [Investigator](#Investigator)’s supervision, who will have access to [Data](#Data). [Research Staff](#Research Staff) include project staff or students conducting dissertation or thesis research.
 
-#### [Depicted Individual](id:Depicted Individual)
+#### [Depicted Individual(s)](id:Depicted Individual)
 
 A person depicted in [Recordings](#Recordings).
 
-#### [Research Participant](id:Research Participant)
+#### [Research Participant(s)](id:Research Participant)
 
-A person or organization observed for purposes of research.
+A person observed for purposes of research.
 
-#### [Third-Party User](id:Third Party User)
+#### [Third-Party User(s)](id:Third Party User)
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an [Authorized Researcher](#Authorized Researcher) or [Sponsored Researcher](#Sponsored Researcher) account.
+An individual who wishes to obtain access to Databrary, but has not yet been granted an [Investigator](#Investigator) or [Affiliate Investigator](#Affiliate Investigator) account.
 
-#### [Private Person](id:Private Person)
+#### [Private Person(s)](id:Private Person)
 
 Any individual (including an individual acting in his official capacity) and any private (i.e., non-government) partnership, corporation, association, organization, or entity (or any combination thereof), including family, household, school, neighborhood, health service, or institution. 
 
 #### [Representative of the Institution](id:Representative of the Institution)
 
-A person authorized to enter into contractual agreements on behalf of an [Authorized Researcher](#Authorized Researcher)'s [Institution](#Institution).
+A person authorized to enter into contractual agreements on behalf of an [Investigator](#Investigator)'s [Institution](#Institution).
 
-#### [Minor](id:Minor)
+#### [Minor(s)](id:Minor)
 
 A person under the age of 18.
 
@@ -52,41 +54,40 @@ A person under the age of 18.
 
 ### [Entities](id:Entities)
 
-#### [Research Supervision Entity](id:Research Supervision Entity)
+#### [Research Supervision Entity(ies)](id:Research Supervision Entity)
 
 An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an [Institution](#Institution).
 
-#### [Institution](id:Institution)
+#### [Institution(s)](id:Institution)
 
-The university or research organization at which the [Authorized Researcher](#Authorized Researcher) will conduct scientific activities, including research using [Data](#Data).
+The university or research organization at which the [Investigator](#Investigator) will conduct scientific activities, including research using [Data](#Data).
 
 ---
 
 ### [Documents](id:Documents)
 
-#### [Authorized/Sponsored Researcher Agreement](id:Researcher Agreement)
+#### [Authorized/Affiliate Investigator Agreement](id:Investigator Agreement)
 
-#### [Permission to Share Recordings](id:Permission to Share Recordings)
+Written or electronic agreement that sets out the rights and responsibilities of Authorized and Affiliate Investigators in their use of Databrary resources.
 
-Written or electronic documentation that an adult [Depicted Individual](#Depicted Individual) has given permission to allow [Recordings](#Recordings) to be shared.
+#### [Permission/Assent to Share Recordings](id:Permission to Share Recordings)
 
-#### [Assent to Share Recordings](id:Assent to Share Recordings)
+Written or electronic documentation that an adult or minor [Depicted Individual](#Depicted Individual) has given permission to allow [Recordings](#Recordings) to be shared.
 
-Assent given by a [Depicted Individual](#Depicted Individual) who is a minor that indicates willingness to allow [Recordings](#Recordings) to be shared.
-
-#### [Permission to Share Data](id:Permission to Share Data)
+#### [Permission/Asssent to Share (Data)](id:Permission to Share Data)
 
 Written or electronic documentation that an adult [Depicted Individual](#Depicted Individual) has given permission to allow [Identifiable Data](#Identifiable Data) to be shared.
 
-- May be superceded by other definitions.
+> May be superceded by other definitions.
 
-#### [Assent to Share Data](id:Assent to Share Data)
+#### Permission/Assent to Excerpt
 
-Assent given by a [Depicted Individual](#Depicted Individual) who is a [minor](#Minor) that indicates willingness to allow [Identifiable Data](#Identifiable Data) to be shared.
+Written or electronic permission or assent given by [Depicted Individuals](#Depicted Individuals) to allow [Investigators](#Investigator)s to show or distribute [Excerpts](#Excerpts) from [Recordings](#Recordings).  
 
-- May be superceded by other definitions.
 
-### [Permission to Share Health-Related Information](id:Permission to Share Health-Related)
+#### [Permission to Share Personally-Reported Health-Related Information](id:Permission to Share Health-Related)
+
+Written or electronic permission or assent to allow [De-identified](#De-identified Data) [Personally-Reported Health-Related Information](#HealthInfo) to be shared with Databrary.
 
 ---
 
@@ -106,7 +107,7 @@ Collections of information from which [Personally Identifying Information](#PII)
 
 #### [Recordings](id:Recordings)
 
-Video or audio recordings or still images.
+Video or audio recordings or still (photographic) images.
 
 #### [Personally Identifying Information (PII)](id:PII)
 
@@ -135,13 +136,17 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 Information that describes how, where, why, and by whom [Identifiable Data](#Identifiable Data), [De-Identified Data](#De-Identified Data) or [Non-Identifiable Data](#Non-Identifiable Data) were collected.
 
+#### [Personally-Reported Health-Related Information](#HealthInfo)
+
+Information about an individual or minor child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
+
 #### [Data](id:Data)
 
 Any [Identifiable Data](#Identifiable Data), [De-Identified Data](#De-Identified Data), Non-Identifiable Data or [Metadata](#Metadata).
-[Public Showing](#Public Showing)
+
 #### [Excerpts](id:Exerpts)
 
-An excerpt is a selection from a larger [recording](#Recordings) that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. [Authorized Researchers](#Authorized Researchers) or [Sponsored Researchers](#Sponsored Researchers) may select segments of a recording as an excerpt for display in public settings if the [Depicted Individuals](#Depicted Individuals) have granted sharing permission that includes [Public Showing](#Public Showing).
+An excerpt is a selection from a larger [recording](#Recordings) that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. [Investigators](#Investigators) or [Affiliate Investigators](#Affiliate Investigators) may select segments of a recording as an excerpt for display in public settings if the [Depicted Individuals](#Depicted Individuals) have granted sharing permission that includes [Public Showing](#Public Showing).
 
 #### [Digital Files](id:Digital Files)
 
@@ -153,8 +158,7 @@ Video or audio recordings or photographs stored in an electronic form that may b
 
 #### [Sharing Permission](id:Sharing Permission) (Level)
 
-Specific rights for sharing and public release granted by [Depicted Individuals](#Depicted Individuals) in a [Permission to Share Data](#Permission to Share Data) document.
-
+Specific rights for sharing and public release granted by [Depicted Individuals](#Depicted Individuals) in a [Permission to Share Data](#Permission to Share Data) document.Investigator
 #### [Access Permissions](id:Access Permissions) (Level)
 
 Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
@@ -171,3 +175,7 @@ The discerning of an individual's identity or confidential information through t
 #### [Public Showing](id:Public Showing)
 
 Playing an audio or video segment or showing a photograph to an audience that is not limited to [Research Staff](#Research Staff).
+
+#### Research
+
+A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. [45 CFR 46.102(d)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102)
