@@ -20,7 +20,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 ### Qualifications
 
-- Bachelor's in CS or other relevant field and 3+ years programming experience
+- Background in CS or other relevant field and 3+ years programming experience
 - Knowledge of modern MVC web development frameworks (Django, Rails, Lift, etc.)
 - Experience with Ajax and working knowledge of HTML5 and CSS3
 - Familiarity with standard UNIX development tools such as git
@@ -32,3 +32,4 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 - Experience creating RESTful interfaces for structured data
 - Knowledge of SQL or other database technologies
 - Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R
+- Comfortable with Agile software development methodologies

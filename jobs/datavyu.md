@@ -13,18 +13,19 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 ### Responsibilities
 
-- Enhancing and testing an existing desktop analysis tool.
-- Building data visualization, import, and export tools.
-- Identifying new feature priorities based on user feedback.
-- Providing customer support and training.
+- Enhance and test an existing desktop analysis tool.
+- Build data visualization, import, and export tools.
+- Identify new feature priorities based on user feedback.
+- Provide customer support and training.
 
 ### Qualifications
 
-- Prior development experience in Java, C/C++, and Ruby.
-- History of active contributions to open source projects.
-- Established track record of shipping reliable software products.
-- Experience developing cross-platform applications for Windows, OS X, and Linux.
+- Prior development experience in Java, C/C++, and Ruby
+- History of active contributions to open source projects
+- Established track record of shipping reliable software products
+- Experience developing cross-platform applications for Windows, OS X, and Linux
 
 #### Preferred
 
-- Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer.
+- Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer
+- Comfortable with Agile software development methodologies
