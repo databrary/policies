@@ -14,13 +14,13 @@
 
 An individual eligible for principal investigator (PI) status at an [Institution](#Institution) who has received authorization from Databrary to view, download, and contribute data.
 
-#### [Data Contributor(s)](id: Data Contributor)
-
-An [Investigator](#Investigator) who contributes [Data](#Data) to Databrary.
-
 #### [Affiliate Investigator(s)](id:Affiliate Investigator)
 
 An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Investigator](#Investigator).
+
+#### [Data Contributor(s)](id: Data Contributor)
+
+An [Investigator](#Investigator) or Affiliate Investigator who contributes [Data](#Data) to Databrary.
 
 #### [Research Staff](id:Research Staff)
 
@@ -66,9 +66,9 @@ The university or research organization at which the [Investigator](#Investigato
 
 ### [Documents](id:Documents)
 
-#### [Authorized/Affiliate Investigator Agreement](id:Investigator Agreement)
+#### [Databrary Investigator/Affiliate Investigator Agreement](id:Investigator Agreement)
 
-Written or electronic agreement that sets out the rights and responsibilities of Authorized and Affiliate Investigators in their use of Databrary resources.
+Written or electronic agreement that sets out the rights and responsibilities of Investigators and Affiliate Investigators in their use of Databrary resources.
 
 #### [Permission/Assent to Share Recordings](id:Permission to Share Recordings)
 
@@ -77,8 +77,6 @@ Written or electronic documentation that an adult or minor [Depicted Individual]
 #### [Permission/Asssent to Share (Data)](id:Permission to Share Data)
 
 Written or electronic documentation that an adult [Depicted Individual](#Depicted Individual) has given permission to allow [Identifiable Data](#Identifiable Data) to be shared.
-
-> May be superceded by other definitions.
 
 #### Permission/Assent to Excerpt
 
