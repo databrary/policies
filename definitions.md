@@ -83,9 +83,9 @@ Written or electronic documentation that an adult [Depicted Individual](#Depicte
 Written or electronic permission or assent given by [Depicted Individuals](#Depicted Individuals) to allow [Investigators](#Investigator)s to show or distribute [Excerpts](#Excerpts) from [Recordings](#Recordings).  
 
 
-#### [Permission to Share Personally-Reported Health-Related Information](id:Permission to Share Health-Related)
+#### [Permission to Share Self-Reported Health-Related Information](id:Permission to Share Health-Related)
 
-Written or electronic permission or assent to allow [De-identified](#De-identified Data) [Personally-Reported Health-Related Information](#HealthInfo) to be shared with Databrary.
+Written or electronic permission or assent to allow [De-identified](#De-identified Data) [Self-Reported Health-Related Information](#HealthInfo) to be shared with Databrary.
 
 ---
 
@@ -134,7 +134,7 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 Information that describes how, where, why, and by whom [Identifiable Data](#Identifiable Data), [De-Identified Data](#De-Identified Data) or [Non-Identifiable Data](#Non-Identifiable Data) were collected.
 
-#### [Personally-Reported Health-Related Information](#HealthInfo)
+#### [Self-Reported Health-Related Information](#HealthInfo)
 
 Information about an individual or minor child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
 
