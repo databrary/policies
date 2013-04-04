@@ -14,7 +14,7 @@
 
 An individual eligible for principal investigator (PI) status at an [Institution](#Institution) who has received authorization from Databrary to view, download, and contribute data.
 
-#### [Affiliate Investigator(s)](id:Affiliate Investigator)
+#### [Affiliate Investigator(s)](id:Affiliate Investigator) or Affiliate(s)
 
 An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Investigator](#Investigator).
 
