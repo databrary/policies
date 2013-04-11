@@ -52,7 +52,7 @@ A person under the age of 18.
 
 ---
 
-### Entities Entities
+### Entities
 
 #### Research Supervision Entity(ies)
 
@@ -149,6 +149,10 @@ An excerpt is a selection from a larger Recording that illustrates a particular 
 #### Digital Files
 
 Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not Research Staff over electronic networks like the Internet.
+
+#### Best Practices in Data Security
+
+Measures taken to shield digital information from unauthorized access and to preserve it for future authorized use. See Databrary [best practices](http://github.com/databrary/polices/best-practices.md) for examples.
 
 ---
 
