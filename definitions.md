@@ -1,113 +1,113 @@
 # Databrary
 
 ## Definitions
-- [People](#People)
-- [Entities](#Entities)
-- [Documents](#Documents)
-- [Data-types](#Data-types)
-- [Actions](#Actions)
+- People
+- Entities
+- Documents
+- Data-types
+- Actions
 
 ---
-### <a id="People">People</a>
+### People
 
-#### <a id="Investigator">Investigator(s)</a>
+#### Investigator(s)
 
-An individual eligible for principal investigator (PI) status at an [Institution](#Institution) who has received authorization from Databrary to view, download, and contribute data.
+An individual eligible for principal investigator (PI) status at an Institution Institution who has received authorization from Databrary to view, download, and contribute data.
 
-#### <a id="Affiliate_Investigator">Affiliate Investigator(s)</a> or Affiliate(s)
+#### Affiliate Investigator(s) or Affiliate(s)
 
-An individual who has been approved for access to Databrary under the sponsorship and supervision of an [Investigator](#Investigator).
+An individual who has been approved for access to Databrary under the sponsorship and supervision of an Investigator.
 
-#### <a id="Data_Contributor">Data Contributor(s)</a>
+#### Data Contributor(s)
 
-An [Investigator](#Investigator) or Affiliate Investigator who contributes [Data](#Data) to Databrary.
+An Investigator or Affiliate Investigator who contributes Data to Databrary.
 
-#### <a id="Research_Staff">Research Staff</a>
+#### Research Staff
 
-Persons authorized by the [Investigator](#Investigator)'s [Institution](#Institution), excluding the [Investigator](#Investigator) or any [Affiliate Investigator](#Affiliate_Investigator) under the [Investigator](#Investigator)’s supervision, who will have access to [Data](#Data). [Research Staff](#Research_Staff) include project staff or students conducting dissertation or thesis research.
+Persons authorized by the Investigator's Institution, excluding the Investigator or any Affiliate Investigator under the Investigator’s supervision, who will have access to Data. Research Staff include project staff or students conducting dissertation or thesis research.
 
-#### <a id="Depicted_Individual">Depicted Individual(s)</a>
+#### Depicted Individual(s) 
 
-A person depicted in [Recordings](#Recordings).
+A person depicted in Recordings.
 
-#### <a id="Research_Participant">Research Participant(s)</a>
+#### Research Participant(s)
 
 A person observed for purposes of research.
 
-#### <a id="Third_Party_User">Third-Party User(s)</a>
+#### Third-Party User(s)
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an [Investigator](#Investigator) or [Affiliate Investigator](#Affiliate_Investigator) account.
+An individual who wishes to obtain access to Databrary, but has not yet been granted an Investigator or Affiliate Investigator account.
 
-#### <a id="Private_Person">Private Person(s)</a>
+#### Private Person(s)
 
-Any individual (including an individual acting in his official capacity) and any private (i.e., non-government) partnership, corporation, association, organization, or entity (or any combination thereof), including family, household, school, neighborhood, health service, or institution. 
+Any individual (including an individual acting in his official capacity) and any private entity (i.e., non-government partnership, corporation, association, organization) or any combination thereof including family, household, school, neighborhood, health service, or institution. 
 
-#### <a id="Representative_of_the_Institution">Representative of the Institution</a>
+#### Representative of the Institution
 
-A person authorized to enter into contractual agreements on behalf of an [Investigator](#Investigator)'s [Institution](#Institution).
+A person authorized to enter into contractual agreements on behalf of an Investigator's Institution.
 
-#### <a id="Minor">Minor(s)</a>
+#### Minor(s)
 
 A person under the age of 18.
 
 ---
 
-### <a id="Entities">Entities</a>
+### Entities Entities
 
-#### <a id="Research_Supervision_Entity">Research Supervision Entity(ies)</a>
+#### Research Supervision Entity(ies)
 
-An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an [Institution](#Institution).
+An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an Institution.
 
-#### <a id="Institution">Institution(s)</a>
+#### Institution(s)
 
-The university or research organization at which the [Investigator](#Investigator) will conduct scientific activities, including research using [Data](#Data).
+The university or research organization at which the Investigator will conduct scientific activities, including research using Data.
 
 ---
 
-### <a id="Documents">Documents</a>
+### Documents Documents
 
-#### <a id="Investigator_Agreement">Databrary Investigator/Affiliate Investigator Agreement</a>
+#### Databrary Investigator/Affiliate Investigator Agreement
 
 Written or electronic agreement that sets out the rights and responsibilities of Investigators and Affiliate Investigators in their use of Databrary resources.
 
-#### <a id="Permission_to_Share_Recordings">Permission/Assent to Share Recordings</a>
+#### Permission/Assent to Share Recordings
 
-Written or electronic documentation that an adult or minor [Depicted Individual](#Depicted_Individual) has given permission to allow [Recordings](#Recordings) to be shared.
+Written or electronic documentation that an adult or minor Depicted Individual has given permission to allow Recordings to be shared.
 
-#### <a id="Permission_to_Share_Data">Permission/Asssent to Share (Data)</a>
+#### Permission/Asssent to Share Data
 
-Written or electronic documentation that an adult [Depicted Individual](#Depicted_Individual) has given permission to allow [Identifiable Data](#Identifiable_Data) to be shared.
+Written or electronic documentation that an adult Depicted_Individual has given permission to allow Identifiable Data to be shared.
 
 #### Permission/Assent to Excerpt
 
-Written or electronic permission or assent given by [Depicted Individuals](#Depicted_Individuals) to allow [Investigators](#Investigator)s to show or distribute [Excerpts](#Excerpts) from [Recordings](#Recordings).  
+Written or electronic permission or assent given by Depicted Individuals to allow Investigators to show or distribute Excerpts from Recordings.  
 
 
-#### <a id="Permission_to_Share_Health-Related">Permission to Share Self-Reported Health-Related Information</a>
+#### Permission to Share Self-Reported Health-Related Information
 
-Written or electronic permission or assent to allow [De-identified](#De-identified_Data) [Self-Reported Health-Related Information](#HealthInfo) to be shared with Databrary.
+Written or electronic permission or assent to allow De-identified Self-Reported Health-Related Information to be shared with Databrary.
 
 ---
 
-### <a id="Data-types">Data-types</a>
+### Data-types
 
-#### <a id="Identifiable_data">Identifiable Data</a>
+#### Identifiable Data
 
-Collections of [Personally Identifying Information](#PII) that might be used singly or in combination to determine the identity of [Research Participants](#Research_Participants) or other individuals depicted in [Recordings](#Recordings).
+Collections of PII that might be used singly or in combination to determine the identity of Research Participants or other individuals depicted in Recordings.
 
-#### <a id="Non-Identifiable_Data">Non-Identifiable Data</a>
+#### Non-Identifiable Data
 
-Collections of information that do not contain [Identifiable Data](#Identifiable_Data).
+Collections of information that do not contain Identifiable Data.
 
-#### <a id="De-identified_Data">De-identified Data</a>
+#### De-identified Data
 
-Collections of information from which [Personally Identifying Information](#PII) has been removed or altered in such a way as to prevent the identification of individual persons.
+Collections of information from which PII has been removed or altered in such a way as to prevent the identification of individual persons.
 
-#### <a id="Recordings">Recordings</a>
+#### Recordings
 
 Video or audio recordings or still (photographic) images.
 
-#### <a id="PII">Personally Identifying Information (PII)</a>
+#### Personally Identifying Information (PII)
 
 See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
@@ -126,53 +126,54 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 - Telephone number
 - Faces and voices.
 
-#### <a id="Shareable_Identificable_Data">Shareable Identifiable Data</a>
+#### Shareable Identifiable Data
 
-[Identifable data](#Identifiable_Data) for which a [Depicted Individual](#Depicted_Individual) has granted [Assent to Share Data](#Assent_to_Share_Data) or [Permission to Share Data](Permission to Share Data). 
+Identifiable Data for which a Depicted_Individual has granted Assent to Share Data or Permission to Share Data. 
 
-#### <a id="Metadata">Metadata</a>
+#### Metadata
 
-Information that describes how, where, why, and by whom [Identifiable Data](#Identifiable_Data), [De-Identified Data](#De-Identified_Data) or [Non-Identifiable Data](#Non-Identifiable_Data) were collected.
+Information that describes how, where, why, and by whom Identifiable Data, De-Identified Data or Non-Identifiable Data were collected.
 
-#### <a id="HealthInfo">Self-Reported Health-Related Information</a>
+#### Self-Reported Health-Related Information
 
 Information about an individual or minor child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
 
-#### <a id="Data">Data</a>
+#### Data
 
-Any [Identifiable Data](#Identifiable_Data), [De-Identified Data](#De-Identified_Data), Non-Identifiable Data or [Metadata](#Metadata).
+Any Identifiable Data, De-Identified_Data, Non-Identifiable Data or MetaData.
 
-#### <a id="Exerpts">Excerpts</a>
+#### Excerpts
 
-An excerpt is a selection from a larger [recording](#Recordings) that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. [Investigators](#Investigators) or [Affiliate Investigators](#Affiliate_Investigators) may select segments of a recording as an excerpt for display in public settings if the [Depicted Individuals](#Depicted_Individuals) have granted sharing permission that includes [Public Showing](#Public_Showing).
+An excerpt is a selection from a larger Recording that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Investigators or Affiliate Investigators may select segments of a recording as an excerpt for display in public settings if the Depicted Individuals have granted sharing permission that includes Public Showing.
 
-#### <a id="Digital_Files">Digital Files</a>
+#### Digital Files
 
-Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not [Research Staff](#Research_Staff) over electronic networks like the Internet.
+Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not Research Staff over electronic networks like the Internet.
 
 ---
 
-### <a id="Actions">Actions</a>
+### Actions
 
-#### <a id="Sharing_Permission">Sharing Permission</a> (Level)
+#### Sharing Permission (Level)
 
-Specific rights for sharing and public release granted by [Depicted Individuals](#Depicted_Individuals) in a [Permission to Share Data](#Permission_to_Share_Data) document.Investigator
-#### <a id="Access_Permissions">Access Permissions</a> (Level)
+Specific rights for sharing and public release granted by Depicted Individuals in a Permission to Share Data document.
+
+#### Access Permissions (Level)
 
 Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
-These are distinct from and may have more flexibility than [Sharing Permissions](#Sharing_Permission).
+These are distinct from and may have more flexibility than Sharing Permission.
 
-#### <a id="Promise_of_Confidentiality">Promise of Confidentiality</a>
+#### Promise of Confidentiality
 
-A promise to a respondent or [Research Participant](#Research_Participant) that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
+A promise to a respondent or Research Participant that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
 
-#### <a id="Deductive_Disclosure">Deductive Disclosure</a>
+#### Deductive Disclosure
 
 The discerning of an individual's identity or confidential information through the use of known characteristics of that individual. Disclosure risk is present if an unacceptably narrow estimation of an individual’s confidential information is possible or if determining the exact attributes of the individual is possible with a high level of confidence.
 
-#### <a id="Public_Showing">Public Showing</a>
+#### Public Showing
 
-Playing an audio or video segment or showing a photograph to an audience that is not limited to [Research Staff](#Research_Staff).
+Playing an audio or video segment or showing a photograph to an audience that is not limited to Research Staff.
 
 #### Research
 
