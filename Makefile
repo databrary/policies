@@ -35,3 +35,9 @@ databrary-permission-to-share-%.md: permission-to-share.md.m4
 
 databrary-permission-to-share-health-%.md: permission-to-share.md.m4
 	m4 -DTYPE=$* -DHEALTH $< > $@
+
+databrary-assent-to-share-child-script.md: assent-to-share-child-script.md.m4
+	m4 $< > $@
+
+databrary-assent-to-share-health-child-script.md: assent-to-share-child-script.md.m4
+	m4 -DHEALTH $< > $@

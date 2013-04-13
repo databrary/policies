@@ -1,4 +1,6 @@
+
 # Databrary
+
 ## Assent to Share Recordings Script for Children
 
 ### Spoken to child by Experimenter:
@@ -23,7 +25,7 @@ Child's Response: _________________
 
 *If you can read and write, and want to have your tapes stored in the library, you can check the box.*
 
-_ Yes, I would like to have my tapes stored in the library.
+[_] Yes, I would like to have my tapes stored in the library.
 
 *Would you like other people besides scientists working in the library to see parts of the tapes?*
 
@@ -33,14 +35,12 @@ Child's Response: _________________
 
 *If you can read and write, and you want to let other people see parts of the tapes, you can check the box.*
 
-_ Yes, I would like other people besides scientists working in the library to see parts of the tapes.
+[_] Yes, I would like other people besides scientists working in the library to see parts of the tapes.
 
 ### Signatures
 
-If you can read and write, sign your name here to show that you understand what we have talked about. 
+*If you can read and write, sign your name here to show that you understand what we have talked about.*
 
-Your signature: _________					Date: _________
+Your signature: 			____________________ Date: ________
 
-Researcher obtaining permission: _________	Date: _________
-
-
+Researcher obtaining permission: 	____________________ Date: ________
