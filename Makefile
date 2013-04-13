@@ -15,8 +15,9 @@ pdf: $(ALL:%=doc/%.pdf)
 docx: $(ALL:%=doc/%.docx)
 html: $(ALL:%=doc/%.html)
 
-ORIGFILE=$(if $(filter databrary-permission-to-share-%.md,$<),permission-to-share.md.m4,$<)
-GITDATE=$(shell git log -1 --pretty=format:%ad --date=short -- $(ORIGFILE))
+SRCFILE=$(if $(filter databrary-permission-to-share-%.md,$<),permission-to-share.md.m4, \
+	$(if $(filter databrary-assent-to-share-%child-script.md,$<),assent-to-share-child-script.md.m4,$<))
+GITDATE=$(shell git log -1 --pretty=format:%ad --date=short -- $(SRCFILE))
 PANDOCMD=pandoc -f markdown_github-hard_line_breaks -V author=Databrary -V date="$(GITDATE)" -V geometry="margin=1in"
 STAMP=ln -f $@ $(subst .,-$(GITDATE).,$@)
 
