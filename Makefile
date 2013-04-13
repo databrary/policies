@@ -31,14 +31,14 @@ doc/%.html: %.md
 	$(PANDOCMD) -o $@ $<
 	$(STAMP)
 
-databrary-permission-to-share-%.md: permission-to-share.md.m4
-	m4 -DTYPE=$* $< > $@
+databrary-permission-to-share-%.md: SHARE.m4 permission-to-share.md
+	m4 -DTYPE=$* $^ > $@
 
-databrary-permission-to-share-health-%.md: permission-to-share.md.m4
-	m4 -DTYPE=$* -DHEALTH $< > $@
+databrary-permission-to-share-health-%.md: SHARE.m4 permission-to-share.md
+	m4 -DTYPE=$* -DHEALTH $^ > $@
 
-databrary-assent-to-share-child-script.md: assent-to-share-child-script.md.m4
-	m4 $< > $@
+databrary-assent-to-share-%-script.md: SHARE.m4 assent-to-share-script.md
+	m4 -DTYPE=$* $^ > $@
 
-databrary-assent-to-share-health-child-script.md: assent-to-share-child-script.md.m4
-	m4 -DHEALTH $< > $@
+databrary-assent-to-share-health-%-script.md: SHARE.m4 assent-to-share-script.md
+	m4 -DTYPE=$* -DHEALTH $^ > $@
