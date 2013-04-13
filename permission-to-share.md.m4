@@ -47,12 +47,12 @@ If in the future you no longer wish to have your CHILDS HEALTH(health-related in
 
 #### Permission to share with authorized researchers
 
-_ I give permission to share my CHILDS HEALTH(self-reported health-related information,video/audio recordings or still images) with authorized researchers in a secure data library.
+> [_] I give permission to share my CHILDS HEALTH(self-reported health-related information,video/audio recordings or still images) with authorized researchers in a secure data library.
 
 HEALTH(,
 #### Permission to share excerpts with the public
 
-_ I give permission for authorized researchers to select excerpts from my CHILDS video/audio recordings or still images and to share excerpts with the public for scientific and/or educational purposes.
+> [_] I give permission for authorized researchers to select excerpts from my CHILDS video/audio recordings or still images and to share excerpts with the public for scientific and/or educational purposes.
 )
 
 I trust that authorized researchers will use professional judgment and uphold ethical principles in determining HEALTH(what health-related information,which excerpts) to share.
@@ -66,16 +66,16 @@ MINOR(You will not be paid,There will be no compensation to you CHILD(or to your
 My signature indicates that I understand this document and agree to what it says.
 
 ADULT(,
-CHILD(Child's,Your) name: 		________________)
+CHILD(Child's,Your) name: 		____________________)
 
 CHILD(,
-Your signature: 			________________ Date: ________)
+Your signature: 			____________________ Date: ________)
 
 ADULT(,
-Parent/Guardian's name: 		________________
+Parent/Guardian's name: 		____________________
 
-Parent/Guardian's signature: 		________________ Date: ________)
+Parent/Guardian's signature: 		____________________ Date: ________)
 
-Researcher obtaining permission: 	________________ Date: ________
-							
+Researcher obtaining permission: 	____________________ Date: ________
+
 We will give you a copy of this form for your records. If you have any questions about the data-sharing library, please send email to ethics@databrary.org. For questions about your rights as a research participant, you may contact [APPROPRIATE CONTACT FOR LOCAL INSTITUTION].
