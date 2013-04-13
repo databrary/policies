@@ -1,5 +1,14 @@
+dnl This file is used to automatically generate all the assent forms with:
+dnl    make md
+dnl It uses a conditional macro:
+dnl    HEALTH(text for health release[,text for recordings])
+dnl If the text contains a comma, you must enclose it in `quotes'
+dnl Single quotes inside quoted text must be unquoted:  `a''`b' => a'b
+dnl
+dnl DO NOT CHANGE ANYTHING IN THIS SECTION
 changecom()dnl
 define(`HEALTH',ifdef(`HEALTH',`$1',`$2'))dnl
+dnl DO NOT CHANGE ANYTHING ABOVE THIS LINE
 
 # Databrary
 

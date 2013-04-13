@@ -1,3 +1,15 @@
+dnl This file is used to automatically generate all the permission forms with:
+dnl    make md
+dnl It uses some conditional macros:
+dnl    HEALTH(text for health release[,text for recordings])
+dnl    ADULT(text for adult[,text for minor/child])
+dnl    MINOR(text for minor[,text for adult/child])
+dnl    CHILD(text for child[,text for adult/minor])
+dnl    PICK(text for adult,text for minor,text for child)
+dnl If the text contains a comma, you must enclose it in `quotes'
+dnl Single quotes inside quoted text must be unquoted:  `a''`b' => a'b
+dnl
+dnl DO NOT CHANGE ANYTHING IN THIS SECTION
 changecom()dnl
 define(`PICK',dnl
 ifelse(dnl
@@ -13,6 +25,7 @@ define(`MINOR',PICK(`$2',`$1',`$2'))dnl
 define(`CHILD',PICK(`$2',`$2',`$1'))dnl
 define(`CHILDS',CHILD(child's))dnl
 define(`HEALTH',ifdef(`HEALTH',`$1',`$2'))dnl
+dnl DO NOT CHANGE ANYTHING ABOVE THIS LINE
 
 # Databrary
 ## Permission to Share HEALTH(Self-Reported Health-Related Information,Recordings) ADULT(,HEALTH(About,of) PICK(Adults,Minors 12-17 Years of Age,Child))
