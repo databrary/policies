@@ -22,3 +22,9 @@ doc/%.docx: %.md
 doc/%.html: %.md
 	$(PANDOCMD) -o $@ $<
 	$(STAMP)
+
+databrary-permission-to-share-%.md: permission-to-share.md.m4
+	m4 -DTYPE=$* $< > $@
+
+databrary-permission-to-share-health-%.md:
+	true

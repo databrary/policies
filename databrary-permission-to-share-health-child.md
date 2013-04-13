@@ -4,7 +4,7 @@
 ### Overview
 This form requests permission to include self-reported health-related information about your child in a secure data library on the Internet (Databrary.org). The library allows authorized researchers to share data. Data sharing will help researchers to learn more and will lead to faster progress in our understanding of human development.
 
-Giving permission to share is entirely separate from giving consent to participate in a research study. You do not have to give permission to share your child’s health-related information in the library. Your choice will not affect your receipt of payment if offered for your child's participation in this or future studies.
+Giving permission to share is entirely separate from giving consent to participate in a research study. You do not have to give permission to share your child's health-related information in the library. Your choice will not affect your receipt of payment if offered for your child's participation in this or future studies.
 
 ### What will be shared?
 With your permission, we will include self-reported health-related information about your child in the library.
