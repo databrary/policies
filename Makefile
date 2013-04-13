@@ -1,3 +1,5 @@
+all: pdf docx
+
 ALL=\
     sops \
     investigator-agmt \
@@ -8,11 +10,15 @@ ALL=\
 	    databrary-assent-to-$(share)-child-script \
     )
 
-all: $(foreach d,$(ALL),doc/$(d).pdf doc/$(d).docx)
+md: $(ALL:=.md)
+pdf: $(ALL:%=doc/%.pdf)
+docx: $(ALL:%=doc/%.docx)
+html: $(ALL:%=doc/%.html)
 
 PANDOCMD=pandoc -f markdown_github-hard_line_breaks
 GITDATE=git log --date=short --pretty=format:%ad -1 --
-STAMP=ln -f $@ $(subst .,-$(shell $(GITDATE) $<).,$@)
+STAMP=ln -f $@ $(subst .,-$(shell $(GITDATE) $(if $(filter databrary-permission-to-share-%.md,$<),permission-to-share.md.m4,$<)).,$@)
+
 doc/%.pdf: %.md
 	$(PANDOCMD) -o $@ $<
 	$(STAMP)
