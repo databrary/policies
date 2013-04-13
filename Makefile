@@ -26,5 +26,5 @@ doc/%.html: %.md
 databrary-permission-to-share-%.md: permission-to-share.md.m4
 	m4 -DTYPE=$* $< > $@
 
-databrary-permission-to-share-health-%.md:
-	true
+databrary-permission-to-share-health-%.md: permission-to-share.md.m4
+	m4 -DTYPE=$* -DHEALTH $< > $@
