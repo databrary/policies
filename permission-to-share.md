@@ -1,6 +1,6 @@
 # Databrary
 
-## Permission to Share HEALTH(Self-Reported Health-Related Information,Recordings) ADULT(,HEALTH(About,of) PICK(Adults,Minors 12-17 Years of Age,Child))
+## Permission to Share HEALTH(Self-Reported Health-Related Information,Recordings) ADULT(,HEALTH(About,of) PICK(Adult,Minor 12-17 Years of Age,Child))
 
 ### Overview
 
@@ -24,8 +24,9 @@ Only authorized researchers have access to information in the library. Researche
 
 ### How long will information remain in the library?
 
-Information in the library will be preserved MINOR(forever,indefinitely) in a secure location. We do not intend to MINOR(erase,delete) the information. We intend to store the information so that future researchers may be able to use it.
+Information in the library will be preserved indefinitely in a secure location. We do not intend to delete the information. We intend to store the information so that future researchers may be able to use it.
 
+dnl XXX how does this work?
 If in the future you no longer wish to have your CHILDS HEALTH(health-related information,video/audio recordings or still images) stored in the library, please contact Databrary at ethics@databrary.org.
 
 ### Permission`'HEALTH(,s)
