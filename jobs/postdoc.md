@@ -1,10 +1,10 @@
-# Postdoctoral Fellow
+# Postdoctoral Fellow in Open Science/Big Data/Informatics
 
 Institute of Human Development and Social Change, NYU
 
 ### Summary
 
-The Databrary project, in coordination with the Department of Psychology and Digital Library Services at NYU, seeks a cross-disciplinary postdoctoral fellow looking to expand their knowledge of research methods and technology practices in science and industry.
+The Databrary project, in coordination with the Department of Psychology and Digital Library Services at NYU, seeks a cross-disciplinary postdoctoral fellow who seeks expanded knowledge of research methods and technology practices in science and industry.
 You will participate in design, development, and deployment of technology to support collaboration, exploration, and analysis of open research datasets.
 
 Databrary (databrary.org) is a web-based data library where scientists who collect and analyze video will store and share their data openly with other researchers.
@@ -16,6 +16,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 - Design new approaches for structuring, presenting, and sharing research data.
 - Work with a small team of software developers to build web, mobile, and desktop software tools to manage, analyze, and visualize data.
 - Engage with researchers within and beyond the fields of developmental psychology, library science, and computer vision to collect, organize, and repurpose data.
+- Prepare and publish academic articles covering innovations, discoveries, or uses associated with the data library.
 
 ### Qualifications
 
