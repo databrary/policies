@@ -1,4 +1,4 @@
-# Web Developer
+# Software Developer
 
 Institute of Human Development and Social Change, NYU
 
@@ -29,6 +29,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 #### Preferred
 
 - History of contributions to open source projects
+- Familiarity with scala and play
 - Experience creating RESTful interfaces for structured data
 - Knowledge of SQL or other database technologies
 - Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R
