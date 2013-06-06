@@ -5,7 +5,7 @@ Institute of Human Development and Social Change, NYU
 ### Summary
 
 The Databrary project seeks a motivated and flexible developer to help build a web-based data library.
-You will work with users and other developers to design and build the front end UI and tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
+You will work with users and other developers to design and build the front end UI and back end tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
 
 Databrary (databrary.org) is a web-based data library where scientists who collect and analyze video will store and share their data openly with other researchers.
 Databrary's leaders, based at New York University and Penn State, have been funded by the U.S. National Science Foundation (NSF) and the National Institutes of Health (NIH) to create the Databrary data library, improve an existing free, cross-platform video coding and analysis tool (datavyu.org), and build a desktop lab/data management tool to make data sharing easy and convenient.
@@ -13,8 +13,8 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 ### Responsibilities
 
-- Implement dynamic and modular web application to present and manipulate research materials.
-- Create, test, and validate interface (UX and UI) designs using rapid visual prototyping techniques.
+- Implement dynamic and modular web application to organize, present, and manipulate research materials.
+- Design, implement, test, and validate web framework controllers.
 - Directly work with researchers (users) to identify and prioritize new features.
 - Learn, understand, and reorganize research data as needed for better integration with the site.
 
@@ -29,7 +29,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 #### Preferred
 
 - History of contributions to open source projects
-- Familiarity with scala and play
+- Familiarity with Scala and Play Framework
 - Experience creating RESTful interfaces for structured data
 - Knowledge of SQL or other database technologies
 - Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R
