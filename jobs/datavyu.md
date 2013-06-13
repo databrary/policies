@@ -4,7 +4,7 @@ Institute of Human Development and Social Change, NYU
 
 ### Summary
 
-The Databrary project seeks a creative and productive developer to enhance an open source multi-platform desktop video data analysis application (datavyu.org).
+The Databrary project seeks a creative and productive developer to enhance an open source multi-platform video data analysis application (datavyu.org).
 
 Databrary (databrary.org) is a web-based data library where scientists who collect and analyze video will store and share their data openly with other researchers.
 Databrary's leaders, based at New York University and Penn State, have been funded by the U.S. National Science Foundation (NSF) and the National Institutes of Health (NIH) to create the Databrary data library, improve an existing free, cross-platform video coding and analysis tool (datavyu.org), and build a desktop lab/data management tool to make data sharing easy and convenient.

@@ -4,7 +4,7 @@ Institute of Human Development and Social Change, NYU
 
 ### Summary
 
-The Databrary project seeks a creative and flexible QA engineer to test and enhance an open source multi-platform desktop video data analysis application (datavyu.org).
+The Databrary project seeks a creative and flexible quality assurance engineer to test and enhance an open source multi-platform video data analysis application (datavyu.org).
 You would provide an interface between developers and academic users, with many opportunities to employ and expand your Java and Ruby programming skills.
 
 Databrary (databrary.org) is a web-based data library where scientists who collect and analyze video will store and share their data openly with other researchers.
@@ -15,7 +15,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 - Learn the use and structure of a Java scientific video analysis tool and Ruby-based scripting language.
 - Perform research analysis tasks to identify and diagnose problems with the tool.
-- Work with users to understand existing work flows, provide support and training, and capture issues and feature requests in bug reports
+- Work with users to understand existing work flows, provide support and training, and capture issues and feature requests in bug reports.
 - Provide minor Java fixes and enhancements, and work with other developers to explain and implement larger projects.
 
 ### Qualifications

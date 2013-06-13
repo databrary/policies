@@ -4,8 +4,8 @@ Institute of Human Development and Social Change, NYU
 
 ### Summary
 
-The Databrary project seeks a motivated and flexible functional programmer to help design and build an open source web-based video library.
-You will work with users and other developers to design and build tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
+The Databrary project seeks a motivated and flexible functional programmer to help create an open source web-based video library from scratch.
+You will work with users, librarians, and a small team of developers to design and build tools to enable behavioral researchers to collaborate, store, explore, and access research datasets.
 
 Databrary (databrary.org) is a web-based data library where scientists who collect and analyze video will store and share their data openly with other researchers.
 Databrary's leaders, based at New York University and Penn State, have been funded by the U.S. National Science Foundation (NSF) and the National Institutes of Health (NIH) to create the Databrary data library, improve an existing free, cross-platform video coding and analysis tool (datavyu.org), and build a desktop lab/data management tool to make data sharing easy and convenient.
