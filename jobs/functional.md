@@ -14,13 +14,13 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 ### Responsibilities
 
 - Build dynamic and modular web application to organize, present, and manipulate research materials.
-- Design, implement, test, and validate data management and web-based tools in Scala and/or Haskell.
+- Design, implement, test, and validate data management and web-based tools in Scala, Haskell, or OCaml.
 - Directly work with researchers (users) to identify and prioritize new features.
 - Learn, understand, and reorganize research data as needed for better integration with the site.
 
 ### Qualifications
 
-- Background in CS or other relevant field and functional programming experience (OCaml, Haskell, Scala, etc.)
+- Background in CS or other relevant field and functional programming experience in OCaml, Haskell, or Scala
 - Knowledge of modern web, SQL, and NoSQL technologies
 - Familiarity with standard UNIX development tools such as git
 - Understanding of security and ethical concerns around sensitive data
@@ -28,7 +28,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 #### Preferred
 
 - History of contributions to open source projects
-- Familiarity with Play, Snap, or other web framework
+- Familiarity with Play, Snap, Ocsigen or other web framework
 - Experience creating RESTful interfaces for structured data
 - Basic understanding of scientific practices and research tools, such as Matlab, SPSS, or R
 - Comfortable with Agile software development methodologies
