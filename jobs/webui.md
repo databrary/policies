@@ -26,10 +26,10 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 - Proficiency with vector graphics design and image editing tools such as Illustrator, Inkscape, etc.
 - Understanding of layout, typography, color and other design principles
 - Knowledge of HTML5 and CSS3 with an ability to implement designs using these technologies
+- Experience with JavaScript, JQuery, CoffeeScript, Ajax, JSON, and similar technologies
 
 #### Preferred
 
-- Knowledge of JavaScript, JQuery, CoffeeScript, or similar technologies.
 - Familiarity with UNIX development tools such as git
 - Experience interfacing with web frameworks such as Rails, Django, or PHP
 - Comfortable with Agile software development methodologies
