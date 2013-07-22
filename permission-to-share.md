@@ -33,13 +33,16 @@ If in the future you no longer wish to have your CHILDS HEALTH(health-related in
 
 #### Permission to share with authorized researchers
 
-> [_] I give permission to share my CHILDS HEALTH(self-reported health-related information,video/audio recordings or still images) with authorized researchers in a secure data library.
+> I give permission to share my CHILDS HEALTH(self-reported health-related information,the material from this session) with authorized researchers in a secure data library.
+> [_] Yes
+> [_] No
 
 HEALTH(,
 #### Permission to share excerpts with the public
 
-> [_] I give permission for authorized researchers to select excerpts from my CHILDS video/audio recordings or still images and to share excerpts with the public for scientific and/or educational purposes.
-)
+> I give permission for authorized researchers to select excerpts from my CHILDS video/audio recordings or still images and to share excerpts with the public for scientific and/or educational purposes.
+> [_] Yes
+> [_] No)
 
 I trust that authorized researchers will use professional judgment and uphold ethical principles in determining HEALTH(what health-related information,which excerpts) to share.
 
