@@ -1,4 +1,4 @@
-# Java Developer
+# Desktop Data Analysis Developer
 
 Databrary
 
@@ -21,7 +21,7 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 ### Qualifications
 
-- Prior development experience in Java, C/C++, and Ruby
+- Prior GUI development experience in Java, C/C++, and Ruby
 - History of active contributions to open source projects
 - Established track record of shipping reliable software products
 - Experience developing cross-platform applications for Windows, OS X, and Linux
@@ -31,4 +31,4 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 - 3-5 years of software development experience
 - Familiarity with standard UNIX development tools such as git
 - Experience with video playback/transcoding tools such as FFmpeg, VLC, and gstreamer
-- Comfortable with Agile software development methodologies
+- Basic knowledge of statistics using R, MATLAB, or SPSS
