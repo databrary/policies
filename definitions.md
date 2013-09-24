@@ -150,7 +150,7 @@ Any *Identifiable Data*, *De-Identified Data*, *Non-Identifiable Data* or *Metad
 
 ### Contributed Data
 
-Any *Data* that an *Investigator* has contributed to Databrary and permitted Databrary to share with others.
+Any *Data* that a *Data Contributor* has contributed to Databrary and permitted Databrary to share with others.
 
 #### Excerpts
 
