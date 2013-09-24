@@ -148,6 +148,10 @@ Information about an individual or *Minor* child's health status that is reporte
 
 Any *Identifiable Data*, *De-Identified Data*, *Non-Identifiable Data* or *Metadata*.
 
+### Contributed Data
+
+Any *Data* that an *Investigator* has contributed to Databrary and permitted Databrary to share with others.
+
 #### Excerpts
 
 An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Investigators or Affiliate Investigators may select segments of a recording as an excerpt for display in public settings if the Depicted Individuals have granted sharing permission that includes Public Showing.
