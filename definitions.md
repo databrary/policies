@@ -12,31 +12,31 @@
 
 #### Investigator(s)
 
-An individual eligible for principal investigator (PI) status at an Institution Institution who has received authorization from Databrary to view, download, and contribute data.
+An individual eligible for principal investigator (PI) status at an *Institution* who has received authorization from Databrary to view, download, and contribute *Data*.
 
 #### Affiliate Investigator(s) or Affiliate(s)
 
-An individual who has been approved for access to Databrary under the sponsorship and supervision of an Investigator.
+An individual who has been approved for access to Databrary under the sponsorship and supervision of an *Investigator*.
 
 #### Data Contributor(s)
 
-An Investigator or Affiliate Investigator who contributes Data to Databrary.
+An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrary.
 
 #### Research Staff
 
-Persons authorized by the Investigator's Institution, excluding the Investigator or any Affiliate Investigator under the Investigator’s supervision, who will have access to Data. Research Staff include project staff or students conducting dissertation or thesis research.
+Persons authorized by the *Investigator's* *Institution*, excluding the *Investigator* or any *Affiliate Investigator* under the Investigator’s supervision, who will have access to Data. Research Staff include project staff or students conducting dissertation or thesis research.
 
 #### Depicted Individual(s) 
 
-A person depicted in Recordings.
+A person depicted in *Recordings*.
 
 #### Research Participant(s)
 
-A person observed for purposes of research.
+A person observed for purposes of *Research*.
 
 #### Third-Party User(s)
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an Investigator or Affiliate Investigator account.
+An individual who wishes to obtain access to Databrary, but has not yet been granted an *Investigator* or *Affiliate Investigator* account.
 
 #### Private Person(s)
 
@@ -44,7 +44,7 @@ Any individual (including an individual acting in his official capacity) and any
 
 #### Representative of the Institution
 
-A person authorized to enter into contractual agreements on behalf of an Investigator's Institution.
+A person authorized to enter into contractual agreements on behalf of an *Investigator's* *Institution*.
 
 #### Minor(s)
 
@@ -56,36 +56,35 @@ A person under the age of 18.
 
 #### Research Supervision Entity(ies)
 
-An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an Institution.
+An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an *Institution*.
 
 #### Institution(s)
 
-The university or research organization at which the Investigator will conduct scientific activities, including research using Data.
+The university or research organization at which the *Investigator* will conduct scientific activities, including *Research* using *Data*.
 
 ---
 
-### Documents Documents
+### Documents
 
 #### Databrary Investigator/Affiliate Investigator Agreement
 
-Written or electronic agreement that sets out the rights and responsibilities of Investigators and Affiliate Investigators in their use of Databrary resources.
+Written or electronic agreement that sets out the rights and responsibilities of *Investigators* and *Affiliate Investigators* in their use of Databrary resources.
 
 #### Permission/Assent to Share Recordings
 
-Written or electronic documentation that an adult or minor Depicted Individual has given permission to allow Recordings to be shared.
+Written or electronic documentation that an adult or *Minor* *Depicted Individual* has given permission/assent to allow *Recordings* to be shared.
 
 #### Permission/Asssent to Share Data
 
-Written or electronic documentation that an adult Depicted_Individual has given permission to allow Identifiable Data to be shared.
+Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Identifiable Data* to be shared.
 
 #### Permission/Assent to Excerpt
 
-Written or electronic permission or assent given by Depicted Individuals to allow Investigators to show or distribute Excerpts from Recordings.  
-
+Written or electronic permission or assent given by Depicted Individuals to allow *Investigators* to show or distribute *Excerpts* from *Recordings*.  
 
 #### Permission to Share Self-Reported Health-Related Information
 
-Written or electronic permission or assent to allow De-identified Self-Reported Health-Related Information to be shared with Databrary.
+Written or electronic permission or assent to allow *De-identified* *Self-Reported Health-Related Information* to be shared with Databrary.
 
 ---
 
@@ -93,15 +92,15 @@ Written or electronic permission or assent to allow De-identified Self-Reported 
 
 #### Identifiable Data
 
-Collections of PII that might be used singly or in combination to determine the identity of Research Participants or other individuals depicted in Recordings.
+Collections of *PII* that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
 
 #### Non-Identifiable Data
 
-Collections of information that do not contain Identifiable Data.
+Collections of information that do not contain *Identifiable Data*.
 
 #### De-identified Data
 
-Collections of information from which PII has been removed or altered in such a way as to prevent the identification of individual persons.
+Collections of information from which *PII* has been removed or altered in such a way as to prevent the identification of individual persons.
 
 #### Recordings
 
@@ -128,27 +127,27 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 #### Shareable Identifiable Data
 
-Identifiable Data for which a Depicted_Individual has granted Assent to Share Data or Permission to Share Data. 
+*Identifiable Data* for which a *Depicted Individual* has granted *Assent to Share Data* or *Permission to Share Data*. 
 
 #### Metadata
 
-Information that describes how, where, why, and by whom Identifiable Data, De-Identified Data or Non-Identifiable Data were collected.
+Information that describes how, where, why, and by whom *Identifiable Data*, *De-Identified Data* or *Non-Identifiable Data* were collected.
 
 #### Self-Reported Health-Related Information
 
-Information about an individual or minor child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
+Information about an individual or *Minor* child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
 
 #### Data
 
-Any Identifiable Data, De-Identified_Data, Non-Identifiable Data or MetaData.
+Any *Identifiable Data*, *De-Identified Data*, *Non-Identifiable Data* or *Metadata*.
 
 #### Excerpts
 
-An excerpt is a selection from a larger Recording that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Investigators or Affiliate Investigators may select segments of a recording as an excerpt for display in public settings if the Depicted Individuals have granted sharing permission that includes Public Showing.
+An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Investigators or Affiliate Investigators may select segments of a recording as an excerpt for display in public settings if the Depicted Individuals have granted sharing permission that includes Public Showing.
 
 #### Digital Files
 
-Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not Research Staff over electronic networks like the Internet.
+Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not *Research Staff* over electronic networks like the Internet.
 
 #### Best Practices in Data Security
 
@@ -158,18 +157,22 @@ Measures taken to shield digital information from unauthorized access and to pre
 
 ### Actions
 
-#### Sharing Permission (Level)
+#### Permission/Consent, Sharing Permission/Consent (Level)
 
-Specific rights for sharing and public release granted by Depicted Individuals in a Permission to Share Data document.
+Specific rights for sharing and public release granted by *Depicted Individuals* in a *Permission to Share Data* document.
 
 #### Access Permissions (Level)
 
 Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
 These are distinct from and may have more flexibility than Sharing Permission.
 
+#### Authorization, User/Investigator Authorizationd (Level)
+
+Privileges granted to individuals to access Databrary.
+
 #### Promise of Confidentiality
 
-A promise to a respondent or Research Participant that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
+A promise to a respondent or *Research Participant* that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
 
 #### Deductive Disclosure
 
@@ -177,7 +180,7 @@ The discerning of an individual's identity or confidential information through t
 
 #### Public Showing
 
-Playing an audio or video segment or showing a photograph to an audience that is not limited to Research Staff.
+Playing an audio or video segment or showing a photograph to an audience that is not limited to *Research Staff*.
 
 #### Research
 
