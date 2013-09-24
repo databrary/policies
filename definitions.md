@@ -192,3 +192,7 @@ Playing an audio or video segment or showing a photograph to an audience that is
 #### Research
 
 A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. [45 CFR 46.102(d)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102)
+
+#### Non-Research, Non-Research Activities, Non-Research Scientific Activities
+
+Work by *Investigators* or *Affiliate Investigators* involving *Data* that falls outside the scope of *Research*, but respects research ethics principles.
