@@ -15,15 +15,15 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 
 ### Responsibilities
 
-- Work with a small team to implement web APIs and data management tools.
-- Design, implement, test, and validate data management and web framework controllers in Scala.
-- Learn, understand, and reorganize research data as needed for better integration with the site.
+- Work with a small team to implement search and data management tools and web APIs.
+- Design, implement, test, and validate web framework controllers in Scala.
+- Learn, understand, reorganize, and index research data as needed for better integration with the site.
 - Implement dynamic and modular web application to organize, present, and manipulate research materials.
 
 ### Qualifications
 
 - Background in CS or other relevant field and functional programming experience in OCaml, Haskell, Scala, or Clojure
-- Knowledge of modern relational database, video, and web technologies such as PostgreSQL, ffmpeg, and play
+- Knowledge of modern relational database, indexing, video, and web technologies such as PostgreSQL, solr, ffmpeg, and play
 - Understanding of security and ethical concerns around sensitive data
 - Familiarity with standard UNIX development tools such as git
 
