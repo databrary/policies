@@ -16,14 +16,14 @@ The goal is to accelerate the pace of discovery in psychology and developmental 
 ### Responsibilities
 
 - Learn, maintain, and help phase out an existing Java desktop analysis tool.
-- Interact with user to understand its current research uses and limitations.
+- Interact with users to understand its current research uses and limitations.
 - Design a new web-based implementation using modern technologies.
 - Work with a small team to implement front-end interface, API, and back-end data storage.
 - Build future enhancements including data visualization, import and export, and integration with data sharing.
 
 ### Qualifications
 
-- Bread interest in a diverse set of technologies, including Scala/FP, C/C++, Python/Ruby, Java, SQL, NoSQL, and GUI development
+- Broad interest in a diverse set of technologies, including Scala/FP, C/C++, Python/Ruby, Java, SQL, NoSQL, and GUI development
 - Working knowledge of HTML5/JS, Ajax/RESTful interfaces, modern MVC web frameworks
 - Familiarity with standard UNIX development tools such as git
 - An eagerness to architect new designs from scratch as well as a willingness to dive into an existing code base
