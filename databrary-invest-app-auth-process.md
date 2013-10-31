@@ -6,7 +6,6 @@
 1. Unauthorized/Unregistered User visits databrary.org/apply
 
 1. User completes web application with the following information:
-
 	- Mandatory:
 		- Full name: 
 			- Rick Owen Gilmore
@@ -28,7 +27,6 @@
 		- If Affilate Investigator
 			- Name of "Sponsoring" Investigator
 			- Email of "Sponsoring" Investigator
-
 	- Optional:
 		- Highest degree:
 			- Ph.D.
