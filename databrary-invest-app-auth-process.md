@@ -1,6 +1,8 @@
 # Databrary
 ## Investigator, Affiliate Investigator Application Process
 
+### Steps
+
 1. Unauthorized/Unregistered User visits databrary.org/apply
 
 1. User completes web application with the following information:
