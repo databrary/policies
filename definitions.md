@@ -154,7 +154,7 @@ Any *Data* that a *Data Contributor* has contributed to Databrary and permitted 
 
 #### Excerpts
 
-An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length. Investigators or Affiliate Investigators may select segments of a recording as an excerpt for display in public settings if the Depicted Individuals have granted sharing permission that includes Public Showing.
+An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length, substantially less than the full length of a *Recording*. *Investigators* or *Affiliate Investigators* may select segments of a recording as an *Excerpt* for display in public settings if the *Depicted Individuals* have granted appropriate sharing permission. 
 
 #### Digital Files
 
@@ -172,12 +172,26 @@ Measures taken to shield digital information from unauthorized access and to pre
 
 Specific rights for sharing and public release granted by *Depicted Individuals* in a *Permission to Share Data* document.
 
+Databrary currently supports four (4) levels of *Sharing Permission*:
+
+1. **No-sharing (Private)**
+	- Databrary may store *Recordings* or *Self-Reported Health-Related Information* but not share them beyond the set of *Investigators* who are part of the *Data Contributor*’s approved research team under an existing research protocol approved by a *Research Supervision Entity*. The full responsibility for identifying who constitutes the set of researchers allowed access in this case is the *Data Contributor’s*.
+
+2. **Sharing with Databrary *Investigators* and *Affiliate Investigators* (Shared)**
+	- *Data* may be shared with other Databrary *Investigators* or *Affiliate Investigators*, but no *Recordings* or *Excerpts* may be shown in public.
+
+3. **Sharing and Public Excerpts Permitted (Excerptable)**
+	- *Data* may be shared with other Databrary *Investigators* or *Affiliate Investigators*. *Excerpts* may be selected by an *Investigator* and may be presented in public settings -— in classrooms, at scientific or technical meetings —- and may be published in the media, in textbooks, scientific publications, or on the Internet as long as no *Personally Identifying Information* about a *Depicted Person* is included with the *Excerpt*.
+
+4. **Public**
+	- *Data*, including recordings, may be shared openly with the *Public*.
+
 #### Access Permissions (Level)
 
 Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
 These are distinct from and may have more flexibility than Sharing Permission.
 
-#### Authorization, User/Investigator Authorizationd (Level)
+#### Authorization, User/Investigator Authorization (Level)
 
 Privileges granted to individuals to access Databrary.
 
