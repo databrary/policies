@@ -37,7 +37,7 @@ Data security evolves. This document represents a set of best practices that Dat
 - Do not write your password down.
 - Do not store your password in an unencrypted file on your computer.
 - Change your password at least every 6 months.
-- Some experts recommend using a password manager.
+- Some experts recommend using a password manager/generator.
 
 ## Computers Used to Access and Download Databrary files
 
