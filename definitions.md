@@ -158,7 +158,7 @@ Any *Data* that a *Data Contributor* has contributed to Databrary and permitted 
 
 #### Excerpts
 
-An excerpt is a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length, substantially less than the full length of a *Recording*. *Investigators* or *Affiliate Investigators* may select segments of a recording as an *Excerpt* for display in public settings if the *Depicted Individuals* have granted appropriate sharing permission. 
+An excerpt is a still frame or a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length, substantially less than the full length of a *Recording*. *Investigators* or *Affiliate Investigators* may select segments of a recording as an *Excerpt* for display in public settings if the *Depicted Individuals* have granted appropriate sharing permission. 
 
 #### Digital Files
 
