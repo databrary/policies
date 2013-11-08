@@ -75,7 +75,7 @@ Databrary encourages researchers to share the products of their scientific work,
 
 ### 6.	Rights and Responsibilities of *Institutions*
 
-My *Institution* verifies that I am eligible to apply for Databrary authorization. My *Institution* maintains a *Research Supervision Entity* that oversees my scientific activities and validates my research ethics training. My Institution asserts that I have rights to share with Databrary any *Data* I contribute; no other entity or individual has ownership rights that prevent me from contributing *Data* to Databrary. 
+My *Institution* verifies that I am eligible to apply for Databrary authorization. My *Institution* maintains a *Research Supervision Entity* that oversees my scientific activities and validates my research ethics training. My *Institution* asserts that I have rights to share with Databrary any *Data* I contribute; no other entity or individual has ownership rights that prevent me from contributing *Data* to Databrary. My *Institution* grants me authority to decide with whom I wish to share *Data* I contribute. If I share *Data* with *Research Staff* or *Collaborators* who are not authorized Databrary *Investigators* or *Affiliate Investigators*, my *Institution* holds me responsible for their use of the *Data*.
 
 ### 7.	Databrary Rights and Responsibilities
 I grant Databrary permission to: 
