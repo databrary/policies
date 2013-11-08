@@ -35,7 +35,7 @@ Persons authorized by a *Data Contributor* to have access to *Data* stored on Da
 
 #### Research Staff
 
-Persons under an *Investigator’s* supervision who will have access to an *Investigator's* *Data*. *Research Staff* include students conducting dissertation or thesis research.
+Persons under an *Investigator’s* supervision who will have access to an *Investigator's* *Data*. *Research Staff* include lab members or students conducting dissertation or thesis research that are not authorized Affiliate Investigators.
 
 #### Depicted Individual(s) 
 
