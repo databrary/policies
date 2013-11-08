@@ -29,9 +29,13 @@ An individual, affiliated with an *Authorized Investigator*, who has been approv
 
 An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrary.
 
+#### Collaborators
+
+Persons authorized by a *Data Contributor* to have access to *Data* stored on Databrary. *Collaborators* need not be authorized Databrary *Investigators* or *Affiliate Investigators*. 
+
 #### Research Staff
 
-Persons authorized by the *Investigator's* *Institution*, excluding the *Investigator* or any *Affiliate Investigator* under the Investigator’s supervision, who will have access to Data. Research Staff include project staff or students conducting dissertation or thesis research.
+Persons under an *Investigator’s* supervision who will have access to an *Investigator's* *Data*. *Research Staff* include students conducting dissertation or thesis research.
 
 #### Depicted Individual(s) 
 

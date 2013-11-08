@@ -24,7 +24,9 @@ In contributing *Data*, I assert that I have rights to share with Databrary any 
 
 I agree to cite Databrary resources I use in my scholarly work. Databrary will provide a recommended citation format.
 
-If I am eligible to endorse *Affiliate Investigators* for authorization to use Databrary, I take responsibility for their training and agree to supervise their *Non-Research* and *Research* activities involving Databrary resources.  
+If I am eligible to endorse *Affiliate Investigators* for authorization to use Databrary, I take responsibility for their training and agree to supervise their *Non-Research* and *Research* activities involving Databrary resources.
+
+If I am authorized as an *Investigator*, I may give other research *Collaborators* access to my *Data* on *Databrary*. My *Collaborators* may or may not be Databrary *Investigators* or *Affiliate Investigators*.  
 
 ### 3.	Privacy of research participants
 I warrant that I will treat *Data* taken from or contributed to Databrary with the same high standards of care that I treat *Data* collected in my own laboratory. 
@@ -43,17 +45,17 @@ When contributing data, I agree to:
 - Seek, secure, and maintain permission to conduct *Research* from the *Research Supervision Entity* that governs research at my *Institution* and receive approval to ask *Depicted Individuals* or their legal parent or guardian for permission to share *Recordings* or *Self-Reported Health-Related Information* in Databrary; 
 - Ensure that *Depicted Individuals* sign copies of the appropriate Databrary *Permission (or Assent) To Share* documents or have granted equivalent permission through other means; 
 - Faithfully represent to Databrary information about *Research Supervision Entity* approvals and the level of *Sharing Permission* given by *Depicted Individuals*.
-- Limitations on *Sharing Excerpts* of *Data* with the *Public*:
+- Abide by limitations on *Sharing Excerpts* of *Data* with the *Public*:
 
 I will not use Databrary for commercial purposes. I agree not to share *Data* with the general public or with researchers who are not authorized by Databrary. 
 
 I understand that *Depicted Individuals* may grant different levels of *Permission (or Assent) to Share Recordings* or *Self-Reported Health Information* with Databrary, and I agree to abide by the levels of permission granted.
 
-*Depicted Individuals* may refuse to give permission to share *Recordings or Self-Reported Health-Related Information*. In this case, Databrary may store *Recordings or Self-Reported Health-Related Information* but not share them beyond the set of *Investigators* who are part of the *Data Contributor’s* approved research team under an existing research protocol approved by a *Research Supervision Entity*. The full responsibility for identifying who constitutes the set of researchers allowed access in this case is the *Data Contributor’s*.
+*Depicted Individuals* may refuse to give permission to share *Recordings or Self-Reported Health-Related Information*. In this case, Databrary may store *Data*, *Recordings, or Self-Reported Health-Related Information* but will not permit access by other *Investigators* or *Affiliate Investigators* unless I give permission. As *Data Contributor* , I may choose to permit access to my *Data* to *Collaborators* under an existing research protocol approved by a *Research Supervision Entity*. I assume full responsibility for identifying who constitutes the set of researchers allowed access to my *Data*, controlling that access using Databrary's tools, and for any actions they take with my *Data*.
 
-Alternatively, *Depicted Individuals* may give permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, but not for excerpts to be shown for educational and scientific purposes. In this case, *Recordings or Self-Reported Health-Related Information* may be shared with other Databrary *Authorized Investigators* or *Affiliate Investigators*. *Data* that are retrieved from Databrary for viewing, downloading, and analyses must be handled according to [best practices](https://github.com/databrary/policies/blob/master/best-practices.md) in data security. No recordings of any parts of the video may be shown in public. 
+Alternatively, *Depicted Individuals* may give permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, but not for excerpts to be shown for educational and scientific purposes. In this case, *Recordings or Self-Reported Health-Related Information* may be shared with other Databrary *Authorized Investigators* or *Affiliate Investigators*, or my *Collaborators*. *Data* that are retrieved from Databrary for viewing, downloading, and analyses must be handled according to [best practices](https://github.com/databrary/policies/blob/master/best-practices.md) in data security. No recordings of any parts of the video may be shown in public. 
 
-However, in addition to giving permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, *Depicted Individuals* may grant permission to show and distribute *Excerpts* to the public. *Excerpts* selected by an *Investigator* may be presented in public settings—in classrooms, at scientific or technical meetings—and may be published in the media, in textbooks, scientific publications, or on the Internet as long as no *Personally Identifying Information* about a *Depicted Person* is included with the *Excerpt*.
+Finally, in addition to giving permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, *Depicted Individuals* may grant permission to show and distribute *Excerpts* to the public. *Excerpts* selected by an *Investigator* may be presented in public settings—in classrooms, at scientific or technical meetings—and may be published in the media, in textbooks, scientific publications, or on the Internet as long as no *Personally Identifying Information* about a *Depicted Person*, with the exception of faces, voices, and location information typically contained in *Recordings*, is included with the *Excerpt*.
 
 I warrant that I will exercise professional judgment and uphold ethical principles in determining which *Excerpts* to show and to what audiences. I warrant that I will select *Excerpts* and edit them to minimize the possibility that a *Depicted Individual* can be identified, embarrassed, or harmed by the public showing of an *Excerpt*. 
 
@@ -63,7 +65,7 @@ I promise to cite all *Excerpts* following Databrary citation practices.
 
 ### 5.	Rights of Contributors
 
-If I contribute *Data* to Databrary, I can decide whether to share, when to share, and with whom I want to share within the parameters defined by Databrary, which may be amended from time to time. I may share only among members of my IRB protocol or all authorized Databrary *Investigators* and *Affiliate Investigators*. 
+If I contribute *Data* to Databrary, I can decide whether to share, when to share, and with whom I want to share within the parameters defined by Databrary, which may be amended from time to time. I may share only among members of my approved research protocol, with selected *Collaborators*, or with all authorized Databrary *Investigators* and *Affiliate Investigators*. 
 
 I understand that Databrary will store my *Data* regardless of what I decide, and will make the *Data* available according to the designations I have elected pursuant to Databrary's polices and procedures and the *Sharing Permission Level* granted by *Depicted Individuals* or *Research Participants*. However, Databrary reserves the right to limit the amount or kind of *Data* stored without charge to *Data Contributors* or the level of service provided to *Data Contributors* and other researchers. *Data* that can be and are shared broadly with all Databrary *Investigators* and *Affiliate Investigators* will have priority for storage and processing resources.
 

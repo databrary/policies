@@ -46,6 +46,7 @@ Data security evolves. This document represents a set of best practices that Dat
 - Computer account passwords should differ from those used for Databrary (see above).
 - Laptops may be stolen or lost, so it may be wise to enable system-wide file encryption.
 - Set your computer to activate a password protected screen saver after 3 minutes of inactivity.
+- Disable automatic log-in.
 - Set your computer to automatically logout after 5 minutes of inactivity.
 - Databrary logs the Internet Protocol (IP) addresses of computers that access the system, so you may wish to choose a specific computer or computers to use to access Databrary.
 
