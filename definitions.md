@@ -31,11 +31,11 @@ An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrar
 
 #### Collaborators
 
-Persons authorized by a *Data Contributor* to have access to *Data* stored on Databrary. *Collaborators* need not be authorized Databrary *Investigators* or *Affiliate Investigators*. 
+Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Collaborators* need not be authorized Databrary *Investigators* or *Affiliate Investigators*. If a *Collaborator* is an authorized Databrary *Investigator* or *Affiliate Investigator*, she has access to all shared *Data* on Databrary in addition to the non-shared *Data* under the purview of the *Data Contributor* with whom she collaborates. *Collaborators* may include *Research Staff*.
 
 #### Research Staff
 
-Persons under an *Investigator’s* supervision who will have access to an *Investigator's* *Data*. *Research Staff* include students conducting dissertation or thesis research.
+Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Research Staff* may include students conducting dissertation or thesis research or others under an *Investigator's* supervision.
 
 #### Depicted Individual(s) 
 
