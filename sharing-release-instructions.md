@@ -1,10 +1,12 @@
 # Instructions for using the Databrary Release Template 
 
-## Version 2013-08-13
+| Version    | Comments            |
+|------------|---------------------|
+| 2013-08-13 | Approved by NYU IRB |
 
-The Databrary Release Template was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain with the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
+The [Databrary Release Template](sharing-release-template.md) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain with the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
 
-To use the template, each investigator needs to enter their lab or study information and add the form to their IRB protocol. The template language in the Databrary Release can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you need any help using the Databrary Release form for sharing data, or if you have helpful feedback about using the forms, please contact Lisa Steiger at lisa@databrary.org. 
+To use the template, each investigator needs to enter their lab or study information and add the form to their IRB protocol. The template language in the [Databrary Release](sharing-release-template.md) can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you need any help using the Databrary Release form for sharing data, or if you have helpful feedback about using the forms, please contact Lisa Steiger at <lisa@databrary.org>. 
 
 ## Preparing to share data
 
