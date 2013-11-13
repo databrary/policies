@@ -1,6 +1,10 @@
 # Databrary
 
-## Definitions
+| Version | Comments |
+|---------|----------|
+| 2013-11-13 | rogilmore made minor edits. |
+
+## Definitions (definitions.md)
 - People
 - Entities
 - Documents
