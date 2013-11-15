@@ -73,7 +73,7 @@ By signing below, I indicate that I understand the Databrary Release document an
 
 ### ADULTS
 | Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images |	Adult’s Signature: | Date |
-|--------|-|-|-|-|
+|--------|---|---|---|---|
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
@@ -95,7 +95,7 @@ Researcher must read through Assent to Share Script with those that can provide 
 Parent or guardian must decide whether to allow their child to share and sign on their behalf.	
 
 | Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images |	Parent/Guardian Signature: | Date |
-|--------|-|-|-|-|
+|--------|-----|-----|-----|-----|
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
 |      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
