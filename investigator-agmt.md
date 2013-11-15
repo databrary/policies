@@ -2,11 +2,6 @@
 
 ## Investigator/Affiliate Investigator Agreement
 
-| Version | Comments |
-|---------|----------|
-|2013-11-13| rogilmore edited. |
-
-
 ### 1.	Overview
 Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. Accordingly, Databrary requires prior authorization for full access.
 
