@@ -10,7 +10,7 @@ Databrary contains De-Identified Data, Non-Identifiable Data, and Metadata. Data
  
 The Databrary ecosystem also includes a database of researchers, called Investigators or Affiliate Investigators, who have authorization to use and contribute data. The database keeps track of the identities of each Investigator or Affiliate who contributes to, browses data within, or withdraws data or tools from Databrary.
 
-This document sets out Databrary's Standard Operating Procedures (SOPs). Section 2 describes the challenges that must be met in creating a data sharing system for sensitive, identifiable data. Section 3 describes Databrary operating procedures. Sections 4 and 5 describe other documents involved in Databrary operations and [definitions](https://github.com/databrary/policies/blob/master/definitions.md) of key terms which are italicized throughout the text, respectively. For the latest versions of Databrary policies, see the [website](http://databrary.org/about/#policies) or [GitHub repository](http://github.com/databrary/policies/).
+This document sets out Databrary's Standard Operating Procedures (SOPs). Section 2 describes the challenges that must be met in creating a data sharing system for sensitive, identifiable data. Section 3 describes Databrary operating procedures. Sections 4 and 5 describe other documents involved in Databrary operations and [definitions](definitions.md) of key terms which are italicized throughout the text, respectively. For the latest versions of Databrary policies, see the [website](http://databrary.org/about/#policies) or [GitHub repository](http://github.com/databrary/policies/).
 
 ### 2. The Challenges of Databrary
 
@@ -39,7 +39,7 @@ The Databrary system will have a set of pages that allow the public unrestricted
 
 There are three means of access to Databrary’s assets: browsing, downloading, and contributing. Individuals who wish only to browse Databrary’s public/unrestricted assets may do so without authorization from Databrary, however for security reasons the system will log access by internet protocol (IP) addresses (see Access Logging/Usage Metrics). Unauthorized/unregistered individuals may not comment in Databrary’s comment sections, contribute data, or carry out other functions reserved for Databrary Investigators or Affiliate Investigators. Those who wish to browse Databrary’s restricted, but open assets must apply for Databrary Investigator or Affiliate Investigator status.
 Who May Apply for Databrary Investigator or Affiliate Investigator Status
-Databrary Investigators must be eligible for Principal Investigator (PI) status at their home institutions. Graduate and undergraduate students, postdoctoral researchers, research scientists, and research staff may be granted Databrary Affiliate Investigator status if they are carrying out research under the supervision of a Databrary Investigator. Databrary Investigators who supervise Databrary Affiliate Investigators must (1) grant permission to researchers under their supervision to view data on their behalf, and (2) agree to take responsibility for the data use of the sponsored members under their supervision, and (3) take responsibility for the security of the data (where data are stored, etc.) by following best practices in data security (https://github.com/databrary/policies/blob/master/best-practices.md).
+Databrary Investigators must be eligible for Principal Investigator (PI) status at their home institutions. Graduate and undergraduate students, postdoctoral researchers, research scientists, and research staff may be granted Databrary Affiliate Investigator status if they are carrying out research under the supervision of a Databrary Investigator. Databrary Investigators who supervise Databrary Affiliate Investigators must (1) grant permission to researchers under their supervision to view data on their behalf, and (2) agree to take responsibility for the data use of the sponsored members under their supervision, and (3) take responsibility for the security of the data (where data are stored, etc.) by following best practices in data security (best-practices.md).
 
 ##### Timing of Databrary Investigator or Affiliate Investigator Application for Researchers Who Want to Contribute Data
 
@@ -57,9 +57,9 @@ Application for Databrary Investigator status may be made via a web form. The fo
 - Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, CITI; https://www.citiprogram.org), and expiration date of current authorization.
 - Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
 - Required for Databrary Affiliate Investigator applicants: Information about the research supervisor (Name, Databrary user ID, and email)
-- An electronically signed copy of the [Databrary Investigator Agreement](https://github.com/databrary/policies/blob/master/investigator-agmt.md).
+- An electronically signed copy of the [Databrary Investigator Agreement](investigator-agmt.md).
 
-The agreement obligates applicants to follow principles of ethical research with human participants, to seek permission to share recordings or self-reported health-related information from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow [best practices in data security](https://github.com/databrary/policies/blob/master/best-practices.md), to follow the Databrary [Bill of Rights](https://github.com/databrary/policies/blob/master/bill-of-rights.md), and other principles. 
+The agreement obligates applicants to follow principles of ethical research with human participants, to seek permission to share recordings or self-reported health-related information from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow [best practices in data security](best-practices.md), to follow the Databrary [Bill of Rights](bill-of-rights.md), and other principles. 
 
 *Optional, but recommended*
 
@@ -86,9 +86,9 @@ Databrary will log access to the system by Databrary Investigator ID and by IP a
 
 ##### Browsing and downloading
 
-Any member of the public may browse data or download tools with unrestricted/public level of access. Individuals with Databrary Investigator or Affiliate Investigator status may also browse or download assets with restricted, but open access. When Investigators or Affiliates request data sets to download, the Databrary system will remind them to cite data sets and associated papers, to obtain appropriate approvals for conducting research, to follow [best practices for data security](https://github.com/databrary/policies/blob/master/best-practices.md), and to remove and destroy data that are no longer needed. Databrary will also send periodic email reminders to researchers who download data reminding them to follow these practices. 
+Any member of the public may browse data or download tools with unrestricted/public level of access. Individuals with Databrary Investigator or Affiliate Investigator status may also browse or download assets with restricted, but open access. When Investigators or Affiliates request data sets to download, the Databrary system will remind them to cite data sets and associated papers, to obtain appropriate approvals for conducting research, to follow [best practices for data security](best-practices.md), and to remove and destroy data that are no longer needed. Databrary will also send periodic email reminders to researchers who download data reminding them to follow these practices. 
 
-Many Databrary uses will involve browsing or downloading data sets without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities to determine whether formal analyses are feasible or promising). If Investigators or Affiliates intend to conduct research with data sets, they may be required to obtain permission from a research supervision entity at their institution. Decisions about whether Investigators or Affiliate Investigators may conduct research on data sets or the type of research proposed are beyond Databrary’s control. Thus, whenever permitted by the research supervision entity that supervises their research, Investigators or Affiliate Investigators may conduct research on data sets derived from Databrary. It is the explicit responsibility of the Investigator or Affiliate Investigator to obtain the necessary permissions to conduct research by their respective research supervision entity. This is clearly stated in the [Databrary Investigator Agreement](https://github.com/databrary/policies/blob/master/investigator-agmt.md). When such approval is sought and secured, the Investigator or Affiliate Investigator must provide Databrary with the approved protocol name, IRB or equivalent protocol identification number, and expiration date.
+Many Databrary uses will involve browsing or downloading data sets without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities to determine whether formal analyses are feasible or promising). If Investigators or Affiliates intend to conduct research with data sets, they may be required to obtain permission from a research supervision entity at their institution. Decisions about whether Investigators or Affiliate Investigators may conduct research on data sets or the type of research proposed are beyond Databrary’s control. Thus, whenever permitted by the research supervision entity that supervises their research, Investigators or Affiliate Investigators may conduct research on data sets derived from Databrary. It is the explicit responsibility of the Investigator or Affiliate Investigator to obtain the necessary permissions to conduct research by their respective research supervision entity. This is clearly stated in the [Databrary Investigator Agreement](investigator-agmt.md). When such approval is sought and secured, the Investigator or Affiliate Investigator must provide Databrary with the approved protocol name, IRB or equivalent protocol identification number, and expiration date.
 
 ##### Account renewal
 
@@ -130,7 +130,7 @@ Databrary Investigators or Affiliate Investigators who wish to conduct research 
 
 ##### Study-level application review
 
-Once study-level applications have been completed and submitted to Databrary, applicants and their research supervision entity official(s) will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine that the proposed data to be deposited does not violate Databrary's Bill of Rights (Appendix E) or best practices in data security (https://github.com/databrary/policies/blob/master/best-practices.md).
+Once study-level applications have been completed and submitted to Databrary, applicants and their research supervision entity official(s) will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine that the proposed data to be deposited does not violate Databrary's Bill of Rights (Appendix E) or best practices in data security (best-practices.md).
 
 Project staff will carry out the study-level review under the supervision of the Project Director (Adolph) and Associate Director (Gilmore). The Databrary Ethics Committee will audit the approval and review process annually. 
 
@@ -273,13 +273,13 @@ Databrary will form an Ethics Committee to monitor the project, review and modif
 
 ### 4.	Related Policies and Procedures
 
-- [Databrary Investigator/Affiliate Investigator Agreement](https://github.com/databrary/policies/blob/master/investigator-agmt.md)
+- [Databrary Investigator/Affiliate Investigator Agreement](investigator-agmt.md)
 - [Databrary Permission to Share Recordings](https://github.com/databrary/policies/)
 - [Databrary Permission to Share Self-Reported Health-Related Information](https://github.com/databrary/policies/)
-- [Databrary Best Practices for Data Security](https://github.com/databrary/policies/blob/master/best-practices.md)
-- [Databrary Bill of Rights](https://github.com/databrary/policies/blob/master/bill-of-rights.md)
+- [Databrary Best Practices for Data Security](best-practices.md)
+- [Databrary Bill of Rights](bill-of-rights.md)
 
-### 5.	[Definitions of Terms](https://github.com/databrary/policies/blob/master/definitions.md)
+### 5.	[Definitions of Terms](definitions.md)
 
 #### People
 
@@ -371,19 +371,3 @@ Deductive Disclosure: The discerning of an individual's identity or confidential
 Public Showing: Playing an audio or video segment or showing a photograph to an audience that is not limited to Research Staff.
 
 Research: A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. 45 CFR 46.102 (http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html46.102)
-
-### 6.	Version History
-
-- 2012-12-31	Rick Gilmore drafted.
-- 2012-01-02	Rick Gilmore edited.
-- 2012-01-03	Rick Gilmore edited.
-- 2013-01-10	Rick Gilmore edited.
-- 2013-01-13	Rick Gilmore edited.
-- 2013-01-15	Rick Gilmore edited.
-- 2013-01-16	Rick Gilmore & Karen Adolph edited
-- 2013-02-27	Dylan Simon, Amy Chang, and Lisa Steiger edited.
-- 2013-04-01	Rick Gilmore edited.
-- 2013-04-02	Rick Gilmore edited.
-- 2013-04-04	Rick Gilmore & Karen Adolph edited
-- 2013-04-05	Rick Gilmore edited.
-- 2013-04-09	Rick Gilmore edited

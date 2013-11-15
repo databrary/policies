@@ -1,9 +1,5 @@
 # Databrary
 
-| Version | Comments |
-|---------|----------|
-| 2013-11-13 | rogilmore made minor edits. |
-
 ## Definitions (definitions.md)
 - People
 - Entities
@@ -170,7 +166,7 @@ Video or audio recordings or photographs stored in an electronic form that may b
 
 #### Best Practices in Data Security
 
-Measures taken to shield digital information from unauthorized access and to preserve it for future authorized use. See Databrary [best practices](http://github.com/databrary/polices/best-practices.md) for examples.
+Measures taken to shield digital information from unauthorized access and to preserve it for future authorized use. See Databrary [best practices](best-practices.md) for examples.
 
 ---
 
