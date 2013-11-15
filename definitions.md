@@ -3,6 +3,7 @@
 | Version | Comments |
 |---------|----------|
 |2013-11-13| rogilmore modified |
+|2013-11-15| dropped Collaborators |
 
 ## Definitions
 - People
@@ -30,14 +31,6 @@ An individual, affiliated with an *Authorized Investigator*, who has been approv
 #### Data Contributor(s)
 
 An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrary.
-
-#### Collaborators
-
-Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Collaborators* need not be authorized Databrary *Investigators* or *Affiliate Investigators*. If a *Collaborator* is an authorized Databrary *Investigator* or *Affiliate Investigator*, she has access to all shared *Data* on Databrary in addition to the non-shared *Data* under the purview of the *Data Contributor* with whom she collaborates. *Collaborators* may include *Research Staff*.
-
-#### Research Staff
-
-Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Research Staff* may include students conducting dissertation or thesis research or others under an *Investigator's* supervision.
 
 #### Depicted Individual(s) 
 
