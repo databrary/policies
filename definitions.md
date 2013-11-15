@@ -30,7 +30,7 @@ An individual, affiliated with an *Authorized Investigator*, who has been approv
 
 #### Data Contributor(s)
 
-An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrary.
+An *Investigator* who contributes *Data* to Databrary.
 
 #### Depicted Individual(s) 
 
@@ -66,7 +66,7 @@ An Institutional Review Board (IRB) or equivalent authority charged with supervi
 
 #### Institution(s)
 
-The university or research organization (including commercial entities), or a government agency at which the *Investigator* will conduct scientific activities, including *Research* using *Data*.
+A university or research organization (including commercial entities), or a government agency at which an *Investigator* will conduct scientific activities, including *Research* using *Data*.
 
 ---
 
