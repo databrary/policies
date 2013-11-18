@@ -20,13 +20,13 @@
 An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. 
 *Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
 
-#### Investigator(s) or Authorized Investigator(s)
+#### Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
 
 An individual with *Principal Investigator (PI)* status at an *Institution* who has received authorization from Databrary to view, download, and contribute *Data*.
 
-#### Affiliate Investigator(s) or Affiliate(s)
+#### Databrary Affiliate Investigator(s) or Affiliate Investigator(s)
 
-An individual, affiliated with an *Authorized Investigator*, who has been approved for access to Databrary under that *Investigator's* sponsorship and supervision.
+An individual, affiliated with an *Authorized Investigator*, who has been authorized for access to Databrary under that *Investigator's* sponsorship and supervision. The access privileges of *Affiliate Investigators* are under the control of one or more *Databrary Principal Investigators*.
 
 #### Data Contributor(s)
 

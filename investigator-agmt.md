@@ -2,22 +2,23 @@
 
 ## Data Use and Contribution Agreement
 
-| Version | Comments |
-|---------|----------|
-| 2013-11-13 | rogilmore |
+| Version    | Comments        |
+|------------|-----------------|
+| 2013-11-13 | rogilmore       |
 | 2013-11-15 | rogilmore edits |
+| 2013-11-18 | rogilmore changed to Databrary Principal Investigator, Affiliate Investigator |
 
 ### 1.	Overview
 Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
 
-With appropriate approval from a *Research Supervision Entity* (e.g, Institutional Review Board) at an *Institution*, *Investigators* may browse, search, and download *Data* from Databrary for *Non-Research* purposes; use Databrary for *Research* purposes; and contribute *Data*, subject to the *Sharing Permissions* granted by *Research Participants* or other individuals depicted in *Recordings*. 
+With appropriate approval from a *Research Supervision Entity* (e.g, Institutional Review Board) at an *Institution*, *Investigators* may browse, search, and download *Data* from Databrary for *Non-Research* purposes; use Databrary for *Research* purposes; and contribute *Data*, subject to the *Sharing Permissions* granted by *Research Participants* or other individuals depicted in *Recordings*.
 
 This document sets out my rights and responsibilities, those of my *Institution*, and those of Databrary. Definitions of italicized terms used in this document are listed [here](https://github.com/databrary/policies/blob/master/definitions.md).
 
 ### 2.	Responsibilities of Databrary *Investigators*
-I understand that in order for me to have access, I must apply to Databrary and receive approval before viewing or contributing *Data*. To qualify, I must be a *Principal Investigator (PI)* at my *Institution* or be a researcher whose work is overseen by someone who is a Databrary Investigator. If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is a *PI*, an authorized Databrary *Investigator* and who verifies that my use of *Data* from the library will be strictly for the purpose of legitimate scientific research. 
+I understand that in order for me to have access, I must apply to Databrary and receive approval before viewing or contributing *Data*. To qualify for *Databrary Principal Investigator* status, I must be a *Principal Investigator (PI)* at my *Institution*. If I am a researcher whose work is overseen by someone who is a *Databrary Principal Investigator*, I may apply to be a *Databrary Affiliate Investigator*. If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is an authorized Databrary *Investigator* and who verifies that my use of *Data* from the library will be strictly for the purpose of legitimate scientific research. 
 
-To apply, I must provide Databrary information about my appointment at my *Institution* along with contact and other information that verifies my identity. I must sign and date this agreement. If applicable, I must provide the name of the *PI* who oversees my research or who will write a letter of recommendation on my behalf. If applicable, I must also provide evidence of my record of scientific accomplishment.
+To apply, I must provide Databrary information about my appointment at my *Institution* along with contact and other information that verifies my identity. I must sign and date this agreement. If applicable, I must provide the name of the *Investigator* who oversees my research or who will write a letter of recommendation on my behalf. If applicable, I must also provide evidence of my record of scientific accomplishment.
 
 I agree to keep current my contact information and other information about me I have provided to Databrary. I agree to renew my status with Databrary every other year or whenever I change *Institutions*. 
 
@@ -25,7 +26,7 @@ I agree not to share my login information (user name and password) with anyone a
 
 I agree to keep officials at my *Institution* who supervise research informed about my use of Databrary. That may include providing Databrary with accurate contact information about a designated representative from the *Research Supervision Entity* at my *Institution*. I agree that Databrary may share information about my use of the data library with my *Institution*.  
 
-I will comply with all relevant rules and regulations imposed by my *Institution*. I will consult with the appropriate officials at my *Institution’s Research Supervision Entity* and secure whatever approvals (or waivers) are required prior to accessing Databrary either for *Non-Research* or *Research* purposes. Many *Research Supervision Entities* permit *Non-Research* use of *Data* without requiring formal review or approval.
+I will comply with all relevant rules and regulations imposed by my *Institution*. I will consult with the appropriate officials at my *Institution’s Research Supervision Entity* and secure whatever approvals (or waivers) are required prior to accessing Databrary either for *Non-Research* or *Research* purposes. *Research Supervision Entities* may permit *Non-Research* use of *Data* without requiring formal review or approval.
 
 I agree to follow all relevant national, state, and local laws and regulations that pertain to the use of research *Data*.
 
@@ -41,18 +42,28 @@ In contributing *Data*, I assert that I have rights to share with Databrary any 
 
 I agree to cite all Databrary resources I use in my scholarly work. Databrary will provide a recommended citation format.  
 
-If I am a *PI*, I agree to manage the privileges of *Investigators* whose research I oversee. If I am not a *PI*, I understand that my access privileges may be managed or restricted by the *PI* who oversees my research.
+If I am a *Databrary Principal Investigator*, I agree to manage the privileges of *Databrary Affiliate Investigators* whose research I oversee. If I am not a *Databrary Principal Investigator*, I understand that my access privileges may be managed or restricted by the *Databrary Principal Investigator* who oversees my research.
 
 ### 3.	Privacy of research participants
 I warrant that I will treat *Data* taken from or contributed to Databrary with the same high standards of care that I would treat *Data* collected in my own laboratory. 
 
 *Recordings* may contain *Personally Identifying Information* about *Depicted Individuals* -- *Research Participants* as well as other individuals who are incidentally recorded or photographed. Images and/or voices may be visible or heard. Names may be spoken out loud. Images and voices of visitors or other people who are not research participants may be recorded. If a study takes place in a home or other setting, aspects of that home or setting may be recorded. Thus, individuals or locations may be identified from *Recordings*. Any disclosure of the identity of *Research Participants* violates the *Promise of Confidentiality* given to them. *Identification* of other individuals depicted in *Recordings* violates their privacy, as well. 
 
-*De-Identified Data, Non-Identifiable Data*, and *Metadata* may be combined to identify research participants. *De-Identified Data, Non-Identifiable Data*, and *Metadata* may be combined with *Recordings* to identify individuals or cause them harm or embarrassment. These represent significant risks. To reduce them them, when browsing and downloading *Data*, I agree to:
+*De-Identified Data, Non-Identifiable Data*, and *Metadata* may be combined to identify research participants. *De-Identified Data, Non-Identifiable Data*, and *Metadata* may be combined with *Recordings* to identify individuals or cause them harm or embarrassment. These represent significant risks. 
+
+#### Browsing and downloading
+
+To reduce them, when browsing and downloading *Data*, I agree to:
 
 - Protect the identity of **all** individuals with information in Databrary, especially *Depicted Individuals*; 
-- Keep *Data* secure on computers with access limited to researchers whom I have trained and who are under my supervision or the supervision of the *Investigator* who oversees my research;
+- Keep *Data* secure on computers with limited access;
+- Ensure that researchers who access *Data* have applied for and been granted independent authorization to access Databrary.
 - Respect the *Level of Sharing Permission* given by *Depicted Individuals*. 
+- Use *Data* exclusively for the purpose of scientific research, technology development or education under the auspices of an academic, research, government, health, or commercial entity.
+
+I also agree not to sell or trade *Data*.
+
+#### Contributing data
 
 When contributing *Data*, I agree to:
 
@@ -63,19 +74,13 @@ When contributing *Data*, I agree to:
 - Abide by limitations on *Sharing Excerpts* of *Data* with the *Public*.
 - Delete or modify *Data* I have contributed if requested to do so by Databrary.
 
-I agree to use *Data* exclusively for the purpose of scientific research, technology development or education under the auspices of an academic, research, government, health, or commercial entity.
-
-I agree not to sell or trade *Data*.
-
-I agree not to redistribute or share *Data* with anyone, including individuals in my laboratory, unless each individual has independently applied for and been granted access to Databrary.
-
 I understand that *Depicted Individuals* may grant different levels of *Permission (or Assent) to Share Recordings* or *Self-Reported Health Information* with Databrary, and I agree to abide by the levels of permission granted. Those levels are as follows:
 
 #### Sharing only within a research group
 
 *Depicted Individuals* may refuse to give permission to share *Recordings or Self-Reported Health-Related Information*. In this case, Databrary may store *Data*, *Recordings, or Self-Reported Health-Related Information* but will not permit access by other *Investigators* unless the *Data Contributor* gives permission. As *Data Contributor* , I may choose to permit access to my *Data* to other *Investigators* under an existing research protocol approved by a *Research Supervision Entity*. I assume full responsibility for identifying who is allowed access to my *Data*, for controlling that access using Databrary's tools, and for any actions others with whom I have shared take with my *Data*.
 
-#### Sharing with all Databrary *Investigators*, Public Exerpts Prohibited
+#### Sharing with all Databrary *Investigators*, Public Excerpts Prohibited
 
 Alternatively, *Depicted Individuals* may give permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, but not for excerpts to be shown for educational and scientific purposes. In this case, *Recordings or Self-Reported Health-Related Information* may be shared with other Databrary *Investigators*. *Data* that are retrieved from Databrary for viewing, downloading, and analyses must be handled according to [best practices](https://github.com/databrary/policies/blob/master/best-practices.md) in data security. No images or parts of *Recordings* may be shown in public.
 
