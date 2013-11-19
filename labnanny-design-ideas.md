@@ -33,16 +33,16 @@
 4. Generate "prospect lists" based on study criteria.
 5. Recruiting scripts.
 6. Manage call-backs, no answers, moved, etc.
-7. Linked to available staff
-8. Calendar function
+7. Linked to available staff.
+8. Calendar function.
 
 ### Session/Visit Module
 
-1. Electronic consent
-2. Electronic sharing permission
-3. Generate unique participant, session identifiers
+1. Electronic consent.
+2. Electronic sharing permission.
+3. Generate unique participant, session identifiers.
 4. Separate identifiable data not to be shared.
-5. Table of measures
+5. Table of measures.
 6. Automatic NIH participant race/ethnicity information.
 7. Automatic generation of IRB recruiting/testing reports.
 
