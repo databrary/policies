@@ -9,6 +9,7 @@
 4. Session/Visit Module
 5. Data provenance/sharing Module
 6. Publication/Presentation Management Module
+7. Reporting Module
 
 ### IRB Protocol Management Module
 
@@ -55,3 +56,8 @@
 ### Publication/Presentation Management Module
 
 1. Submission version/draft control; sharing
+
+### Reporting Module
+1. Generating participant reports for IRB
+2. Generating participant reports for NIH
+3. Generating report information for other grant agencies

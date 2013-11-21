@@ -7,6 +7,7 @@
 | 2013-11-13 | rogilmore       |
 | 2013-11-15 | rogilmore edits |
 | 2013-11-18 | rogilmore changed to Databrary Principal Investigator, Affiliate Investigator |
+| 2013-11-21 | rogilmore made minor changes |
 
 ### 1.	Overview
 Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
@@ -16,9 +17,9 @@ With appropriate approval from a *Research Supervision Entity* (e.g, Institution
 This document sets out my rights and responsibilities, those of my *Institution*, and those of Databrary. Definitions of italicized terms used in this document are listed [here](https://github.com/databrary/policies/blob/master/definitions.md).
 
 ### 2.	Responsibilities of Databrary *Investigators*
-I understand that in order for me to have access, I must apply to Databrary and receive approval before viewing or contributing *Data*. To qualify for *Databrary Principal Investigator* status, I must be a *Principal Investigator (PI)* at my *Institution*. If I am a researcher whose work is overseen by someone who is a *Databrary Principal Investigator*, I may apply to be a *Databrary Affiliate Investigator*. If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is an authorized Databrary *Investigator* and who verifies that my use of *Data* from the library will be strictly for the purpose of legitimate scientific research. 
+I understand that in order for me to have access, I must apply to Databrary and receive approval before viewing or contributing *Data*. To qualify for *Databrary Principal Investigator* status, I must be a *Principal Investigator (PI)* at my *Institution*. If I am a researcher whose work is overseen by someone who is a *Databrary Principal Investigator*, I may apply to be a *Databrary Affiliate Investigator*. If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is an authorized *Databrary Principal Investigator* and who verifies that my use of *Data* from the library will be strictly for the purpose of legitimate scientific research. 
 
-To apply, I must provide Databrary information about my appointment at my *Institution* along with contact and other information that verifies my identity. I must sign and date this agreement. If applicable, I must provide the name of the *Investigator* who oversees my research or who will write a letter of recommendation on my behalf. If applicable, I must also provide evidence of my record of scientific accomplishment.
+To apply, I must provide Databrary information about my appointment at my *Institution* along with contact and other information that verifies my identity. I must sign and date this agreement. If applicable, I must provide the name of the *Databrary Principal Investigator* who oversees my research or who will write a letter of recommendation on my behalf. If applicable, I must also provide evidence of my record of scientific accomplishment.
 
 I agree to keep current my contact information and other information about me I have provided to Databrary. I agree to renew my status with Databrary every other year or whenever I change *Institutions*. 
 
@@ -42,7 +43,7 @@ In contributing *Data*, I assert that I have rights to share with Databrary any 
 
 I agree to cite all Databrary resources I use in my scholarly work. Databrary will provide a recommended citation format.  
 
-If I am a *Databrary Principal Investigator*, I agree to manage the privileges of *Databrary Affiliate Investigators* whose research I oversee. If I am not a *Databrary Principal Investigator*, I understand that my access privileges may be managed or restricted by the *Databrary Principal Investigator* who oversees my research.
+If I am eligible for and approved as a *Databrary Principal Investigator*, I agree to manage the privileges of *Databrary Affiliate Investigators* whose research I oversee. If I am not eligible to be named or not approved as a *Databrary Principal Investigator*, I understand that my access privileges may be managed or restricted by the *Databrary Principal Investigator* who oversees my research.
 
 ### 3.	Privacy of research participants
 I warrant that I will treat *Data* taken from or contributed to Databrary with the same high standards of care that I would treat *Data* collected in my own laboratory. 
@@ -74,23 +75,25 @@ When contributing *Data*, I agree to:
 - Abide by limitations on *Sharing Excerpts* of *Data* with the *Public*.
 - Delete or modify *Data* I have contributed if requested to do so by Databrary.
 
+#### Sharing Permission Levels
+
 I understand that *Depicted Individuals* may grant different levels of *Permission (or Assent) to Share Recordings* or *Self-Reported Health Information* with Databrary, and I agree to abide by the levels of permission granted. Those levels are as follows:
 
-#### Sharing only within a research group
+##### Sharing only within a research group
 
-*Depicted Individuals* may refuse to give permission to share *Recordings or Self-Reported Health-Related Information*. In this case, Databrary may store *Data*, *Recordings, or Self-Reported Health-Related Information* but will not permit access by other *Investigators* unless the *Data Contributor* gives permission. As *Data Contributor* , I may choose to permit access to my *Data* to other *Investigators* under an existing research protocol approved by a *Research Supervision Entity*. I assume full responsibility for identifying who is allowed access to my *Data*, for controlling that access using Databrary's tools, and for any actions others with whom I have shared take with my *Data*.
+*Depicted Individuals* may refuse to give permission to share *Recordings or Self-Reported Health-Related Information* outside a specific research group. In this case, Databrary may store *Data*, *Recordings, or Self-Reported Health-Related Information* but will not permit access by *Investigators* unless the *Data Contributor* gives permission. As *Data Contributor* , I may choose to permit access to my *Data* to other *Investigators* under an existing research protocol approved by a *Research Supervision Entity*. I assume full responsibility for identifying who is allowed access to my *Data*, for controlling that access using Databrary's tools, and for any actions others with whom I have shared take with my *Data*.
 
-#### Sharing with all Databrary *Investigators*, Public Excerpts Prohibited
+##### Sharing with all Databrary *Investigators*, Public Excerpts Prohibited
 
 Alternatively, *Depicted Individuals* may give permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, but not for excerpts to be shown for educational and scientific purposes. In this case, *Recordings or Self-Reported Health-Related Information* may be shared with other Databrary *Investigators*. *Data* that are retrieved from Databrary for viewing, downloading, and analyses must be handled according to [best practices](https://github.com/databrary/policies/blob/master/best-practices.md) in data security. No images or parts of *Recordings* may be shown in public.
 
-#### Sharing with all Databrary Investigators, Public Excerpts Allowed 
+##### Sharing with all Databrary Investigators, Public Excerpts Allowed 
 
 Finally, in addition to giving permission for their *Recordings or Self-Reported Health-Related Information* to be shared with other researchers, *Depicted Individuals* may grant permission to show and distribute *Excerpts* to the public. *Excerpts* selected by an *Investigator* may be presented in public settings — in classrooms, at scientific or technical meetings — and may be published in the media, in textbooks, scientific publications, or on the Internet as long as no *Personally Identifying Information* about a *Depicted Person*, with the exception of faces, voices, and location information typically contained in *Recordings*, is included with the *Excerpt*.
 
 I warrant that I will exercise professional judgment and uphold ethical principles in determining which *Excerpts* to show and to what audiences. I warrant that I will select *Excerpts* and edit them to minimize the possibility that a *Depicted Individual* can be identified, embarrassed, or harmed by the public showing of an *Excerpt*. 
 
-If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed or distributed. Any problems or questions should be addressed to Databrary (ethics@databrary.org).
+If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed or distributed. Any problems or questions should be addressed to Databrary: <ethics@databrary.org>.
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
@@ -144,7 +147,12 @@ I am not a *PI*, but my research activities are overseen by the following indivi
 
 Printed Name: _____________________________
 
+Email: _____________________________
+
+
 Printed Name: _____________________________
+
+Email: _____________________________
 
 **Signature of Authorizing Official/Authorized Representative from Institution:**
 
