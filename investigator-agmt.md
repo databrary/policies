@@ -14,11 +14,11 @@ I agree to keep officials at my *Institution* who supervise research informed ab
 
 I agree to complete training in research ethics involving human participants. The training must be offered by an official research ethics training entity and acceptable to my *Institution’s Research Supervision Entity*. I agree to keep current my research ethics training certification.
 
-I agree to follow best practices in data security (best-practices.md) for any information I draw from Databrary or collect to contribute to Databrary.
+I agree to follow [best practices in data security](best-practices.md) for any information I draw from Databrary or collect to contribute to Databrary.
 
-I agree to uphold the Databrary Bill of Rights (bill-of-rights.md).
+I agree to uphold the [Databrary Bill of Rights](bill-of-rights.md).
 
-I have read and understand the Databrary Data Sharing Manifesto (data-sharing-manifesto.md).
+I have read and understand the [Databrary Data Sharing Manifesto](data-sharing-manifesto.md).
 
 In contributing *Data*, I assert that I have rights to share with Databrary any *Data* I contribute; no other entity or individual has ownership rights that prevent me from contributing *Data* to Databrary.
 
