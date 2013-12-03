@@ -1,15 +1,15 @@
 #Data Conversations
-###* All conversations should be recorded
-###* These conversations are a guideline, not a script
+### All conversations should be recorded
+### These conversations are a guideline, not a script
 
-###* The most important information we need:
+### The most important information we need:
 
-	*What information a PI collects for their participants (birthday,test date, age), and what other information they collect that's important for them  (language, location, race, ethnicity, etc) and where they keep that information
-	*If a PI has pilot/attrition/excluded participants, how they want those grouped/notated, the reasons for exclusion and if they want those included with the rest of their data
-	*What other ways the PI groups their data
-	*What data the PI wants to share besides videos
-	*What level of permission their forms warrant
-	*Who to contact: the PI or someone in their lab 
+* What information a PI collects for their participants (birthday,test date, age), and what other information they collect that's important for them  (language, location, race, ethnicity, etc) and where they keep that information
+* If a PI has pilot/attrition/excluded participants, how they want those grouped/notated, the reasons for exclusion and if they want those included with the rest of their data
+* What other ways the PI groups their data
+* What data the PI wants to share besides videos
+* What level of permission their forms warrant
+* Who to contact: the PI or someone in their lab 
 
 ##Step One: Permissible Data
 
