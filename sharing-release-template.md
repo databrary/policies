@@ -6,10 +6,11 @@
 
 ## What we are asking
 This form requests your permission to share material from this session in a secure, web-based data library called Databrary (databrary.org). Material from this session may include video/audio recordings, photographs, and images; other information such as age, birth date, sex, ethnicity, education, and self-reported health information; and information supplied by researchers who analyze data from this session. The library allows only authorized researchers to have access to shared information. Data sharing will lead to faster progress in research on human development and behavior.
+
 If you agree to share your data, this form also requests permission to allow authorized Databrary researchers to show selected video excerpts and images from recordings of this session for scientific presentations and/or informational and educational purposes, but never for commercial purposes. 
 Giving permission to share your information in Databrary is separate from consenting to participate in a research study. You do not have to give permission to share your information in the library. You can agree to share your data, but not agree to allow researchers to show excerpts and images. Your choices will not affect receipt of payment if offered for participation in this or future studies. 
 ## Will the information be confidential (kept private)?
-No information will be included in the data library about how to contact you or your family. No data files will be identified by anyone’s name. However, images and/or voices of people in the recordings may be seen or heard. First and/or last names of people may be spoken aloud. If the study takes place in your home, aspects of your home may be seen or heard. In addition, other information may have been collected about you, your child, or your family in conjunction with this session. Thus, someone might be able to identify you, your child, or other people unintentionally. But, the authorized researchers with access to the library have agreed not to reveal the identities of people in the library.
+No information will be included in the data library about how to contact you or your family. No data files will be identified by anyone’s name. However, images and/or voices of people in the recordings may be seen or heard. First and/or last names of people may be spoken aloud. If the study takes place in your home, aspects of your home may be seen or heard. In addition, other information may have been collected about you, your child, or your family in conjunction with this session. Thus, someone might be able to identify you, your child, or other people. But, the authorized researchers with access to the library have agreed not to reveal the identities of people in the library.
 ## Who has access to information in the library?
 Only authorized researchers will have access to information in the library. Researchers who are granted access must agree to maintain confidentiality and not use information for commercial purposes. Researchers promise to treat information in the library with the same high standards of care that they treat information collected in their own laboratories.
 ## How long will information remain in the library?
@@ -60,8 +61,6 @@ I give permission to share the material from this session with authorized resear
 I give permission for authorized Databrary researchers to show selected video excerpts and images from recordings of this session for scientific presentations and/or informational and educational purposes, but never for commercial purposes. I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts and images to share.
 
 We will give you a copy of this form and the signature page for your records. If you have any questions about the data-sharing library, please email ethics@databrary.org. For questions about your rights as a research participant, you may contact [APPROPRIATE CONTACT FOR LOCAL INSTITUTION].
-
-
  
 ## Permission to share with authorized researchers
 I give permission to share the material from this session with authorized researchers in a secure data library called Databrary.

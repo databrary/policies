@@ -13,29 +13,19 @@
 #### Principal Investigator (PI), Principal Investigator (PI) Status
 
 An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. 
-*Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research 
-or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be 
-independent investigators, and therefore are not typically granted PI status.
+*Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
 
-#### Investigator(s) or Authorized Investigator(s)
+#### Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
 
 An individual with *Principal Investigator (PI)* status at an *Institution* who has received authorization from Databrary to view, download, and contribute *Data*.
 
-#### Affiliate Investigator(s) or Affiliate(s)
+#### Databrary Affiliate Investigator(s) or Affiliate Investigator(s)
 
-An individual, affiliated with an *Authorized Investigator*, who has been approved for access to Databrary under that *Investigator's* sponsorship and supervision.
+An individual, affiliated with an *Authorized Investigator*, who has been authorized for access to Databrary under that *Investigator's* sponsorship and supervision. The access privileges of *Affiliate Investigators* are under the control of one or more *Databrary Principal Investigators*.
 
 #### Data Contributor(s)
 
-An *Investigator* or *Affiliate Investigator* who contributes *Data* to Databrary.
-
-#### Collaborators
-
-Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Collaborators* need not be authorized Databrary *Investigators* or *Affiliate Investigators*. If a *Collaborator* is an authorized Databrary *Investigator* or *Affiliate Investigator*, she has access to all shared *Data* on Databrary in addition to the non-shared *Data* under the purview of the *Data Contributor* with whom she collaborates. *Collaborators* may include *Research Staff*.
-
-#### Research Staff
-
-Persons authorized by an *Investigator* who is also a *Data Contributor* to have access to view, upload, modify, or download *Data* stored on Databrary that is not shared with other Databrary users. The privileges granted a *Collaborator* are at the discretion of the *Investigator*. *Research Staff* may include students conducting dissertation or thesis research or others under an *Investigator's* supervision.
+An *Investigator* who contributes *Data* to Databrary.
 
 #### Depicted Individual(s) 
 
@@ -71,7 +61,7 @@ An Institutional Review Board (IRB) or equivalent authority charged with supervi
 
 #### Institution(s)
 
-The university or research organization at which the *Investigator* will conduct scientific activities, including *Research* using *Data*.
+A university or research organization (including commercial entities), or a government agency at which an *Investigator* will conduct scientific activities, including *Research* using *Data*.
 
 ---
 
