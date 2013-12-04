@@ -7,17 +7,13 @@ clean:
 GITDATE=$(shell git log -1 --pretty=format:%ad --date=short -- $(SRCFILE))
 GEN=$(subst .,-$(GITDATE).,$@)
 FIXLINKS=sed 's/\.md)/$(suffix $@))/g'
-PANDOCMD=$(FIXLINKS) $< | pandoc -f markdown_github-hard_line_breaks -V author=Databrary -V date="$(GITDATE)" -V geometry="margin=1in" -s -o $(GEN)
+PANDOCMD=mkdir -p $(dir $@) ; $(FIXLINKS) $< | pandoc -f markdown_github-hard_line_breaks -V author=Databrary -V date="$(GITDATE)" -V geometry="margin=1in" -s -o $(GEN) && ln -sf $(notdir $(GEN)) $@
 
 doc/%.pdf: %.md
 	$(PANDOCMD)
-	ln -sf $(notdir $(GEN)) $@
 doc/%.docx: %.md
 	$(PANDOCMD)
-	ln -sf $(notdir $(GEN)) $@
 doc/%.html: %.md
 	$(PANDOCMD)
-	ln -sf $(notdir $(GEN)) $@
 doc/%.tex: %.md
 	$(PANDOCMD)
-	ln -sf $(notdir $(GEN)) $@
