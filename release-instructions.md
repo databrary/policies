@@ -29,7 +29,7 @@ Here's what you should do:
 
 - Make sure that your informed consent documents **do not** contain data destruction clauses.If they do, you cannot share your recordings with Databrary. Databrary intends to store recordings and other data indefinitely. So, check your consent form and release form language to see whether you have promised to destroy data after a certain date. 
 
-- If you informed consent documents contain data destruction clauses, you may still be able to share [de-identified data](definitions.md#de-identified-data) or [metadata](definitions.md#metadata) about your study with Databrary.
+- If you have informed consent documents that contain data destruction clauses, you may still be able to share [de-identified data](definitions.md#de-identified-data) or [metadata](definitions.md#metadata) about your study with Databrary.
 
 - Once you have permission from your IRB to share data, you may contact Databrary for help in uploading and sharing your data or you may choose to upload and share the data yourself.
 
