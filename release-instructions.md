@@ -11,9 +11,9 @@ There are two main sources of recordings: (1) recordings collected by researcher
 
 Data can only be shared with other Databrary authorized users if (i) the data are [de-identified](definitions.md#de-identified-data), or (ii) the data are video or audio recordings or photographs in which the people depicted have given permission to share. 
 
-Many flat-file data sets can be easily de-identified, but de-identifying recordings is complicated, expensive, and diminishes their value to other researchers. So, to share recordings without removing personal identifiers, Databrary asks researchers to get permission to share from those people who are depicted in recordings. To standardize the process and make it as simple as possible for researchers, we have developed a [Databrary Template Release](sharing-release-template.md) that can be added to IRB protocols and used with participants.
+Many flat-file data sets can be easily de-identified, but de-identifying recordings is complicated, expensive, and diminishes their value to other researchers. So, to share recordings without removing personal identifiers, Databrary asks researchers to get permission to share from those people who are depicted in recordings. To standardize the process and make it as simple as possible for researchers, we have developed a [Databrary Template Release](release-template.md) that can be added to IRB protocols and used with participants.
 
-The [Databrary Release Template](sharing-release-template.md) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain with the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
+The [Databrary Release Template](release-template.md) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain with the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
 
 ## When do I have to share data?
 
@@ -25,7 +25,7 @@ Some investigators already ask research participants for permission to share [re
 
 Here's what you should do:
 
-- Ask your IRB for permission to share recordings with Databrary under the provisions of your current (IRB-approved) video/audio/photo release form. You will want to provide your IRB copies of your current release form and the [Databrary Template Release](sharing-release-template.md).
+- Ask your IRB for permission to share recordings with Databrary under the provisions of your current (IRB-approved) video/audio/photo release form. You will want to provide your IRB copies of your current release form and the [Databrary Template Release](release-template.md).
 
 - Make sure that your informed consent documents **do not** contain data destruction clauses.If they do, you cannot share your recordings with Databrary. Databrary intends to store recordings and other data indefinitely. So, check your consent form and release form language to see whether you have promised to destroy data after a certain date. 
 
@@ -38,7 +38,7 @@ Here's what you should do:
 Here's what you should do:
 
 - Modify your existing IRB protocol(s) to enable sharing with Databrary. 
-	- As part of the modification, you will want to adapt the [Databrary Template Release](sharing-release-template.md) and submit it for review.
+	- As part of the modification, you will want to adapt the [Databrary Template Release](release-template.md) and submit it for review.
 	- You will also want to review your informed consent documents and remove any data destruction clauses. Rather than promise to destroy data after some period of time, say "Data will be stored indefinitely in a secure library on the internet."
 - Once you have permission from your IRB to ask participants about data sharing, you may start securing and recording those permissions from participants.
 - At some date in the future when you are ready to share data, contact Databrary for help. 
@@ -46,7 +46,7 @@ Here's what you should do:
 
 ## Guidelines for using the Databrary Release Template 
 
-To use the template, each investigator needs to enter their lab or study information and add the form to their IRB protocol. The template language in the [Databrary Release](sharing-release-template.md) can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you need any help using the Databrary Release form for sharing data, or if you have helpful feedback about using the forms, please contact Lisa Steiger at <lisa@databrary.org>. 
+To use the template, each investigator needs to enter their lab or study information and add the form to their IRB protocol. The template language in the [Databrary Release](release-template.md) can be adapted to suit the unique needs of each investigator and/or project, as well as the local IRB policies that govern an investigator’s research. If you need any help using the Databrary Release form for sharing data, or if you have helpful feedback about using the forms, please contact Lisa Steiger at <lisa@databrary.org>. 
 
 ### Preparing to share data
 
