@@ -1,6 +1,4 @@
-# Databrary
-
-## [Definitions](definitions.md)
+## Definitions
 - People
 - Entities
 - Documents

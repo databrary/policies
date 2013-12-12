@@ -1,5 +1,3 @@
-# Databrary #
-
 ## Data Sharing Manifesto ##
 
 - Databrary's primary purpose is to foster open data-sharing among a community of researchers in developmental science in particular, and in psychological and neural science more generally.

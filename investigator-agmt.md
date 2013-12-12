@@ -1,5 +1,3 @@
-# Databrary
-
 ## Data Use and Contribution Agreement
 
 ### 1.	Overview

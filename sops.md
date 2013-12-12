@@ -1,5 +1,3 @@
-# Databrary
-
 ## Standard Operating Procedures
 
 ### 1. What is Databrary?

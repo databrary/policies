@@ -1,4 +1,3 @@
-# Databrary
 # Best Practices for Data Security
 
 Data security evolves. This document represents a set of best practices that Databrary recommends all *Authorized Researchers* and *Sponsored Researchers* adopt:

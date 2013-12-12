@@ -1,4 +1,3 @@
-# Databrary
 ## Bill of Rights
 
 As a person who shares information with Databrary, you have the right to:
