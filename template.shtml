@@ -1,6 +1,7 @@
 <!--#set var="title" value="Policy" -->
 <!--#include virtual="/includes/header.shtml" -->
 <article id="static_policies">
+<div><small>This file is also available in <a href="%FILE%.pdf">pdf</a>, <a href="%FILE%.docx">docx</a>, or the original <a href="https://github.com/databrary/policies/blob/master/%FILE%.md">markdown</a>.</small></div>
     <!--#include virtual="%FILE%.html" -->
 </article>
 <!--#include virtual="/includes/footer.shtml" -->
