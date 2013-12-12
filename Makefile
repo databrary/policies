@@ -30,4 +30,4 @@ doc/%.tex: %.md
 	$(PANDOCMD)
 	$(LINK)
 doc/%.shtml: template.shtml
-	sed 's/%FILE%/$*/' $< > $@
+	sed 's/%FILE%/$*/g' $< > $@
