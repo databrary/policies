@@ -19,7 +19,7 @@ It will provide a guide for contributors as well as curators to prepare them for
 
 ## Permissible Data
 
-For these purposes, we are assuming that Lisa has worked with the contributor to determine what datasets/studies have permissions that allow sharing. These could be data previously collected with language their IRB deemed equivalent with Databrary sharing or data collected with the **Databrary Release**.
+For these purposes, we are assuming that Lisa has worked with the contributor to determine what datasets/studies have permissions that allow sharing. These could be data previously collected with language their IRB deemed equivalent with Databrary sharing or data collected with the **Databrary Release**. The policy conversations have to come first, and will allow us (Lisa) to explain that the release form can come at the end of the session and is totally separate from the consent process. 
 
 ### Action items for researcher
 
