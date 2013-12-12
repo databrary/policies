@@ -1,7 +1,7 @@
 #Data Conversations
 
 We think of this document as set of notes on the curation process and welcome comments and feedback about the ideas that follow.
-The intention is for this to lead to a document that describes explicitly detail the curation process: what conversations will we have with contributors and what information we will solicit from them in what order.
+The intention is for this to lead to a document that explicitly details the curation process: what conversations will we have with contributors and what information we will solicit from them in what order.
 It will provide a guide for contributors as well as curators to prepare them for how the process will go.
 
 ###Summary of information we will gather
@@ -62,7 +62,7 @@ Some sample questions:
 > - Do you have some data you might collect into a dataset?
 > - Do you have one or more studies you wish to share?
 > - About how many (participants/households/etc.) are included in your dataset?
-> - Do you have pilot participants? Would you want those included on databrary with your dataset?
+> - Do you have pilot participants? Would you want those included on databrary with your dataset? Or as a seperate dataset?
 > - Do you exclude any participants? Why? Would you want these included on databrary with your study?
 > - What ways, if any, do you have of grouping participants/sessions? Ex: tasks, locations, age group, etc.
 > - Do you have any multi-visit or longitudinal studies where you keep track of the same participants?
@@ -142,7 +142,7 @@ Gather information about how the PI manages their data (optional)
 Ask the PI about their thoughts on Databrary (optional)
 
 > - What made you decide to deposit your data into Databrary?
-> - Are there any services in particular you want databrary to provide?
+> - Are there any services in particular you want Databrary to provide?
 > - Do you have any concerns about sharing your data in Databrary?
 > - When you imagine uploading your data in Databrary, what do you envision the process to be like?
 
