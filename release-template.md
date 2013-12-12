@@ -71,36 +71,38 @@ I give permission for authorized Databrary researchers to show selected video ex
 By signing below, I indicate that I understand the Databrary Release document and have recorded my own choices for sharing the material from this session in Databrary and allowing authorized Databrary researchers to show excerpts.
 
 ### ADULTS
-| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images |	Adult’s Signature: | Date |
-|--------|---|---|---|---|
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-		
-			
+
+| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images | Adult’s Signature: | Date |
+|-------|--------------------------------------------------------|-----------------------------------------------|-------------------------|------|
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |   |   |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |   |   |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |   |   |
+
+
 ### CHILDREN DECIDING FOR THEMSELVES (ALSO REQUIRES PARENTAL CONSENT)
 
 Researcher must read through Assent to Share Script with those that can provide oral or written assent. Parent or guardian must also decide whether to allow their child to share, and then sign on their behalf.	
 
-| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images | Participant's Signature |	Parent/Guardian Signature: | Date |
+| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images | Participant's Signature | Parent/Guardian Signature: | Date |
 |--------|-----|-----|-----|-----|-----|
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No | |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No | |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No | |	 |  |	
-				
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |  |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |  |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |  |
+
 
 ### YOUNG CHILDREN WITH PARENT OR GUARDIAN PROVIDING CONSENT
 
-Parent or guardian must decide whether to allow their child to share and sign on their behalf.	
+Parent or guardian must decide whether to allow their child to share and sign on their behalf.
 
-| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images |	Parent/Guardian Signature: | Date |
+| Name  | I give permission to share with authorized researchers | I give permission to show excerpts and images | Parent/Guardian Signature: | Date |
 |--------|-----|-----|-----|-----|
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |	 |  |	
-		
-### TO BE COMPLETED BY RESEARCHER OBTAINING PERMISSION	
-| Researcher’s Name	| I certify that all participants present have consented or assented above and agreed to release this session to share in Databrary. | Researcher’s Signature:	| Date |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |
+|      | ☐ Yes           ☐ No | ☐ Yes           ☐ No |  |  |
+
+### TO BE COMPLETED BY RESEARCHER OBTAINING PERMISSION
+
+| Researcher’s Name | I certify that all participants present have consented or assented above and agreed to release this session to share in Databrary. | Researcher’s Signature: | Date |
 |-------------------|------------|---|---|
-|          | ☐ Yes  ☐ No |       |   |   |		
+|          | ☐ Yes  ☐ No |       |   |   |
 
