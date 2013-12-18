@@ -36,6 +36,7 @@ For these purposes, we are assuming that Lisa has worked with the contributor to
 Our main goal here is to get an idea of what data the contributor collects and how they think about organizing it.
 
 We might lead with something like:
+
 > We know data sharing is new and how hard it is to keep everything organized consistently. We expect that not everything we will ask for has already been collated, organized, or digitized. We want to think with you about all the important information you want to pull out of your data and store in Databrary. We will work with you throughout the process, and also advise about best practices you might adopt that will make this process easier for data you acquire going forward.
 >
 > To start thinking about this process, can you tell me about some research you have done on data that you may be able to share, perhaps a paper you've published.
