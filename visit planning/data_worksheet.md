@@ -27,12 +27,11 @@ List any collaborators or other PIs for this dataset/study
 
 
 
+Do you want to share this data with the databrary community?
+
+
+If you don't want to share your data, do you want your data to be visible to the Databrary community? 
 
 
 
-
-Do you this data to be accessable to the Databrary community?
-
-
-
-Do you want this data to be viewable to the public? 
+Do you want this data to be visible to the public? 
