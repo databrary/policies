@@ -4,7 +4,7 @@ The purpose of this document is to explain to PIs what information we collect ab
 
 ### Information we collect about the session
 * ### test date - must have
-	*  MM/DD/YY
+	* YYYY-MMM-DD
 * ### release level - must have
 	* no consent information - This is the default if no consent level information is provided
 	* private - The participant(s) did not consent to share their data
@@ -40,10 +40,10 @@ The purpose of this document is to explain to PIs what information we collect ab
 
 ### Information we collect about the participant(s)
 * ### birthday - must have
-	* MM/DD/YY
+	* YYYY-MMM-DD
 * ### gender 
-	* male
-	* female
+	* Male
+	* Female
 * ### race
 	* American Indian or Alaska Native
 	* Asian
@@ -71,13 +71,3 @@ The purpose of this document is to explain to PIs what information we collect ab
 * ### country of origin
 	* Define the country the participant is originally from
 
-
-	
-	
-	
-	
-
-	
-
-
- 
