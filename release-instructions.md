@@ -13,7 +13,7 @@ Data can only be shared with other Databrary authorized users if (i) the data ar
 
 Many flat-file data sets can be easily de-identified, but de-identifying recordings is complicated, expensive, and diminishes their value to other researchers. So, to share recordings without removing personal identifiers, Databrary asks researchers to get permission to share from those people who are depicted in recordings. To standardize the process and make it as simple as possible for researchers, we have developed a [Databrary Template Release](release-template.md) that can be added to IRB protocols and used with participants.
 
-The [Databrary Release Template](release-template.md) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain with the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
+The [Databrary Release Template](release-template.md) was developed and refined in close consultation with the IRB office at NYU to give Databrary Investigators a standardized way to obtain the necessary permissions to be shared in Databrary. The template form is designed to make it as clear and unambiguous as possible to participants about what agreeing to share their data in Databrary will mean.
 
 ## When do I have to share data?
 
@@ -25,13 +25,13 @@ Some investigators already ask research participants for permission to share [re
 
 Here's what you should do:
 
-- Ask your IRB for permission to share recordings with Databrary under the provisions of your current (IRB-approved) video/audio/photo release form. You will want to provide your IRB copies of your current release form and the [Databrary Template Release](release-template.md).
+- Ask your IRB for permission to share recordings with Databrary under the provisions of your current (IRB-approved) video/audio/photo release form. You will want to provide your IRB copies of your current release form and the [Databrary Template Release](release-template.md). NIH and NSF do not require data destruction clauses.
 
-- Make sure that your informed consent documents **do not** contain data destruction clauses.If they do, you cannot share your recordings with Databrary. Databrary intends to store recordings and other data indefinitely. So, check your consent form and release form language to see whether you have promised to destroy data after a certain date. 
+- Make sure that your informed consent documents **do not** contain data destruction clauses. If they do, you cannot share your recordings with Databrary. Databrary intends to store recordings and other data indefinitely. So, check your consent form and release form language to see whether you have promised to destroy data after a certain date. 
 
 - If you have informed consent documents that contain data destruction clauses, you may still be able to share [de-identified data](definitions.md#de-identified-data) or [metadata](definitions.md#metadata) about your study with Databrary.
 
-- Once you have permission from your IRB to share data, you may contact Databrary for help in uploading and sharing your data or you may choose to upload and share the data yourself.
+- Once you have permission from your IRB to share data, you may contact Databrary for help uploading and sharing your data or you may choose to upload and share the data yourself.
 
 ## How should I get ready to share with Databrary at some future date?
 
@@ -39,8 +39,8 @@ Here's what you should do:
 
 - Modify your existing IRB protocol(s) to enable sharing with Databrary. 
 	- As part of the modification, you will want to adapt the [Databrary Template Release](release-template.md) and submit it for review.
-	- You will also want to review your informed consent documents and remove any data destruction clauses. Rather than promise to destroy data after some period of time, say "Data will be stored indefinitely in a secure library on the internet."
-- Once you have permission from your IRB to ask participants about data sharing, you may start securing and recording those permissions from participants.
+	- You will also want to review your informed consent documents and remove any data destruction clauses. Rather than promise to destroy data after some period of time, say "Data will be stored indefinitely in a secure library on the internet." NIH and NSF do not require data destruction clauses.
+- Once you have permission from your IRB to ask participants about data sharing, you may start securing and recording those permissions from participants. We advise researchers to ask participants for permission to share at the end of data collection so that participants have acquired first hand knowledge about the study. This ensures that consent to participate is completely separate from permission to share and eliminates any risk that asking about sharing will affect participation in studies.
 - At some date in the future when you are ready to share data, contact Databrary for help. 
 - You may also decide to upload data to Databrary *prior* to sharing it with anyone. In this way, Databrary can act like a lab file server. You can decide later whether you want to share data with researchers who are not part of your approved IRB protocol.
 
@@ -59,18 +59,12 @@ Investigators who wish to contribute to Databrary must do some planning in advan
 5.	Apply for and be granted Principal Investigator or Affiliate Investigator status with Databrary;
 6.	Prepare recordings for sharing with Databrary, including tagging files with the level of permission granted by all depicted individuals. Remove personally identifying information from other data and metadata.
 
-### Seeking permission to share data
-Researchers who wish to share data with Databrary should seek permission to do so from their governing research supervision entity, such as an IRB. Individuals whose scientific activities are not governed by a research supervision entity may choose to have their protocol reviewed by another entity with similar authority. In preparing applications to the research supervision entity, researchers are strongly encouraged to refer to and use the Databrary Release Template provided by Databrary. 
-### Data Destruction Clauses
-Some informed consent documents have “data destruction” clauses that say the researchers will destroy data after a certain period of time. Data destruction clauses are incompatible with sharing through Databrary, and are **not** required by NIH. In seeking approval to share with Databrary, investigators should make certain that existing informed consent documents do not have data destruction clauses. Databrary recommends that informed consent documents used in a protocol state that “all information will be stored indefinitely in a secure data library on the internet.”
-Links to all of the relevant Databrary documents concerning permissions and access may be found on the [Databrary website](http://databrary.org/about/#policies).
-
 
 ## Sample script for introducing the Databrary Release Form to participants
 
 *Now that you have finished this session, there's one more thing we want to ask you. The data that researchers collect from babies and families are incredibly valuable for helping scientists to understand how children develop.* 
 
-*So we wanted to ask if you are comfortable with allowing us to share the data we collected from this session with other researchers just like the professor who runs this lab/project. The data would be shared in a secure, online library, it's not available to the public,-- only researchers that are authorized by their University would be able to access the information in the library.*
+*So we wanted to ask if you are comfortable with allowing us to share the data we collected from this session with other researchers just like the professor who runs this lab/project. The data would be shared in a secure, online library, it's not available to the public-- only researchers that are authorized by their University would be able to access the information in the library.*
 
 *This permission form also asks whether you would allow other professors/ researchers like Dr. [PI’s Name] to show short bits of the videos to students or researchers for educational and scientific purposes. These data will not be used or shown for commercial purposes.*
 
