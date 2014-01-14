@@ -55,7 +55,7 @@ Application for Databrary Investigator status may be made via a web form. The fo
 - Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, CITI; https://www.citiprogram.org), and expiration date of current authorization.
 - Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
 - Required for Databrary Affiliate Investigator applicants: Information about the research supervisor (Name, Databrary user ID, and email)
-- An electronically signed copy of the [Databrary Investigator Agreement](investigator-agmt.md).
+- An electronically signed copy of the [Databrary Investigator Agreement](investigator-agreement.md).
 
 The agreement obligates applicants to follow principles of ethical research with human participants, to seek permission to share recordings or self-reported health-related information from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow [best practices in data security](best-practices.md), to follow the Databrary [Bill of Rights](bill-of-rights.md), and other principles. 
 
@@ -86,7 +86,7 @@ Databrary will log access to the system by Databrary Investigator ID and by IP a
 
 Any member of the public may browse data or download tools with unrestricted/public level of access. Individuals with Databrary Investigator or Affiliate Investigator status may also browse or download assets with restricted, but open access. When Investigators or Affiliates request data sets to download, the Databrary system will remind them to cite data sets and associated papers, to obtain appropriate approvals for conducting research, to follow [best practices for data security](best-practices.md), and to remove and destroy data that are no longer needed. Databrary will also send periodic email reminders to researchers who download data reminding them to follow these practices. 
 
-Many Databrary uses will involve browsing or downloading data sets without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities to determine whether formal analyses are feasible or promising). If Investigators or Affiliates intend to conduct research with data sets, they may be required to obtain permission from a research supervision entity at their institution. Decisions about whether Investigators or Affiliate Investigators may conduct research on data sets or the type of research proposed are beyond Databrary’s control. Thus, whenever permitted by the research supervision entity that supervises their research, Investigators or Affiliate Investigators may conduct research on data sets derived from Databrary. It is the explicit responsibility of the Investigator or Affiliate Investigator to obtain the necessary permissions to conduct research by their respective research supervision entity. This is clearly stated in the [Databrary Investigator Agreement](investigator-agmt.md). When such approval is sought and secured, the Investigator or Affiliate Investigator must provide Databrary with the approved protocol name, IRB or equivalent protocol identification number, and expiration date.
+Many Databrary uses will involve browsing or downloading data sets without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities to determine whether formal analyses are feasible or promising). If Investigators or Affiliates intend to conduct research with data sets, they may be required to obtain permission from a research supervision entity at their institution. Decisions about whether Investigators or Affiliate Investigators may conduct research on data sets or the type of research proposed are beyond Databrary’s control. Thus, whenever permitted by the research supervision entity that supervises their research, Investigators or Affiliate Investigators may conduct research on data sets derived from Databrary. It is the explicit responsibility of the Investigator or Affiliate Investigator to obtain the necessary permissions to conduct research by their respective research supervision entity. This is clearly stated in the [Databrary Investigator Agreement](investigator-agreement.md). When such approval is sought and secured, the Investigator or Affiliate Investigator must provide Databrary with the approved protocol name, IRB or equivalent protocol identification number, and expiration date.
 
 ##### Account renewal
 
@@ -271,7 +271,7 @@ Databrary will form an Ethics Committee to monitor the project, review and modif
 
 ### 4.	Related Policies and Procedures
 
-- [Databrary Investigator/Affiliate Investigator Agreement](investigator-agmt.md)
+- [Databrary Investigator/Affiliate Investigator Agreement](investigator-agreement.md)
 - [Databrary Permission to Share Recordings](https://github.com/databrary/policies/)
 - [Databrary Permission to Share Self-Reported Health-Related Information](https://github.com/databrary/policies/)
 - [Databrary Best Practices for Data Security](best-practices.md)
