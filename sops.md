@@ -330,21 +330,22 @@ De-identified Data: Collections of information from which Personally Identifying
 Recordings: Video or audio recordings or still images.
 
 Personally Identifying Information:
-- 	Full name
-- 	National identification number (e.g., Social Security number)
-- 	Internet Protocol  address
-- 	Vehicle registration plate number
-- 	Driver's license number
-- 	Health certificate or insurance number
-- 	Fingerprints, or handwriting
-- 	Credit card or financial account or access numbers
-- 	Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)
-- 	Date of birth
-- 	Birthplace
-- 	Address
-- 	Telephone number
-- 	Faces and voices.
-See also: HIPAA identifiers (http://privacyruleandresearch.nih.gov/pr_08.asp)
+* Full name
+* National identification number (e.g., Social Security number)
+* Internet Protocol  address
+* Vehicle registration plate number
+* Driver's license number
+* Health certificate or insurance number
+* Fingerprints, or handwriting
+* Credit card or financial account or access numbers
+* Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)
+* Date of birth
+* Birthplace
+* Address
+* Telephone number
+* Faces and voices.
+* 
+See also: [HIPAA identifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 Shareable Identifiable Data: Identifable data for which a Depicted Individual has granted Permission or Assent to Share Recordings or Data. 
 
@@ -368,4 +369,4 @@ Deductive Disclosure: The discerning of an individual's identity or confidential
 
 Public Showing: Playing an audio or video segment or showing a photograph to an audience that is not limited to Research Staff.
 
-Research: A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. 45 CFR 46.102 (http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html46.102)
+Research: A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. [45 CFR 46.102](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html46.102)
