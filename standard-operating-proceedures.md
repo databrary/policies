@@ -344,7 +344,7 @@ Personally Identifying Information:
 * Address
 * Telephone number
 * Faces and voices.
-* 
+
 See also: [HIPAA identifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
 Shareable Identifiable Data: Identifable data for which a Depicted Individual has granted Permission or Assent to Share Recordings or Data. 
