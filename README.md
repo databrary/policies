@@ -3,8 +3,8 @@ policies
 
 Databrary policies and procedures:
 
-- [Standard operating procedures - SOPs](sops.md)
-- Investigator/Affiliate Investigator [Agreement](investigator-agmt.md)
+- [Standard operating procedures - SOPs](standard-operating-proceedures.md)
+- Investigator/Affiliate Investigator [Agreement](investigator-agreement.md)
 - Participant [Bill of Rights](bill-of-rights.md)
 - [Definitions of Terms](definitions.md)
 - [Data Management Best Practices](best-practices.md)
