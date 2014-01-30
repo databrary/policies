@@ -53,9 +53,9 @@ A person under the age of 18.
 
 ### Entities
 
-#### Research Supervision Entity(ies)
+#### Institutional Review Board
 
-An Institutional Review Board (IRB) or equivalent authority charged with supervising research at an *Institution*.
+An Institutional Review Board (IRB) or equivalent research supervision entity  charged with supervising research at an *Institution*.
 
 #### Institution(s)
 
