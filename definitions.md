@@ -10,8 +10,7 @@
 
 #### Principal Investigator (PI), Principal Investigator (PI) Status
 
-An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. 
-*Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
+An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. *Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
 
 #### Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
 
@@ -19,7 +18,7 @@ An individual with *Principal Investigator (PI)* status at an *Institution* who 
 
 #### Databrary Affiliate Investigator(s) or Affiliate Investigator(s)
 
-An individual, affiliated with an *Authorized Investigator*, who has been authorized for access to Databrary under that *Investigator's* sponsorship and supervision. The access privileges of *Affiliate Investigators* are under the control of one or more *Databrary Principal Investigators*.
+An individual, affiliated with a *Databrary Principal Investigator*, who has been authorized for access to Databrary under that *Investigator's* sponsorship and supervision. The access privileges of *Affiliate Investigators* are under the control of one or more *Databrary Principal Investigators*.
 
 #### Data Contributor(s)
 
@@ -35,11 +34,11 @@ A person observed for purposes of *Research*.
 
 #### Third-Party User(s)
 
-An individual who wishes to obtain access to Databrary, but has not yet been granted an *Investigator* or *Affiliate Investigator* account.
+An individual who wishes to obtain access to Databrary, but has not yet been granted *Principal Investigator* or *Affiliate Investigator* account.
 
 #### Private Person(s)
 
-Any individual (including an individual acting in his official capacity) and any private entity (i.e., non-government partnership, corporation, association, organization) or any combination thereof including family, household, school, neighborhood, health service, or institution. 
+Any individual (including an individual acting in his official capacity) and any private entity (i.e., non-government partnership, corporation, association, organization) or any combination thereof including family, household, school, neighborhood, health service, or *Institution*. 
 
 #### Representative of the Institution
 
@@ -53,9 +52,9 @@ A person under the age of 18.
 
 ### Entities
 
-#### Institutional Review Board
+#### Institutional Review Board (IRB)
 
-An Institutional Review Board (IRB) or equivalent research supervision entity  charged with supervising research at an *Institution*.
+A research supervision entity or its equivalent charged with supervising research at an *Institution*.
 
 #### Institution(s)
 
@@ -67,7 +66,7 @@ A university or research organization (including commercial entities), or a gove
 
 #### Databrary Investigator/Affiliate Investigator Agreement
 
-Written or electronic agreement that sets out the rights and responsibilities of *Investigators* and *Affiliate Investigators* in their use of Databrary resources.
+Written or electronic agreement that sets out the rights and responsibilities of *Databrary Principal Investigators* and *Affiliate Investigators* in their use of Databrary resources.
 
 #### Permission/Assent to Share Recordings
 
@@ -89,22 +88,6 @@ Written or electronic permission or assent to allow *De-identified* *Self-Report
 
 ### Data-types
 
-#### Identifiable Data
-
-Collections of *PII* that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
-
-#### Non-Identifiable Data
-
-Collections of information that do not contain *Identifiable Data*.
-
-#### De-identified Data
-
-Collections of information from which *PII* has been removed or altered in such a way as to prevent the identification of individual persons.
-
-#### Recordings
-
-Video or audio recordings or still (photographic) images.
-
 #### Personally Identifying Information (PII)
 
 See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
@@ -124,10 +107,25 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 - Telephone number
 - Faces and voices.
 
+#### Identifiable Data
+
+Collections of *PII* that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
+
+#### Non-Identifiable Data
+
+Collections of information that do not contain *Identifiable Data*.
+
+#### De-identified Data
+
+Collections of information from which *PII* has been removed or altered in such a way as to prevent the identification of individual persons.
+
+#### Recordings
+
+Video or audio recordings or still (photographic) images.
+
 #### Shareable Identifiable Data
 
 *Identifiable Data* for which a *Depicted Individual* has granted *Assent to Share Data* or *Permission to Share Data*. 
-
 #### Metadata
 
 Information that describes how, where, why, and by whom *Identifiable Data*, *De-Identified Data* or *Non-Identifiable Data* were collected.
@@ -180,8 +178,7 @@ Databrary currently supports four (4) levels of *Sharing Permission*:
 
 #### Access Permissions (Level)
 
-Specific permissions placed on a study or other digital object by a Researcher controlling its access by other Databrary users.
-These are distinct from and may have more flexibility than Sharing Permission.
+Specific permissions placed on a study or other digital object by an *Investigator* controlling its access by other Databrary users. These are distinct from and may have more flexibility than Sharing Permission.
 
 #### Authorization, User/Investigator Authorization (Level)
 
