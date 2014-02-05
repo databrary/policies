@@ -1,32 +1,36 @@
 # Best Practices for Data Security
 
-Data security evolves. This document represents a set of best practices that Databrary recommends all *Authorized Researchers* and *Sponsored Researchers* adopt:
+Data security evolves. Databrary requires all Databrary *Principal Investigators* and *Investigators* to embrace best practices for data security. 
 
-## Personally Identifying Information (PII)
+## Protect Confidentiality ##
 
-- PII consists of the following:
-	- Full name
-	- National identification number (e.g., Social Security number)
-	- Internet Protocol (IP) address
-	- Vehicle registration plate number
-	- Driver's license number
-	- Health certificate or insurance number
-	- Fingerprints, or handwriting
-	- Credit card or financial account or access numbers
-	- Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)
-	- Date of birth
-	- Birthplace
-	- Address
-	- Telephone number
-- And, faces and voices.
-- Special care must be taken with PII.
-	- Participants should be identified by a code that does not include PII -- names, initials, birthdates, phone or ID numbers, etc.
-	- Personally identifying information (PII) should be removed from text/flat files before it is shared with Databrary. This is called *de-identifying* data.
-		- The exception to this concerns **date of birth**, which is vitally important for developmental research. Date of birth need not be removed from text/flat files. 
-	- If you collect PII on paper, lock the paper records in file cabinets and ensure that the file cabinets are located in locked rooms that are not readily accessible to unauthorized people.
-	- No PII may be included in audio or video recordings or photographs with these exceptions:
-		- Names and voices in audio or video recordings or photographs need not be removed before sharing with Databrary. 
-		- If date of birth information is recorded, that also need not be removed from recordings prior to sharing with Databrary.
+Databrary contains *Personally Identifying Information (PII)*. Special care must be taken with *PII*:
+
+- Participants should be identified by a code that does not include *PII* -- no names, initials, birthdates, phone or ID numbers, etc.
+- *Personally identifying information (PII)* should be removed from text/flat files before it is shared with Databrary. This is called *de-identifying* data.
+- The exception to this concerns **date of birth**, which is vitally important for developmental research. Date of birth need not be removed from text/flat files. 
+- If you collect *PII* on paper, lock the paper records in file cabinets and ensure that the file cabinets are located in locked rooms that are not readily accessible to unauthorized people.
+- No *PII* may be included in audio or video recordings or photographs shared with Databrary, with these exceptions:
+	- Names and voices in audio or video recordings or photographs need not be removed before sharing with Databrary. 	
+	- If date of birth information is recorded, that also need not be removed from recordings prior to sharing with Databrary.
+
+### Personally Identifying Information (PII)
+
+PII consists of the following:
+
+- Full name
+- National identification number (e.g., Social Security number)
+- Internet Protocol (IP) address
+- Vehicle registration plate number
+- Driver's license number
+- Health certificate or insurance number
+- Fingerprints, or handwriting
+- Credit card or financial account or access numbers
+- Digital identity (e.g., Facebook, Twitter, LinkedIn, email account names)
+- Date of birth
+- Birthplace
+- Address
+- Telephone number
 
 ## Password Generation
 
@@ -53,8 +57,8 @@ Data security evolves. This document represents a set of best practices that Dat
 
 - If flat-file data are stored on laboratory computers, those computers should be regularly (daily or weekly) backed up to a secure location offsite.
 - More than one backup copy should exist. All backups should be secure.
-- Since Databrary stores high resolution copies of recordings that can be downloaded at any time, recordings taken from Databrary need not be backed up. Indeed, creating multiple backups of recordings from Databrary increases the risk that identifiable information may be released inadvertently.
-- You may take screen shots, but if the screen shots contain PII, they must be stored securely.
+- Since Databrary stores high resolution copies of *Recordings* that can be downloaded at any time, recordings taken from Databrary need not be backed up. Indeed, creating multiple backups of *Recordings* from Databrary increases the risk that *PII* may be released inadvertently.
+- You may take screen shots, but if the screen shots contain *PII*, they must be stored securely.
 
 ## Physical features of laboratory or office
 
