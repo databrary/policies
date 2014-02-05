@@ -6,7 +6,7 @@ While you are filling this out, please think about what your participants were d
 
 In addition, feel free to attach any files files that describe the entire dataset or study. These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent forms, or any other files you might have that you are willing to share. 
 
-Keep in mind that most of this information, espcially the sharing portion, is easy to change. Before we make your data visabel to the Databrary community, we will can go through your dataset(s) to ensure you are satisfied with the way your research looks. 
+Keep in mind that most of this information, especially the sharing portion, is easy to change. Before we make your data visible to the Databrary community, we will can go through your dataset(s) to ensure you are satisfied with the way your research looks. 
 
 ##Titles and Summaries
 
@@ -18,7 +18,7 @@ Keep in mind that most of this information, espcially the sharing portion, is ea
 
 ####Write a summary of your dataset or study. This can be similar to an abstract in a published paper. Some researchers write a couple sentences, others write long paragraphs.
 
-####Did you dervive multiple projects or questions from this data or pool multiple sources of data to perform this study? Yes or no? If yes, we will have a more in depth conversation with you about how to represent that data.
+####Did you derive multiple projects or questions from this data or pool multiple sources of data to perform this study? Yes or no? If yes, we will have a more in depth conversation with you about how to represent that data.
 
 
 ####What did the subjects do in the dataset/study in a single session? Were there specific tasks that each participant attempted? Can you give descriptive names to the task(s)?
@@ -45,7 +45,7 @@ Keep in mind that most of this information, espcially the sharing portion, is ea
 
 ####Was there a specific population you were studying? 
 
-####Did you have radmonly assigned conditions or treatments within or between subjects? How would you define these these conditions or treatments?
+####Did you have randomly assigned conditions or treatments within or between subjects? How would you define these these conditions or treatments?
 
 ####Did you do groupings by age/gender/experience etc? How would you define these groupings?
 
