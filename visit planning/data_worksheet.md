@@ -6,13 +6,13 @@ While you are filling this out, please think about what your participants were d
 
 In addition, feel free to attach any files files that describe the entire dataset or study. These could be images, graphs, stimuli, protocols, blank questionnaires, blank consent forms, or any other files you might have that you are willing to share. 
 
-Keep in mind that most of this information, especially the sharing portion, is easy to change. Before we make your data visible to the Databrary community, we will can go through your dataset(s) to ensure you are satisfied with the way your research looks. 
+Keep in mind that most of this information, especially the sharing portion, is easy to change. Before we make your data visible to the Databrary community, we can go through your dataset(s) to ensure you are satisfied with the way your research looks. 
 
 ##Titles and Summaries
 
 
 
-####Please give a title of your dataset or study. We would like it be a descriptive title. Think about what is most important about your dataset or study. Is it the task? Physical description? Display? Technique? You can  think about it and  come back to this question after filling out the rest of the worksheet.
+####Please give a title to your dataset or study. We would like it to be a descriptive title. Think about what is most important about your dataset or study. Is it the task? Physical description? Display? Technique? You can  think about it and  come back to this question after filling out the rest of the worksheet.
 
 
 
@@ -21,11 +21,11 @@ Keep in mind that most of this information, especially the sharing portion, is e
 ####Did you derive multiple projects or questions from this data or pool multiple sources of data to perform this study? Yes or no? If yes, we will have a more in depth conversation with you about how to represent that data.
 
 
-####What did the subjects do in the dataset/study in a single session? Were there specific tasks that each participant attempted? Can you give descriptive names to the task(s)?
+####What did the subjects do in the dataset/study in a single session? Were there specific tasks that each participant attempted? Can you give descriptive names to the tasks?
 
-####Do you have documentation that defines specifically what the participants did for each task or over a session? These could be instructions given to a participant or protocols.You can attach that documentation to this worksheet. If you do not have that documentation, could you please define what a participant did for each task and/or in a session?
+####Do you have documentation that defines specifically what the participants did for each task or over a session? These could be instructions given to a participant or protocols. You can attach that documentation to this worksheet. If you do not have that documentation, could you please define what a participant did for each task and/or in a session?
 
-####What is your collection methodology? Can you define what you did? Did you use any stimuli like photos? Can you attach that stimuli?
+####What is your collection methodology? Can you define what you did? Did you use any stimuli like photos? Can you attach those stimuli?
 
 ##Defining what kind of data this is
 
