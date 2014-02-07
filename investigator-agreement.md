@@ -24,7 +24,7 @@ I agree to follow all relevant national, state, and local laws and regulations t
 
 I agree to complete training in research ethics involving human participants. The training must be offered by an official research ethics training entity and acceptable to my *Institution’s Institutional Review Board*. I agree to keep current my research ethics training certification.
 
-I agree to follow Databrary's [best practices in data security](best-practices.md) for any information I draw from Databrary or collect to contribute to Databrary.
+I agree to follow Databrary's [Best Practices in Data Security](best-practices.md) for any information I draw from Databrary or collect to contribute to Databrary.
 
 I agree to uphold the [Databrary Bill of Rights](bill-of-rights.md).
 
