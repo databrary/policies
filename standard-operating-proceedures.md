@@ -8,7 +8,7 @@ Databrary contains *De-Identified Data*, *Non-Identifiable Data*, and *Metadata*
  
 The Databrary ecosystem also includes a database of researchers, called *Principal Investigators* or *Affiliate Investigators*, or collectively *Investigators*. *Investigators* have authorization to use and contribute data. The database keeps track of the identities of each *Investigator* who contributes to, browses data within, or withdraws data or tools from Databrary.
 
-This document sets out Databrary's Standard Operating Procedures (SOPs). Section 2 describes the challenges that must be met in creating a data sharing system for sensitive, identifiable data. Section 3 describes Databrary operating procedures. Section 4 describes other documents involved in Databrary operations.  Definitions of key terms, italicized throughout the text, may be found in a separate [document](definitions.md). For the latest versions of Databrary policies, see the [website](http://databrary.org/about/#policies) or [GitHub repository](http://github.com/databrary/policies/).
+This document sets out Databrary's Standard Operating Procedures (SOPs). Section 2 describes the challenges that must be met in creating a data sharing system for sensitive, identifiable data. Section 3 describes Databrary operating procedures. Section 4 describes other documents involved in Databrary operations.  Definitions of key terms, italicized throughout the text, may be found in a separate [document](definitions.md). For the latest versions of Databrary policies, see the [website](http://databrary.org/user-guide/policies.html).
 
 ### 2. The Challenges of Databrary
 
@@ -57,7 +57,7 @@ Application for *Investigator* status may be made via a web form. The following 
 - Name, title, institution, surface address, email, phone.
 - Unique Databrary username and password. The user name may be the applicant's official institutional access ID (e.g. rog1@psu.edu).
 - Certification of PI status eligibility from appropriate research supervision entity.
-- Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, CITI; https://www.citiprogram.org), and expiration date of current authorization.
+- Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, [CITI](https://www.citiprogram.org)), and expiration date of current authorization.
 - Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
 - Required for Databrary Affiliate Investigator applicants: Information about the research supervisor (Name, Databrary user ID, and email)
 - An electronically signed copy of the [Databrary Investigator Agreement](investigator-agreement.md).
@@ -66,7 +66,7 @@ The agreement obligates applicants to follow principles of ethical research with
 
 *Optional, but recommended*
 
-- Applicant web site, Research Gate (http://www.researchgate.net) profile, social media accounts, ERA Commons ID.
+- Applicant web site, [Research Gate](http://www.researchgate.net) profile, social media accounts, ERA Commons ID.
 
 ##### 3.1.6 Application review
 
@@ -118,7 +118,7 @@ There are two primary types of studies involving *Recordings* and other data str
 
 Researchers who wish to share data with Databrary should seek permission to do so from their  *IRB*. Individuals whose scientific activities are not governed by an *IRB* may choose to have their protocol reviewed by another entity with similar authority. In preparing applications to the entity, researchers are strongly encouraged to refer to and use the document(s) provided by Databrary (see Section 4). 
 
-Links to all of the relevant Databrary documents concerning permissions and access may be found on the Databrary [website](http://databrary.org/about/#policies).
+Links to all of the relevant Databrary documents concerning permissions and access may be found on the Databrary [website](http://databrary.org/user-guide/policies.html).
 
 #### 3.3	Securing permission from participants to share data
 
@@ -126,7 +126,7 @@ Under most circumstances, the collection of *Recordings* requires that individua
 
 ##### 3.3.1 How will *Permission to Share* data be secured?
 
-Databrary has published a Sharing Release Template see [GitHub](https://github.com/databrary/policies/). This template should be submitted with *IRB* applications for research, and should be used by *Investigators* when they seek *Permission to Share* from research participants or depicted individuals.
+Databrary has published a [Sharing Release Template](release-template.md). This template should be submitted with *IRB* applications for research, and should be used by *Investigators* when they seek *Permission to Share* from research participants or depicted individuals.
 
 ##### 3.3.2 Levels of permissions to share recordings
 
@@ -212,7 +212,7 @@ Databrary intends to uphold the highest standards of integrity. These standards 
 - Databrary must label files accurately.  *Investigators* who browse or download data must respect the sharing preferences expressed by participants. Databrary staff and *Investigators* are expected to embrace and enact principles of participant confidentiality. This means that all individuals who are recorded on video, audio or other means have the right to have their identities kept confidential.
 - *Investigators* must not upload or share files that contain *Personally Identifying Information* beyond that contained in *Recordings*. *Investigators* must not create new or modify existing *Data* files in ways that increase the risk that a participant’s confidentiality may be violated.
 - If an individual participant’s identity is determined inadvertently, that information must not be shared with anyone, including members of the *Investigator's* research team. Information about the individual’s identity may not be recorded in any form.
-- Databrary staff and *Investigators* are expected to monitor the use of Databrary for violations of the principle of informed consent by others and to report any concerns about possible violations to the Databrary Ethics Committee at (ethics@databrary.org) or via the Databrary website (http://databrary.org/contact/)
+- Databrary staff and *Investigators* are expected to monitor the use of Databrary for violations of the principle of informed consent by others and to report any concerns about possible violations to the Databrary Ethics Committee at (ethics@databrary.org) or via the [Databrary website](http://databrary.org/contact.html).
 - In selecting excerpts of data for public viewing, *Investigators* must exercise professional judgment in order to minimize the chance that an individual participant could be harmed.
 - In selecting data sets to share with Databrary, *Investigators* must exercise professional judgment to avoid sharing data of an offensive or prurient nature. Databrary reserves the right to remove data or data sets that are deemed to be of an inappropriate nature. 
 
@@ -223,7 +223,5 @@ Databrary will form an Ethics Committee to monitor the project, review and modif
 ### 4.	Related Policies and Procedures
 
 - [Databrary Investigator/Affiliate Investigator Agreement](investigator-agreement.md)
-- [Databrary Permission to Share Recordings](https://github.com/databrary/policies/)
-- [Databrary Permission to Share *Self-Reported Health-Related Information*](https://github.com/databrary/policies/)
 - [Databrary Best Practices for Data Security](best-practices.md)
 - [Databrary Bill of Rights](bill-of-rights.md)
