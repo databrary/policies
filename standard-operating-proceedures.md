@@ -30,7 +30,7 @@ Some information may be easily shared with minimal restriction so long as *Perso
 
 There are two primary levels of access: (1) public/unrestricted, and (2) restricted, but open to authorized Databrary *Investigators*. *Data Contributors* may choose whether to allow all authorized *Investigators* on Databrary to have access (Open Sharing) or only a selected subset of individuals (Collaborative Sharing).
 
-Databrary will present a set of pages that allow the public unrestricted access to archival materials, materials that do not contain sensitive information (abstracts, researcher information, protocols, visual displays, coding manuals, etc.), and links to data analysis/software tools.
+Databrary will also allow the contributor to grant public unrestricted access to archival materials, materials that do not contain sensitive information (abstracts, researcher information, protocols, visual displays, coding manuals, etc.), excerpts, and links to data analysis/software tools.
 
 Identifiable or sensitive data — *Recordings*, coded spreadsheets linked to *Recordings*, *Self-Reported Health-Related Information* — and *Metadata* will be assigned to the restricted, but open access level in almost all cases. These materials may be shared if the *Depicted Individuals* or research participants have given permission. See section 3.3.2 below for details about the different levels of sharing permission permitted.
 
@@ -52,34 +52,40 @@ Application for *Investigator* status may be made via a web form. The following 
 
 *Required:*
 
-- Name, title, institution, surface address, email, phone.
-- Unique Databrary username and password. The user name may be the applicant's official institutional access ID (e.g. rog1@psu.edu).
-- Certification of PI status eligibility from appropriate research supervision entity.
-- Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, [CITI](https://www.citiprogram.org)), and expiration date of current authorization.
-- Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
-- Required for Databrary Affiliate Investigator applicants: Information about the research supervisor (Name, Databrary user ID, and email)
+- Name, email, institutional affiliation.
 - An electronically signed copy of the [Databrary Investigator Agreement](investigator-agreement.md).
+- Certification of PI status eligibility from appropriate research supervision entity, or for Databrary Affiliate Investigator applicants, their research supervisor
 
 The agreement obligates applicants to follow principles of ethical research with human participants, to seek *Permission to Share* *Recordings* or *Self-Reported Health-Related Information* from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow [best practices in data security](best-practices.md), to follow the Databrary [Bill of Rights](bill-of-rights.md), and other principles. 
 
-*Optional, but recommended*
+In some cases Databrary may request:
 
-- Applicant web site, [Research Gate](http://www.researchgate.net) profile, social media accounts, ERA Commons ID.
+- Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, [CITI](https://www.citiprogram.org)), and expiration date of current authorization.
+- Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
+
+*Optional, but recommended:*
+
+- Title, surface address, phone
+- Applicant web site, [ORCID](http://orcid.org), [Research Gate](http://www.researchgate.net) profile, social media accounts, ERA Commons ID.
 
 ### 3.1.6 Application review
 
-Once an application has been completed and submitted, applicants will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine the following:
+Once an application has been completed and submitted, applicants will receive an automated email confirmation that an application has been received.
+The welcome/notification email will include reminders about Databrary policies regarding data use and citation.
+
+For *Databrary Principal Investigators*, Databrary will determine the appropriate contact representing the institution, e.g., at a sponsored programs office.
+This representative will be responsible for authorizing the applicant, subject to:
 
 - Applicant identity information is valid and correct.
 - Applicant has human participants ethics clearance from an *IRB*.
-- Applicant has *PI eligibility* or its equivalent at an *Institution*.
+- Applicant has *PI eligibility* or its equivalent at the *Institution*.
 - Applicant has not violated Databrary use standards in the past.
 
 For individuals seeking *Affiliate Investigator* status, the supervising/sponsoring *Databrary Principal Investigator* will be notified via email that an application has been filed. The supervising/sponsoring *Databrary Principal Investigator* will log on to Databrary, approve (or not) the *Affiliate Investigator* application, and provide information about the level of access to be provided to this individual.
 
-Databrary staff under the supervision of the Project Director (Adolph) and Associate Director (Gilmore) will conduct the review and approval. The Databrary Ethics Committee will audit the procedures annually. The Databrary Ethics Committee will consist of staff, Advisory Board members, and the research community at-large. 
+The Databrary Ethics Committee will audit the procedures annually. The Databrary Ethics Committee will consist of staff, Advisory Board members, and the research community at-large. 
 
-If an application requires revisions, project staff will communicate the nature of those revisions via email. All email correspondence will be logged. Once an application is approved, researchers and the official(s) from the *IRB* will be notified by email. The welcome/notification email will include reminders about Databrary policies regarding data use and citation.
+If an application requires revisions, project staff will communicate the nature of those revisions via email. All email correspondence will be logged. Once an application is approved, researchers and the institutional representative will be notified by email.
 
 ### 3.1.7 Access logging/usage metrics
 
@@ -93,7 +99,7 @@ Many Databrary uses will involve browsing or downloading data sets without condu
 
 ### 3.1.9 Account renewal
 
-*Investigator* accounts must be renewed regularly. Databrary will send email reminders that accounts are due to expire 1 month, 2 weeks, and 1 week prior to the expiration date and ask *Investigators* to update their account information. To renew their accounts, *Investigators* will also electronically sign the Databrary Investigator Agreement. If a Databrary *Investigator* fails to renew his or her account by the renewal deadline, the account will be suspended. The account will be reactivated on completion of the renewal procedures. Accounts that are not renewed within 6 months of the suspension date will be archived. Data contributed by *Investigators* who do not renew their accounts will remain on Databrary.
+*Investigator* accounts must be renewed regularly. Databrary will notify users on the website 1 month prior to when their accounts are due to expire and ask *Investigators* to update their account information. To renew their accounts, *Investigators* will also electronically sign the Databrary Investigator Agreement and again have this agreement co-signed by their institutional representative or sponsoring investigator. If a Databrary *Investigator* fails to renew his or her account by the renewal deadline, they will no longer be able to access Databrary shared data. Data contributed by *Investigators* who do not renew their accounts will remain on Databrary.
 
 ## 3.2.	Contributions
 
