@@ -1,6 +1,4 @@
-## Standard Operating Procedures
-
-### 1. What is Databrary?
+# 1. What is Databrary?
 
 [Databrary](http://databrary.org) is a data library intended to foster sharing of information among researchers. It is an ecosystem for sharing behavioral and neural science data and the tools to analyze those data among a community of researchers. Databrary aims to facilitate data sharing and greater transparency within labs, among collaborators, with other researchers and members of the larger developmental and behavioral science community, and with the general public.
 
@@ -10,7 +8,7 @@ The Databrary ecosystem also includes a database of researchers, called *Princip
 
 This document sets out Databrary's Standard Operating Procedures (SOPs). Section 2 describes the challenges that must be met in creating a data sharing system for sensitive, identifiable data. Section 3 describes Databrary operating procedures. Section 4 describes other documents involved in Databrary operations.  Definitions of key terms, italicized throughout the text, may be found in a separate [document](definitions.md). For the latest versions of Databrary policies, see the [website](http://databrary.org/about/#policies) or [GitHub repository](http://github.com/databrary/policies/).
 
-### 2. The Challenges of Databrary
+# 2. The Challenges of Databrary
 
 Implementing the Databrary ecosystem poses several challenges. The most crucial challenge concerns research ethics. Databrary must keep the promise of confidentiality given to research participants who provide identifiable data while upholding the principle of informed consent. 
 
@@ -20,15 +18,15 @@ It is technically possible to try to turn *Recordings* into *De-identified Data*
 
 At the same time, the principle of informed consent requires that *Depicted Individuals* must give permission for their *Recordings* to be shared with others in Databrary. Similarly, individuals who provide sensitive information, such as *Self-Reported Health-Related Information* should be given the opportunity to give or refuse permission for this information to be shared. Depicted individuals and research participants must decide what level of sharing permission they wish to give: no permission at all because they do not wish to share *Recordings* or *Self-Reported Health-Related Information*, or sharing permission with the assurance that shared data will be treated with care by other researchers. Only *Recordings* for which *Permission to Share* has been given by all depicted individuals may be shared openly in the Databrary. Similarly, only *Self-Reported Health-Related Information* for which *Permission to Share* has been given may be shared in Databrary. In turn, Databrary must ensure the *Level of Access* that depicted individuals have granted. This means that information about sharing permissions must be permanently linked with individual *Data* files in Databrary. It also means that researchers who access files in Databrary must agree to follow the wishes of individuals who grant permission for their *Recordings* or other sensitive data to be shared.
 
-### 3.	How Databrary Works
+# 3.	How Databrary Works
 
 This section describes in detail how Databrary works, from accessing data, metadata, and tools stored in the library to the contribution of new information.
 
-#### 3.1	Accessing data sets or tools from Databrary
+## 3.1	Accessing data sets or tools from Databrary
 
 Some information may be easily shared with minimal restriction so long as *Personally Identifying Information* has been removed and there are no restrictions on the how long the information may be stored. Sharing *Recordings* or other data with *Personally Identifying Information* or sensitive information such as *Self-Reported Health-Related Information* must be shared only among researchers who understand, embrace, and formally agree to abide by principles of research ethics that include maintaining participant confidentiality. Thus, Databrary must monitor and control who has access to data sets and what level of access they are granted.
 
-##### 3.1.1 Levels of access permitted to data or software
+### 3.1.1 Levels of access permitted to data or software
 
 There are two primary levels of access: (1) public/unrestricted, and (2) restricted, but open to authorized Databrary *Investigators*. *Data Contributors* may choose whether to allow all authorized *Investigators* on Databrary to have access (Open Sharing) or only a selected subset of individuals (Collaborative Sharing).
 
@@ -36,19 +34,19 @@ Databrary will present a set of pages that allow the public unrestricted access 
 
 Identifiable or sensitive data — *Recordings*, coded spreadsheets linked to *Recordings*, *Self-Reported Health-Related Information* — and *Metadata* will be assigned to the restricted, but open access level in almost all cases. These materials may be shared if the *Depicted Individuals* or research participants have given permission. See section 3.3.2 below for details about the different levels of sharing permission permitted.
 
-##### 3.1.2 Means of access, user accounts and privileges
+### 3.1.2 Means of access, user accounts and privileges
 
 There are three means of access to Databrary’s assets: browsing, downloading, and contributing. Individuals who wish only to browse Databrary’s public/unrestricted assets may do so without authorization from Databrary, however for security reasons the system will log access by internet protocol (IP) addresses (see 3.1.7. Access Logging/Usage Metrics). Unauthorized/unregistered individuals may not comment in Databrary’s comment sections, contribute *Data*, or carry out other functions reserved for *Investigators*. Those who wish to browse Databrary’s restricted, but open assets must apply for Databrary Principal Investigator or Affiliate Investigator status.
 
-##### 3.1.3 Who May Apply for Databrary Investigator or Affiliate Investigator Status
+### 3.1.3 Who May Apply for Databrary Investigator or Affiliate Investigator Status
 
 *Databrary Principal Investigators* must be eligible for *Principal Investigator (PI)* status at their home *Institutions*. Graduate and undergraduate students, postdoctoral researchers, research scientists, and research staff may be granted Databrary *Affiliate Investigator* status if they are carrying out research under the supervision of a *Databrary Principal Investigator*. *Databrary Principal Investigators* who supervise *Affiliate Investigators* must (1) grant permission to researchers under their supervision to view data on their behalf, and (2) agree to take responsibility for the data use of the sponsored members under their supervision, and (3) take responsibility for the security of the data (where data are stored, etc.) by following [best practices in data security](best-practices.md).
 
-##### 3.1.4 Timing of *Databrary Principal Investigator* or *Affiliate Investigator* Application for Researchers Who Want to Contribute Data
+### 3.1.4 Timing of *Databrary Principal Investigator* or *Affiliate Investigator* Application for Researchers Who Want to Contribute Data
 
 A researcher may apply for *Databrary Principal Investigator* status before formal permission has been granted by an *IRB* for collecting or contributing a given data set, but no contributions should be shared with Databrary until *Investigators* have received whatever approvals or waivers are required by the *IRB* for their *Institution*. 
 
-##### 3.1.5 Application Process
+### 3.1.5 Application Process
 
 Application for *Investigator* status may be made via a web form. The following information will be sought:
 
@@ -68,7 +66,7 @@ The agreement obligates applicants to follow principles of ethical research with
 
 - Applicant web site, Research Gate (http://www.researchgate.net) profile, social media accounts, ERA Commons ID.
 
-##### 3.1.6 Application review
+### 3.1.6 Application review
 
 Once an application has been completed and submitted, applicants will receive an automated email confirmation that an application has been received and is under review. Databrary staff will review applications to determine the following:
 
@@ -83,21 +81,21 @@ Databrary staff under the supervision of the Project Director (Adolph) and Assoc
 
 If an application requires revisions, project staff will communicate the nature of those revisions via email. All email correspondence will be logged. Once an application is approved, researchers and the official(s) from the *IRB* will be notified by email. The welcome/notification email will include reminders about Databrary policies regarding data use and citation.
 
-##### 3.1.7 Access logging/usage metrics
+### 3.1.7 Access logging/usage metrics
 
 Databrary will log access to the system by Investigator ID and by IP address. Most access logging information will be used by Databrary for internal security, user metrics, and management functions. Some summary information about files browsed, downloaded, shared, or modified may be announced via Databrary Twitter, Facebook, RSS, and other web/social media feeds. For example, Databrary may identify and publicize which data sets are most often browsed, downloaded, and cited. Databrary *Investigators* will have access to information about Databrary activity of *Affiliate Investigator's* through an administrative control panel. 
 
-##### 3.1.8 Browsing and downloading
+### 3.1.8 Browsing and downloading
 
 Any member of the public may browse data or download tools with unrestricted/public level of access. Individuals with *Investigator* status may also browse or download assets with restricted, but open access. When *Investigators* request data sets to download, the Databrary system will remind them to cite data sets and associated papers, to obtain appropriate approvals for conducting research, to follow [best practices for data security](best-practices.md), and to remove and destroy data that are no longer needed. Databrary will also send periodic email reminders to researchers who download data reminding them to follow these practices. 
 
 Many Databrary uses will involve browsing or downloading data sets without conducting research on those data (e.g., finding excerpts for teaching, searching for exemplars to facilitate study design, pre-research activities to determine whether formal analyses are feasible or promising). If *Investigators* intend to conduct research with data sets, they may be required to obtain permission from an *IRB*. Decisions about whether *Investigators* may conduct research on *Data* or the type of research proposed are beyond Databrary’s control. Thus, whenever permitted by the *IRB* that supervises their research, *Investigators* may conduct research on data sets derived from Databrary. It is the explicit responsibility *Investigators* to obtain whatever approvals or waivers are required by their *Institutions* and to follow local, state, and national laws. This is clearly stated in the [Databrary Investigator Agreement](investigator-agreement.md). While not required by Databrary, *Investigators* are encouraged to report *IRB* protocol names, identification numbers, and expiration dates.
 
-##### 3.1.8 Account renewal
+### 3.1.9 Account renewal
 
 *Investigator* accounts must be renewed regularly. Databrary will send email reminders that accounts are due to expire 1 month, 2 weeks, and 1 week prior to the expiration date and ask *Investigators* to update their account information. To renew their accounts, *Investigators* will also electronically sign the Databrary Investigator Agreement. If a Databrary *Investigator* fails to renew his or her account by the renewal deadline, the account will be suspended. The account will be reactivated on completion of the renewal procedures. Accounts that are not renewed within 6 months of the suspension date will be archived. Data contributed by *Investigators* who do not renew their accounts will remain on Databrary.
 
-#### 3.2.	Contributions
+## 3.2.	Contributions
 
 Researchers who wish become *Data Contributors* to Databrary must do some planning in advance They must:
  
@@ -108,27 +106,27 @@ Researchers who wish become *Data Contributors* to Databrary must do some planni
 - Apply for and be granted Databrary *Investigator* status;
 - Prepare *Recordings* for sharing with Databrary, including tagging files with the *Level of Permission* granted by *Depicted Individuals*. Remove *Personally Identifying Information*, except date of birth, from other *Data* and *Metadata*.
 
-##### 3.2.1 Sources
+### 3.2.1 Sources
 
 There are two main sources of *Recordings*: (1) *Recordings* collected by researchers or clinicians in laboratory or clinical contexts, and (2) *Recordings* collected from incidental sources not intended for research or clinical purposes. The latter may include home movies or videos, *Recordings* from security cameras or microphones, cameras or other *Recordings* made in public places, and *Recordings* shared with the public via web portals such as [YouTube](http://www.youtube.com) or [Vimeo](http://vimeo.com). Laws governing whether *Recordings* made in public places may be used for research purposes vary. Researchers who wish to deposit *Recordings* from these or other non-laboratory/non-clinical sources should consult with their *IRB* for specific *Permission to Share* *Recordings* with Databrary.
 
 There are two primary types of studies involving *Recordings* and other data streams: (1) new *Recordings* with associated *Metadata* (coding spreadsheets, analyses, manuscripts, etc.); and (2) reused *Recordings* (complete *Recordings*, subsets, or files culled from different original sources) with new associated metadata (e.g., new codes). The same *Investigator* or research team may reuse original data deposited in Databrary. Databrary will implement a version control/date system to record modifications to, reanalyses of, and extensions to *Data*. Versioning does not change the status of study types. Versions and reused data sets will retain links with the original and subsequent studies.
 
-##### 3.2.3 Seeking permission To share data
+### 3.2.2 Seeking permission To share data
 
 Researchers who wish to share data with Databrary should seek permission to do so from their  *IRB*. Individuals whose scientific activities are not governed by an *IRB* may choose to have their protocol reviewed by another entity with similar authority. In preparing applications to the entity, researchers are strongly encouraged to refer to and use the document(s) provided by Databrary (see Section 4). 
 
 Links to all of the relevant Databrary documents concerning permissions and access may be found on the Databrary [website](http://databrary.org/about/#policies).
 
-#### 3.3	Securing permission from participants to share data
+## 3.3	Securing permission from participants to share data
 
 Under most circumstances, the collection of *Recordings* requires that individual participants, and for minors their parents or legal guardians, give written informed consent to participate in some specific research activity. Databrary will require that *Investigators* demonstrate that they have secured explicit written permission (or for minors assent and parent/guardian permission) to share *Recordings* with Databrary from each individual depicted in a recording — not just research participants — or that the the *IRB* has waived the requirement for explicit written permission. Similarly, Investigators who wish to share *Self-Reported Health-Related Information* must also gain permission or assent to share these data with Databrary. 
 
-##### 3.3.1 How will *Permission to Share* data be secured?
+### 3.3.1 How will *Permission to Share* data be secured?
 
 Databrary has published a Sharing Release Template see [GitHub](https://github.com/databrary/policies/). This template should be submitted with *IRB* applications for research, and should be used by *Investigators* when they seek *Permission to Share* from research participants or depicted individuals.
 
-##### 3.3.2 Levels of permissions to share recordings
+### 3.3.2 Levels of permissions to share recordings
 
 *Depicted Individuals* (or their parent or legal guardians) or research participants (or their parent or legal guardians) may grant different levels of *Permission to Share*. Permission/assent to share *Recordings* should be sought separately from *Permission to Share* *Self-Reported Health-Related Information*. The sharing levels for each are as follows:
 
@@ -150,11 +148,11 @@ In addition to sharing *Recordings* and *Self-Reported Health-Related Informatio
 
 *Investigators* must exercise professional judgment and uphold ethical principles in determining which *Excerpts* to show and to what audiences. *Investigators* must select *Excerpts* and edit them to minimize the possibility that a *Depicted Individual* can be identified, embarrassed, or harmed by the public showing of an *Excerpt*. Generally speaking, *Investigators* should refrain from creating excerpts for all individuals in a data set.
 
-##### 3.3.3 When should *Permission to Share* data be sought?
+### 3.3.3 When should *Permission to Share* data be sought?
 
 Permission to share *Recordings* or excerpts with Databrary should be sought after a testing session is complete. This creates a clear separation between the consent an individual (or parent or legal guardian) gives to participate in research and the *Permission to Share* sensitive data. It also ensures that individuals can give informed consent about what sorts of behaviors were recorded during a testing session, and thus, what will be shared. Separating the consent to participate from the *Permission to Share* may also reduce the likelihood that participant in-take procedures are unduly prolonged by the additional procedures involved in sharing data. No *Investigator* should coerce depicted individuals or research participants to share.
 
-##### 3.3.4 How will the levels of permission granted by participants be linked to files?
+### 3.3.4 How will the levels of permission granted by participants be linked to files?
 
 *Investigators* whose recordings contain *Identifiable Data* will be responsible for ensuring that every *Depicted Individual* gives *Permission to Share* with Databrary. *Permission to Share* may be secured in writing on paper forms or by electronic signature, but *Depicted Individuals* must be given paper records if electronic signatures are given. Paper copies of the signed *Permission to Share* form(s) must be kept in secured files comparable to those used for storing informed consent forms. If no *Permission to Share* is secured or written documentation of a research participant or depicted individual's preference is lost or damaged, then the data in question may not be shared.
 
@@ -162,7 +160,7 @@ Investigators may keep electronic records, in tab or comma-delimited text files,
 
 When uploading a data set to Databrary, *Data Contributors* will enter the permissions information into a web form along with any *Data* that they upload, so that Databrary can associate permissions levels and any demographic information available with each data file. Investigators are strongly encouraged to provide participant’s age-at-testing and sex, but are not required to provide any information. A missing permissions level will be treated as the lowest level.
 
-##### 3.3.5 How will levels of *Permission to Share* be maintained within the Databrary system once files have been uploaded?
+### 3.3.5 How will levels of *Permission to Share* be maintained within the Databrary system once files have been uploaded?
 
 Databrary will maintain a database for each study, and each study will include individual-level records for each data set for which sharing permission has been granted. Any data with permission level 0 will never be shared with all Databrary *Investigators*, and in some cases these files may not be uploaded at all. However, Databrary will still collect demographic and de-identified data associated with these participants. This is necessary in order to allow meta-analyses and subsequent data set users to determine what proportion of the shared or published data was actually shared with Databrary. For files with *Permission to Excerpt*, *Investigators*  may create *Excerpts* for use in public settings.  
 
@@ -170,39 +168,39 @@ Files denoting the individual-level *Sharing Levels* will accompany each data se
 
 A future version of the [Datavyu](http://datavyu.org) coding tool may use the *Permission to Share* file to provide reminder alerts/warnings to *Investigators* about the level of access permitted for a given data set. But, for the time being, *Investigators* will have to monitor the use manually.
 
-#### 3.4	Sharing with Databrary
+## 3.4	Sharing with Databrary
 
 Before a data set may be shared with Databrary, *Investigators* must evaluate *Recordings* and associated individual-level *Metadata* for volatile or sensitive content. Even if a participant (or parent or legal guardian) has given *Permission to Share*, the ultimate responsibility for determining whether data should be shared lies with the *Investigator*. If an investigator determines that an individual’s data set should not be shared, the investigator will mark it as such in Databrary.
 
-##### 3.4.1 Investigators who contribute data provide study-level metadata
+### 3.4.1 Investigators who contribute data provide study-level metadata
 
 Databrary will include investigator-level, study-level, participant-level, and measure-level metadata. Researchers provide investigator-level metadata at the time they apply for Investigator status and preliminary study-level metadata at the time they apply to deposit a specific data set. Prior to or during the process of uploading participant-level data to Databrary, *Data Contributors* may provide enhanced study-level metadata. This may include manuscripts, posters or talks, figures, statistical analysis scripts, code books, or grant proposals. The default will be for study-level metadata to be open to the general public (open/unrestricted).
 
-##### 3.4.2 *Data Contributors* upload/deposit data to Databrary
+### 3.4.2 *Data Contributors* upload/deposit data to Databrary
 
 *Investigators* may either upload data to Databrary manually, using the Databrary site’s upload tool or use the automated file transfer system embedded within a future version of Datavyu. *Investigators* must log-on to the Databrary system in either case. With manual deposit, Investigators or Affiliate Investigators must select the study for which data are being uploaded, the participant permission file, and the individual files that will be uploaded.
 
 Users of software compatible with the (to-be-developed) Databrary application program interface (API) will simply indicate that a data set is ready to share. The software will manage the upload/transfer process. 
 
-##### 3.4.3 Databrary translates video and metadata into common format(s)
+### 3.4.3 Databrary translates video and metadata into common format(s)
 
 Once data sets have been uploaded to Databrary, they will be automatically converted into a standard set of formats. The specific formats will be determined based on an assessment of how best to preserve the data for the long term using open (non-proprietary) formats, but UTF-8 and H264 video formats are leading candidates for text and video files, respectively. Databrary will publish information about the data formats accepted for deposits and those used and supported within the data sharing system.
 
-##### 3.4.4 Databrary data quality checking
+### 3.4.4 Databrary data quality checking
 
 Once the file conversion process has completed, a set of automated and manual data quality checks will commence. The automated checks will assess whether sharing permission levels have been provided for every individual participant in the uploaded data set and whether *Personally Identifying Information* have been provided in the uploaded *Data*. Manual data quality checks will assess transcoding quality—whether video/audio is readable. If the quality of the transcoded *Recordings* is poor, they will be checked against the uploaded original files. If the original files are in good condition, they will be transcoded again. If the original files are in poor condition, the contributor will be asked to upload the files again. 
 
 Once Databrary has certified that an uploaded data set is ready to share, the data contributor will receive an email indicating that fact. Contributors may then review the data set. When contributors are ready to share the data set, they will log on to Databrary and share the data set.
 
-##### 3.4.5 Databrary publishes data with permanent URL
+### 3.4.5 Databrary publishes data with permanent URL
 
 When a new data set is released for sharing, Databrary will announce the event on its website with the data set’s description, author(s), and URL. Databrary will also announce new data sets on Twitter, Google+, Facebook, and other social media, as appropriate. Investigators may choose to subscribe to a data set or another *Investigator's* news feed to receive updates about new contributions or revisions to old ones.
 
 *Investigators* may choose to share partial data sets and update or modify them as new data becomes available or new analyses are conducted. Databrary will maintain a versioning system similar to that used by [Github](http://github.com) to maintain records about data provenance. Significant modifications or additions to existing data sets will also be published via the web, email, and social media.
 
-#### 3.5	Ensuring Ethical Practices, Handling Violations
+## 3.5	Ensuring Ethical Practices, Handling Violations
 
-##### 3.5.1 Databrary Ethics Standards
+### 3.5.1 Databrary Ethics Standards
 
 Databrary intends to uphold the highest standards of integrity. These standards include the following:
 
@@ -216,11 +214,11 @@ Databrary intends to uphold the highest standards of integrity. These standards 
 - In selecting excerpts of data for public viewing, *Investigators* must exercise professional judgment in order to minimize the chance that an individual participant could be harmed.
 - In selecting data sets to share with Databrary, *Investigators* must exercise professional judgment to avoid sharing data of an offensive or prurient nature. Databrary reserves the right to remove data or data sets that are deemed to be of an inappropriate nature. 
 
-##### 3.5.2 Databrary Ethics Committee
+### 3.5.2 Databrary Ethics Committee
 
 Databrary will form an Ethics Committee to monitor the project, review and modify ethics policies, and to adjudicate ethics complaints. The Ethics Committee will consist of five members of Databrary’s Advisory Board, staff representatives from the NYU and PSU compliance offices, three members of the community of *Investigators*, and the Databrary Staff. The committee will meet via conference call or webinar quarterly. 
 
-### 4.	Related Policies and Procedures
+# 4.	Related Policies and Procedures
 
 - [Databrary Investigator/Affiliate Investigator Agreement](investigator-agreement.md)
 - [Databrary Permission to Share Recordings](https://github.com/databrary/policies/)
