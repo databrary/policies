@@ -2,7 +2,7 @@
 
 [Databrary](http://databrary.org) is an open data library designed to facilitate data sharing and greater transparency within labs, among collaborators, with members of the larger behavioral/developmental science community, and with the general public. Investigators are encouraged to develop and share their data through Databrary, and to make use of the tools we offer for analyzing and visualizing their contributions.
 
-Databrary contains *De-Identified Data*, *Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio *Recordings* and photographic images and other sensitive materials, such as *Self-Reported Health-Related Information*. The tools stored in Databrary consist of software that aids in the extraction, visualization, and analysis of time-series-based research data. These tools may be open source, freeware, or commercially licensed, and may be supplemented by sample data sets, web links to data sets shared elsewhere within Databrary, or documentation. Every data set and tool will have its own unique, permanent, uniform resource locator (URL) – web address – so that researchers may both take credit for their own Databrary contributions and properly and consistently cite the Databrary resources they use from others.
+Databrary contains *De-Identified Data*, *Non-Identifiable Data*, and  *Identifiable Data* – video/audio *Recordings* and photographic images and other sensitive materials, such as *Self-Reported Health-Related Information*. The tools stored in Databrary consist of software that aids in the extraction, visualization, and analysis of time-series-based research data. These tools may be open source, freeware, or commercially licensed, and may be supplemented by sample data sets, web links to data sets shared elsewhere within Databrary, or documentation. Every data set and tool will have its own unique, permanent, uniform resource locator (URL) – web address – so that researchers may both take credit for their own Databrary contributions and properly and consistently cite the Databrary resources they use from others.
  
 The Databrary ecosystem also includes a database of researchers, called *Principal Investigators* or *Affiliate Investigators*, or collectively *Investigators*. *Investigators* have authorization to use and contribute data. The database keeps track of the identities of each *Investigator* who contributes to, browses data within, or withdraws data or tools from Databrary.
 
@@ -20,7 +20,7 @@ At the same time, the principle of informed consent requires that *Depicted Indi
 
 # 3.	How Databrary Works
 
-This section describes in detail how Databrary works, from accessing data, metadata, and tools stored in the library to the contribution of new information.
+This section describes in detail how Databrary works, from accessing data, *Metadata*, and tools stored in the library to the contribution of new information.
 
 ## 3.1	Accessing data sets or tools from Databrary
 
