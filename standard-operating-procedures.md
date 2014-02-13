@@ -54,14 +54,14 @@ Application for *Investigator* status may be made via a web form. The following 
 
 - Name, email, institutional affiliation.
 - An electronically signed copy of the [Databrary Investigator Agreement](investigator-agreement.md).
-- Certification of PI status eligibility from appropriate research supervision entity, or for Databrary Affiliate Investigator applicants, their research supervisor
+- Certification of PI status eligibility from *IRB*, or for Databrary Affiliate Investigator applicants, their research supervisor
 
-The agreement obligates applicants to follow principles of ethical research with human participants, to seek *Permission to Share* *Recordings* or *Self-Reported Health-Related Information* from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow [best practices in data security](best-practices.md), to follow the Databrary [Bill of Rights](bill-of-rights.md), and other principles. 
+The agreement obligates applicants to follow principles of ethical research with human participants, to seek *Permission to Share* *Recordings* or *Self-Reported Health-Related Information* from participants, to convey those permissions to Databrary, to keep their research supervision offices informed about their activities, to follow Databrary's [Best Practices in Data Security](best-practices.md), to follow the Databrary [Bill of Rights](bill-of-rights.md), and other principles. 
 
 In some cases Databrary may request:
 
 - Research ethics with human participants training certification (e.g., Collaborative Institutional Training Initiative, [CITI](https://www.citiprogram.org)), and expiration date of current authorization.
-- Information about research supervision entity (IRB or equivalent) that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
+- Information about *IRB* that governs the applicant’s scientific activity, if applicable, including name(s) of representative(s) of the institution, surface address, telephone number, email.
 
 *Optional, but recommended:*
 
@@ -70,22 +70,22 @@ In some cases Databrary may request:
 
 ### 3.1.6 Application review
 
-Once an application has been completed and submitted, applicants will receive an automated email confirmation that an application has been received.
+Once an application has been completed and submitted, applicants will receive an automated email confirmation that an application has been received by Databrary.
+
 The welcome/notification email will include reminders about Databrary policies regarding data use and citation.
 
-For *Databrary Principal Investigators*, Databrary will determine the appropriate contact representing the institution, e.g., at a sponsored programs office.
-This representative will be responsible for authorizing the applicant, subject to:
+For *Databrary Principal Investigators*, Databrary will determine the appropriate contact representing the institution, e.g., at a sponsored programs office. This representative will be responsible for authorizing the applicant, subject to:
 
-- Applicant identity information is valid and correct.
-- Applicant has human participants ethics clearance from an *IRB*.
+- Applicant identity information that is valid and correct.
+- Applicant certification in human subjects ethics training from an *IRB*.
 - Applicant has *PI eligibility* or its equivalent at the *Institution*.
 - Applicant has not violated Databrary use standards in the past.
 
 For individuals seeking *Affiliate Investigator* status, the supervising/sponsoring *Databrary Principal Investigator* will be notified via email that an application has been filed. The supervising/sponsoring *Databrary Principal Investigator* will log on to Databrary, approve (or not) the *Affiliate Investigator* application, and provide information about the level of access to be provided to this individual.
 
-The Databrary Ethics Committee will audit the procedures annually. The Databrary Ethics Committee will consist of staff, Advisory Board members, and the research community at-large. 
-
 If an application requires revisions, project staff will communicate the nature of those revisions via email. All email correspondence will be logged. Once an application is approved, researchers and the institutional representative will be notified by email.
+
+The Databrary Ethics Committee will audit the procedures annually. The Databrary Ethics Committee will consist of staff, Advisory Board members, and the research community at-large. 
 
 ### 3.1.7 Access logging/usage metrics
 
