@@ -1,6 +1,6 @@
 # Dataset/Study information worksheet for the PI to fill out
 
-The purpose of this document is to gather some information from you about your dataset or study to enter into Databrary. We want you, the researcher, to drive the way your data is represented. We also want to make sure your data is presented in a way that makes sense to other people viewing your data, and that your research is presented in the best possible light. We believe the way to do this is to use descriptive titles and language, instead of idiosyncratic, intra-lab names. 
+The purpose of this document is to gather some information from you about your dataset or study to enter into Databrary. We want you, the researcher, to drive the way your data are represented. We also want to make sure your data are presented in a way that makes sense to other people viewing your data, and that your research is presented in the best possible light. We believe the way to do this is to use descriptive titles and language, instead of terms that are idiosyncratic and specific to your lab group.
 
 While you are filling this out, please think about what your participants were doing, what actions were taking place in the most basic of terms. Also think about what the most important things about your data are.  
 
@@ -12,7 +12,7 @@ Keep in mind that most of this information, especially the sharing portion, is e
 
 
 
-####Please give a title to your dataset or study. We would like it to be a descriptive title. Think about what the most important aspect of your dataset or study is. Is it the task? Physical description? Display? Technique? You can think about it and come back to this question after filling out the rest of the worksheet.
+####Please provide a title for your dataset. We would like it to be a descriptive title. Think about what the most important aspect of your dataset is. Is it the task? Physical description? Display? Technique? You can think about it and come back to this question after filling out the rest of the worksheet.
 
 
 
