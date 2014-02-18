@@ -83,7 +83,7 @@ If there is uncertainty about whether a *Depicted Individual* has granted *Permi
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
-### 5.	Rights of *Data Contributors*
+### 4.	Rights of *Data Contributors*
 
 If I contribute *Data* to Databrary, I may decide whether to share, when to share, and with whom I want to share within the parameters defined by Databrary. I may share only among members of my approved research protocol, with selected Databrary *Investigators*, with all authorized Databrary *Investigators*, or with the public.
 
@@ -93,11 +93,11 @@ I may change or revoke the rights for other Databrary users to access my *Data* 
 
 Databrary encourages researchers to share the products of their scientific work, including *Metadata*, links to publications resulting from *Data*, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, manuscripts that are not copyrighted, and other materials as broadly as possible. Databrary's philosophy about sharing is embodied in the [Data Sharing Manifesto](data-sharing-manifesto.md).
 
-### 6.	Rights and Responsibilities of *Institutions*
+### 5.	Rights and Responsibilities of *Institutions*
 
 My *Institution* verifies that I am eligible to apply for Databrary authorization and agrees to accept responsibility for my actions hereunder. My *Institution* maintains an *Institutional Review Board* that oversees my scientific activities and validates my research ethics training. My *Institution* asserts that I have rights to share with Databrary any *Data* I contribute; no other entity or individual has ownership rights that prevent me from contributing *Data* to Databrary. My *Institution* grants me authority to decide with whom I wish to share *Data* that I contribute, and my *Institution* holds me responsible for its use. 
 
-### 7.	Databrary Rights and Responsibilities
+### 6.	Databrary Rights and Responsibilities
 I grant Databrary permission to: 
 
 - redistribute the *Data* in Databrary in accordance with my wishes and the permissions chosen by *Depicted Individuals*; 
@@ -109,13 +109,13 @@ I grant Databrary permission to:
 - revoke access to *Data* that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems;
 - revoke access to Databrary for ethics violations by any person.
 
-### 8.	Violations
+### 7.	Violations
 My *Institution* and I agree to inform Databrary of any suspected violation of confidentiality or ethics.  If Databrary determines that I have violated terms of this agreement, Databrary may remove the *Data* in question and/or deny my access to Databrary, temporarily or permanently. The violation may be reported to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of my *Institution*. If denied access to Databrary, I may request a review by the Databrary Ethics Committee.
 
-### 9.	Disclaimer
+### 8.	Disclaimer
 I understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. I indemnify and render harmless Databrary, New York University, and the Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of the points in this agreement.
 
-### 10.	Signature of Applicant
+### 9.	Signature of Applicant
 My signature signifies:
 
 - that I have authority on behalf of my institution to enter this agreement;
