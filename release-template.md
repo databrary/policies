@@ -102,7 +102,7 @@ Parent or guardian must decide whether to allow their child to share and sign on
 
 ### TO BE COMPLETED BY RESEARCHER OBTAINING PERMISSION
 
-| Researcher’s Name | I certify that all participants present have consented or assented above and agreed to release this session to share in Databrary. | Researcher’s Signature: | Date |
+| Researcher’s Name | I certify that all individuals that were recorded have given their decision about whether or not to share with Databrary | Researcher’s Signature: | Date |
 |-------------------|------------|---|---|
 |          | ☐ Yes  ☐ No |       |   |   |
 
