@@ -10,69 +10,53 @@ Keep in mind that most of this information, especially the sharing portion, is e
 
 ##Titles and Summaries
 
+Please provide a title for your dataset. We would like it to be a descriptive title. Think about what the most important aspect of your dataset is. Is it the task? Physical description? Display? Technique? You can think about it and come back to this question after filling out the rest of the worksheet.
 
+Write a summary of your dataset or study. This can be similar to an abstract in a published paper. Some researchers write a couple sentences, others write long paragraphs.
 
-####Please provide a title for your dataset. We would like it to be a descriptive title. Think about what the most important aspect of your dataset is. Is it the task? Physical description? Display? Technique? You can think about it and come back to this question after filling out the rest of the worksheet.
+Did you derive multiple projects or questions from this data or pool multiple sources of data to perform this study? Yes or no? If yes, we will have a more in depth conversation with you about how to represent that data.
 
+What is your collection methodology? Can you define what you did? This can be similar to the methods section in a published paper.
 
+Did you use any stimuli, like videos or images? Can you send us those stimuli?
 
-####Write a summary of your dataset or study. This can be similar to an abstract in a published paper. Some researchers write a couple sentences, others write long paragraphs.
+What did the subjects do in a single session? Were there specific tasks that each participant attempted? Can you give descriptive names to the tasks?
 
-####Did you derive multiple projects or questions from this data or pool multiple sources of data to perform this study? Yes or no? If yes, we will have a more in depth conversation with you about how to represent that data.
-
-####What is your collection methodology? Can you define what you did? This can be similar to the methods section in a published paper.
-
-#### Did you use any stimuli, like videos or images? Can you send us those stimuli?
-
-
-####What did the subjects do in a single session? Were there specific tasks that each participant attempted? Can you give descriptive names to the tasks?
-
-####Do you have documentation that defines specifically what the participants did for each task or over a session? These could be instructions given to a participant or protocols. You can attach that documentation to this worksheet. If you do not have that documentation, could you please define what a participant did for each task and/or in a session?
-
+Do you have documentation that defines specifically what the participants did for each task or over a session? These could be instructions given to a participant or protocols. You can attach that documentation to this worksheet. If you do not have that documentation, could you please define what a participant did for each task and/or in a session?
 
 ##Defining what kind of data this is
 
+What kind of dataset or study is this? Is it longitudinal, where you kept track of the same participants over time? Did you keep the same subject IDs? 
 
-####What kind of dataset or study is this? Is it longitudinal, where you kept track of the same participants over time? Did you keep the same subject IDs? 
+What stage is this data in? Maybe this is pilot data you collected while refining your process. We would like you to feel comfortable sharing datasets you didn't end up using for whatever reason. Your discarded data might be useful to another researcher. 
 
-####What stage is this data in? Maybe this is pilot data you collected while refining your process. We would like you to feel comfortable sharing datasets you didn't end up using for whatever reason. Your discarded data might be useful to another researcher. 
+Or is it data from a published study? Is it from a study that is still in in progress? 
 
-####Or is it data from a published study? Is it from a study that is still in in progress? 
+Did you have excluded participants and how would you like those excluded participants to be represented? For what reasons would you exclude participants? 
 
-####Did you have excluded participants and how would you like those excluded participants to be represented? For what reasons would you exclude participants? 
+Over what time period did you collect this data?
 
+Where did you collect this data? In a variety of places and/or settings or one location/setting? 
 
-####Over what time period did you collect this data?
+Was there a specific population you were studying? 
 
-####Where did you collect this data? In a variety of places and/or settings or one location/setting? 
+Did you have randomly assigned conditions or treatments within or between subjects? How would you define these these conditions or treatments?
 
-####Was there a specific population you were studying? 
-
-####Did you have randomly assigned conditions or treatments within or between subjects? How would you define these these conditions or treatments?
-
-####Did you do groupings by age/gender/experience etc? How would you define these groupings?
+Did you do groupings by age/gender/experience etc? How would you define these groupings?
 
 
 ##Funding and Citations
 
-####Are there any publications about or derived from this data? 
+Are there any publications about or derived from this data? 
 
-
-
-####Enter your grant/funding information
+Enter your grant/funding information
 
 ##Sharing
 
-####List any collaborators or other PIs for this dataset or study. These will be people you will share your data with. These may be people to whom you give access download and edit your dataset or study.
+List any collaborators or other PIs for this dataset or study. These will be people you will share your data with. These may be people to whom you give access download and edit your dataset or study.
 
+Do you want to share this data with the databrary community?
 
+If you don't want to share your data, do you want people to see the metadata from this data even though they will not be able to view or download the videos?
 
-
-####Do you want to share this data with the databrary community?
-
-
-####If you don't want to share your data, do you want people to see the metadata from this data even though they will not be able to view or download the videos?
-
-
-
-####Do you want this data to be visible to the public? 
+Do you want this data to be visible to the public? 
