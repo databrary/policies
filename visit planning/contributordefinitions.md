@@ -99,10 +99,10 @@ See the participant tab on the Excel spreadsheet. Each row represents a single p
  * Low
  * Unknown
  
-### 1st language
+### primary language
  * What is the participant’s primary language?
 
-### 2nd language
+### secondary language
 * What is the participant’s secondary language if any?
  
 ### term (gestation) for infants

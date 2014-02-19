@@ -24,7 +24,7 @@ Besides videos, what other kinds of data would you want to share to enrich your 
 
 # Digitization 
 
-You may shoot all your videos digitally. In that case, think about where your video files are stored and how they are organized. It would be easiest for us if all your videos were in one place, for instance on a hard drive or a server we can get to, with the video files arranged folders by what dataset they belong to. Think about the easiest way we can access your files. It may be that we can go into your server remotely and pull your videos off. Or it might be easiset for you to send us a hard drive. Keep in mind the approximate size of all your files. Be aware of what format your files are in. We can transcode mostly anything to our standard format, but it's a good thing to know. 
+You may shoot all your videos digitally. In that case, think about where your video files are stored and how they are organized. It would be easiest for us if all your videos were in one place, for instance on a hard drive or a server we can get to, with the video files arranged folders by what dataset they belong to. Think about the easiest way we can access your files. It may be that we can go into your server remotely and pull your videos off. Or it might be easiest for you to send us a hard drive. Keep in mind the approximate size of all your files. Be aware of what format your files are in. We can transcode mostly anything to our standard format, but it's a good thing to know. 
 
 ### File names
 
@@ -36,7 +36,7 @@ To make the ingest process smoother, we have a few stipulations for file names.
 
 Note that these rules apply to video files as well as other files (protocols, coding spreadsheets, images, etc)
 
-Please keep your file names consistant, so it is easy for us to match up what sessions go with what video files. To ensure that your data is entered into databrary correctly, think about putting together a spreadsheet matching up file names with sessions.  
+Please keep your file names consistent, so it is easy for us to match up what sessions go with what video files. To ensure that your data is entered into databrary correctly, think about putting together a spreadsheet matching up file names with sessions.  
 
 ### What if my videos are not digitized
 
@@ -45,7 +45,7 @@ Maybe you only collect data on tape or you have older videos you want to share. 
 
 # Collecting metadata
 
-We know you already collect a lot of information about your data in your lab, but maybe you don't keep all that information in one place. Think about what kind of information you collect and where that information is. We will want you to pull all your session and participant information together and send it to us. There are a few pieces of information that are the most critical for us to have: **test date**, **birth date** and **what level of sharing the participant consented to**. We do collect any information that you are willing to share with us. Below are a some of the types of information we would like to have. As you read through these, think about if you have that information somewhere and where that information is. Also, think about what other kinds of information you collect that we did not include below. 
+We know you already collect a lot of information about your data in your lab, but maybe you don't keep all that information in one place. Think about what kind of information you collect and where that information is. We want you to pull all your session and participant information together in spreadsheet and send it to us. There are a few pieces of information that are the most critical for us to have: **test date**, **birth date** and **what level of sharing the participant consented to**. We do collect any information that you are willing to share with us. Below are a some of the types of information we would like to have. As you read through these, think about if you have that information somewhere and where that information is. Also, think about what other kinds of information you collect that we did not include below. 
 
 ### Information about the session
 A session refers to a single visit or observation period. Participants may be observed at multiple sessions (e.g., longitudinal studies) and you should provide information for each session. Multiple participants may be observed at a single session (two siblings observed playing together) and you should provide information for each participant.
@@ -54,7 +54,7 @@ A session refers to a single visit or observation period. Participants may be ob
 * test date
 	* in YYYY-MM-DD 
 * release level
-	* We have five levels of participant release in Databrary. Please check with your IRB to see what levels of release your consent forms warrent.  
+	* We have five levels of participant release in Databrary. Please check with your IRB to see what levels of release your release forms  .  
 		* private - The participant(s) did not consent to share their data
 		* shared - The participant(s) consented to share their data with the databrary community
 		* excerpts - The participant(s) consented to have their data shared with the databrary community and to having excerpts shown to the public for educational and research purposes
