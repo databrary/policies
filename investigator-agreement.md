@@ -144,6 +144,10 @@ Email: _____________________________
 
 As the *Authorizing Official* of this *Institution*, my signature below indicates either that I have authority to bind my *Institution* under this agreement or that a person with such authority agrees to the statements in this document.
 
+Institution: _____________________________
+
+Institution's Federal Wide Assurance (FWA) Number: _________________________
+
 Printed Name: _____________________________
 
 Title: _____________________________________
