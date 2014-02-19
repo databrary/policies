@@ -18,7 +18,7 @@ We’ll ask you to provide names for your datasets. We prefer that you use descr
 
 We’ll need you to summarize your dataset in a short paragraph that describes the  participants, procedures, a physical description of the critical activities, and the setting in which in took place. You do not need to describe the motivation or rationale for collecting the data because this information will be attached to your studies in the form of the (un)published abstract.
 
-Besides videos, what other kinds of data would you want to share to enrich your dataset? These could be descriptions of procedures or tasks, coding manuals, stimuli, etc.
+Besides videos, think about what other kinds of data you would want to share to enrich your dataset. These could be descriptions of procedures or tasks, coding manuals, stimuli, etc.
 
 
 
