@@ -1,4 +1,4 @@
-# Dataset/Study information worksheet for the PI to fill out
+# Top Level Dataset/Study Information 
 
 The purpose of this document is to gather some information from you about your dataset or study to enter into Databrary. We want you, the researcher, to drive the way your data are represented. We also want to make sure your data are presented in a way that makes sense to other people viewing your data, and that your research is presented in the best possible light. We believe the way to do this is to use descriptive titles and language, instead of terms that are idiosyncratic and specific to your lab group.
 
