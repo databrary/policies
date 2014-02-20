@@ -1,8 +1,7 @@
+You can also download a word version of this file [here](release-template.docx). 
+
 # Databrary Release for [STUDY NAME]
 
-| Version | Comments |
-|---------|----------|
-| 2013-09-11 | Approved by NYU IRB. |
 
 ## What we are asking
 This form requests your permission to share material from this session in a secure, web-based data library called Databrary (databrary.org). Material from this session may include video/audio recordings, photographs, and images; other information such as age, birth date, sex, ethnicity, education, and self-reported health information; and information supplied by researchers who analyze data from this session. The library allows only authorized researchers to have access to shared information. Data sharing will lead to faster progress in research on human development and behavior.
