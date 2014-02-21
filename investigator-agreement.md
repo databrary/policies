@@ -113,7 +113,7 @@ I grant Databrary permission to:
 My *Institution* and I agree to inform Databrary of any suspected violation of confidentiality or ethics.  If Databrary determines that I have violated terms of this agreement, Databrary may remove the *Data* in question and/or deny my access to Databrary, temporarily or permanently. The violation may be reported to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of my *Institution*. If denied access to Databrary, I may request a review by the Databrary Ethics Committee.
 
 ### 8.	Disclaimer
-I understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. I indemnify and render harmless Databrary, New York University, and the Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of the points in this agreement.
+I understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. I indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of the points in this agreement.
 
 ### 9.	Signature of Applicant
 My signature signifies:
