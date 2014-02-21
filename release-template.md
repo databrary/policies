@@ -1,4 +1,4 @@
-You can also download a word version of this file [here](release-template.docx). 
+You can also download a [docx](/policies/release-template.docx) version of this file. 
 
 # Databrary Release for [STUDY NAME]
 
