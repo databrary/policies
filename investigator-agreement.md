@@ -1,6 +1,6 @@
 ## Databrary Investigator Agreement
 
-### 1.	Overview
+### 1.	What is Databrary?
 Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
 
 With appropriate approval (if required) from a *Institutional Review Board* at an *Institution*, *Investigators* may browse, search, and download *Data* from Databrary for *Non-Research* purposes; use Databrary for *Research* purposes; and contribute *Data*, subject to the *Sharing Permissions* granted by *Research Participants* or other individuals depicted in *Recordings*.
@@ -83,7 +83,7 @@ If there is uncertainty about whether a *Depicted Individual* has granted *Permi
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
-### 5.	Rights of *Data Contributors*
+### 4.	Rights of *Data Contributors*
 
 If I contribute *Data* to Databrary, I may decide whether to share, when to share, and with whom I want to share within the parameters defined by Databrary. I may share only among members of my approved research protocol, with selected Databrary *Investigators*, with all authorized Databrary *Investigators*, or with the public.
 
@@ -93,11 +93,11 @@ I may change or revoke the rights for other Databrary users to access my *Data* 
 
 Databrary encourages researchers to share the products of their scientific work, including *Metadata*, links to publications resulting from *Data*, coding manuals, coding spreadsheets, lab notebooks, analysis code, figures, manuscripts that are not copyrighted, and other materials as broadly as possible. Databrary's philosophy about sharing is embodied in the [Data Sharing Manifesto](data-sharing-manifesto.md).
 
-### 6.	Rights and Responsibilities of *Institutions*
+### 5.	Rights and Responsibilities of *Institutions*
 
 My *Institution* verifies that I am eligible to apply for Databrary authorization and agrees to accept responsibility for my actions hereunder. My *Institution* maintains an *Institutional Review Board* that oversees my scientific activities and validates my research ethics training. My *Institution* asserts that I have rights to share with Databrary any *Data* I contribute; no other entity or individual has ownership rights that prevent me from contributing *Data* to Databrary. My *Institution* grants me authority to decide with whom I wish to share *Data* that I contribute, and my *Institution* holds me responsible for its use. 
 
-### 7.	Databrary Rights and Responsibilities
+### 6.	Databrary Rights and Responsibilities
 I grant Databrary permission to: 
 
 - redistribute the *Data* in Databrary in accordance with my wishes and the permissions chosen by *Depicted Individuals*; 
@@ -109,13 +109,13 @@ I grant Databrary permission to:
 - revoke access to *Data* that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems;
 - revoke access to Databrary for ethics violations by any person.
 
-### 8.	Violations
+### 7.	Violations
 My *Institution* and I agree to inform Databrary of any suspected violation of confidentiality or ethics.  If Databrary determines that I have violated terms of this agreement, Databrary may remove the *Data* in question and/or deny my access to Databrary, temporarily or permanently. The violation may be reported to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of my *Institution*. If denied access to Databrary, I may request a review by the Databrary Ethics Committee.
 
-### 9.	Disclaimer
-I understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. I indemnify and render harmless Databrary, New York University, and the Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of the points in this agreement.
+### 8.	Disclaimer
+I understand that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. I indemnify and render harmless Databrary, New York University, and The Pennsylvania State University against any actions at law or in equity or in similar courts of any jurisdictions arising from violations of any of the points in this agreement.
 
-### 10.	Signature of Applicant
+### 9.	Signature of Applicant
 My signature signifies:
 
 - that I have authority on behalf of my institution to enter this agreement;
@@ -143,6 +143,10 @@ Email: _____________________________
 **Signature of Authorizing Official/Authorized Representative from Institution:**
 
 As the *Authorizing Official* of this *Institution*, my signature below indicates either that I have authority to bind my *Institution* under this agreement or that a person with such authority agrees to the statements in this document.
+
+Institution: _____________________________
+
+Institution's Federal Wide Assurance (FWA) Number: _________________________
 
 Printed Name: _____________________________
 

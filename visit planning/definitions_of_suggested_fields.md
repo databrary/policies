@@ -1,4 +1,4 @@
-## Databrary Information Collection
+## Definitions of Suggested Fields 
 
 The following describes information we would like you to include with the video files you plan to share in Databrary. You can use the attached Excel spreadsheet for managing these data (note headings in red have drop-down menus). We are happy to help you to personalize the spreadsheet for your lab use. If you do not provide information for a field, we will leave the field blank in Databrary, unless otherwise noted as a default. If you add fields to the drop-down menus or add columns, we will include that information in Databrary. Columns that are not marked “must have” are desired but not mandatory for including data in Databrary.
 
@@ -99,10 +99,10 @@ See the participant tab on the Excel spreadsheet. Each row represents a single p
  * Low
  * Unknown
  
-### 1st language
+### primary language
  * What is the participant’s primary language?
 
-### 2nd language
+### secondary language
 * What is the participant’s secondary language if any?
  
 ### term (gestation) for infants

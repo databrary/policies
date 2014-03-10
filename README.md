@@ -12,5 +12,3 @@ Databrary policies and procedures:
 IRB forms and instructions:
 
 - [Databrary Release Form Template](release-template.md) 
-For Investigators to amend to their IRB protocol and use to ask for participant's permission for sharing data
-- [Instructions for amending IRB protocol with Databrary Release Form](release-instructions.md)
