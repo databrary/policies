@@ -3,7 +3,7 @@
 
 Terms in *italics* are defined at [http://databrary.org/user-guide/policies/definitions.html](http://databrary.org/user-guide/policies/definitions.html)
 
-### 1.	What is Databrary?
+### What is Databrary?
 
 Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
 
