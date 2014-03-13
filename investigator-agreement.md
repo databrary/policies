@@ -57,7 +57,7 @@ I also agree not to sell or trade *Data* or us it for other commercial purposes.
 
 - Remove names and other *Personally Identifying Information*, except for birth dates, from all files that are not *Recordings*; 
 - Seek, secure, and maintain permission to conduct *Research* from the *Institutional Review Board* that governs research at my *Institution* and receive approval to ask *Depicted Individuals* or their legal parent or guardian for permission to share *Recordings* or *Self-Reported Health-Related Information* in Databrary; and faithfully represent to Databrary information about IRB approvals
-- Ensure that *Depicted Individuals* sign copies of the appropriate Databrary *Permission (or Assent) To Share* documents or grant equivalent permission through other means; I agree to accuratley share with Databrary the level of *Sharing Permission* given by *Depicted Individuals*.
+- Ensure that *Depicted Individuals* sign copies of the appropriate Databrary *Permission (or Assent) To Share* documents or grant equivalent permission through other means; I agree to accurately share with Databrary the level of *Sharing Permission* given by *Depicted Individuals*.
 - Abide by limitations on *Sharing Excerpts* of *Data* with the *Public*.
 - Delete or modify *Data* I have contributed if requested to do so by Databrary.
 
