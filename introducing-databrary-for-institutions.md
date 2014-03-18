@@ -63,3 +63,4 @@ Databrary is a joint project of New York University and The Pennsylvania State U
 
 - Rutgers University
 - Indiana University
+- University of Rochester
