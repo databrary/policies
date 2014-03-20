@@ -85,7 +85,7 @@ Finally, in addition to giving permission for their *Recordings or Self-Reported
 
 I warrant that I will exercise professional judgment and uphold ethical principles in determining which *Excerpts* to show and to what audiences. I warrant that I will select *Excerpts* and edit them to minimize the possibility that a *Depicted Individual* can be identified, embarrassed, or harmed by the public showing of an *Excerpt*. 
 
-If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed, or distributed. Any problems or questions should be addressed to Databrary ethics@databrary.org. 
+If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed, or distributed. Any problems or questions should be addressed to [ethics@databrary.org](mailto:ethics@databrary.org). 
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
@@ -130,7 +130,7 @@ My signature signifies:
 
 - that I have authority on behalf of my institution to enter this agreement;
 - that I have read, understood, and agree to the provisions in this document;
-- that I have read and understood the Databrary *Permission to Share* documents (see http://databrary.org/about/#policies);
+- that I have read and understood the Databrary *Permission to Share* documents (see [http://databrary.org/user-guide/policies.html](http://databrary.org/user-guide/policies.html));
 - and that I will use Data exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes).
 
 <!--page_end-->
