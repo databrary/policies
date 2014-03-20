@@ -130,7 +130,7 @@ My signature signifies:
 
 - that I have authority on behalf of my institution to enter this agreement;
 - that I have read, understood, and agree to the provisions in this document;
-- that I have read and understood the Databrary *Permission to Share* documents (see [http://databrary.org/user-guide/policies.html](http://databrary.org/user-guide/policies.html));
+- that I have read and understood the Databrary *Permission to Share* documents (see http://databrary.org/user-guide/policies.html);
 - and that I will use Data exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes).
 
 <!--page_end-->
