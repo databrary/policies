@@ -85,7 +85,7 @@ Finally, in addition to giving permission for their *Recordings or Self-Reported
 
 I warrant that I will exercise professional judgment and uphold ethical principles in determining which *Excerpts* to show and to what audiences. I warrant that I will select *Excerpts* and edit them to minimize the possibility that a *Depicted Individual* can be identified, embarrassed, or harmed by the public showing of an *Excerpt*. 
 
-If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed, or distributed. Any problems or questions should be addressed to Databrary: ethics@databrary.org.
+If there is uncertainty about whether a *Depicted Individual* has granted *Permission To Share or Permission to Excerpt*, those *Recordings or Self-Reported Health–Related Information* must not be shared, viewed, or distributed. Any problems or questions should be addressed to Databrary ethics@databrary.org. 
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
