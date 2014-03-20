@@ -1,11 +1,15 @@
 # Databrary Investigator Agreement
 
+<!--page_1-->
+
 ## 1.	What is Databrary?
-Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* – video/audio recordings and photographic images Databrary calls *Recordings* – and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
+Databrary is a data library intended to foster sharing of information among researchers. Databrary contains *De-Identified Data, Non-Identifiable Data*, and *Metadata*. Databrary also contains *Identifiable Data* - video/audio recordings and photographic images Databrary calls *Recordings* - and other sensitive materials, such as *Self-Reported Health-Related Information*, only some of which are open to the public. *Data* in the library might be used to determine the identity of research participants who have been promised confidentiality. *Data* might also be used to harm or embarrass *Research Participants* or other *Depicted Individuals*. Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards. Individuals with authorized access to Databrary are called *Investigators*.
 
 With appropriate approval (if required) from an *Institutional Review Board* at an *Institution*, *Investigators* may browse, search, and download *Data* from Databrary for *Non-Research* purposes; use Databrary for *Research* purposes; and contribute *Data*, subject to the *Sharing Permissions* granted by *Research Participants* or other individuals depicted in *Recordings*.
 
 This document sets out my rights and responsibilities, those of my *Institution*, and those of Databrary. Definitions of italicized terms used in this document are listed [here](definitions.md).
+
+<!--page_2-->
 
 ## 2.	Responsibilities of Databrary *Principal* or *Affiliate Investigators*
 I understand that in order for me to have access, I must apply to Databrary and receive approval before viewing or contributing *Data*. To qualify for *Databrary Principal Investigator* status, I must be a *Principal Investigator (PI)* at my *Institution*. If I am a researcher whose work is overseen by someone who is a *Databrary Principal Investigator*, I may apply to be a *Databrary Affiliate Investigator*. If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is an authorized *Databrary Principal Investigator* and who verifies that my use of *Data* from the library will be strictly for the purpose of legitimate scientific research. 
@@ -35,6 +39,8 @@ In contributing *Data*, I assert that I have rights to share with Databrary any 
 I agree to cite all Databrary resources I use in my scholarly work. Databrary will provide a recommended citation format.  
 
 If I am eligible to apply for and am approved as a *Databrary Principal Investigator*, I agree to manage the privileges of *Databrary Affiliate Investigators* whose research I oversee. If I am not eligible to be named or not approved as a *Databrary Principal Investigator*, I understand that my access privileges may be managed or restricted by the *Databrary Principal Investigator* who oversees my research.
+
+<!--page_3-->
 
 ## 3.	Privacy of research participants
 I warrant that I will treat *Data* taken from or contributed to Databrary with the same high standards of care that I would treat *Data* collected in my own laboratory. 
@@ -83,6 +89,8 @@ If there is uncertainty about whether a *Depicted Individual* has granted *Permi
 
 I promise to cite all *Excerpts* following Databrary citation practices.
 
+<!--page_4-->
+
 ## 4.	Rights of *Data Contributors*
 
 If I contribute *Data* to Databrary, I may decide whether to share, when to share, and with whom I want to share within the parameters defined by Databrary. I may share only among members of my approved research protocol, with selected Databrary *Investigators*, with all authorized Databrary *Investigators*, or with the public.
@@ -109,6 +117,8 @@ I grant Databrary permission to:
 - revoke access to *Data* that pose a risk of violating confidentiality, harm or embarrass individuals, or create other ethical problems;
 - revoke access to Databrary for ethics violations by any person.
 
+<!--page_5-->
+
 ## 7.	Violations
 My *Institution* and I agree to inform Databrary of any suspected violation of confidentiality or ethics.  If Databrary determines that I have violated terms of this agreement, Databrary may remove the *Data* in question and/or deny my access to Databrary, temporarily or permanently. The violation may be reported to the Research Integrity Officer, Institutional Review Board, or Human Subjects Review Committee of my *Institution*. If denied access to Databrary, I may request a review by the Databrary Ethics Committee.
 
@@ -122,6 +132,8 @@ My signature signifies:
 - that I have read, understood, and agree to the provisions in this document;
 - that I have read and understood the Databrary *Permission to Share* documents (see http://databrary.org/about/#policies);
 - and that I will use Data exclusively for the purpose of scientific research or education under the auspices of either an academic, research, government, health, or a commercial entity (but in the last case, solely for non-commercial purposes).
+
+<!--page_end-->
 
 Printed Name: _____________________________
 
