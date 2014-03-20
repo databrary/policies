@@ -1,11 +1,5 @@
 ## Definitions
-- People
-- Entities
-- Documents
-- Data-types
-- Actions
 
----
 ### People
 
 #### Principal Investigator (PI), Principal Investigator (PI) Status
