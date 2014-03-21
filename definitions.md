@@ -1,88 +1,86 @@
-## Definitions
+# People
 
-### People
-
-#### Principal Investigator (PI), Principal Investigator (PI) Status
+## Principal Investigator (PI), Principal Investigator (PI) Status
 
 An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. *Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
 
-#### Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
+## Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
 
 An individual with *Principal Investigator (PI)* status at an *Institution* who has received authorization from Databrary to view, download, and contribute *Data*.
 
-#### Databrary Affiliate Investigator(s) or Affiliate Investigator(s)
+## Databrary Affiliate Investigator(s) or Affiliate Investigator(s)
 
 An individual, affiliated with a *Databrary Principal Investigator*, who has been authorized for access to Databrary under that *Investigator's* sponsorship and supervision. The access privileges of *Affiliate Investigators* are under the control of one or more *Databrary Principal Investigators*.
 
-#### Data Contributor(s)
+## Data Contributor(s)
 
 An *Investigator* who contributes *Data* to Databrary.
 
-#### Depicted Individual(s) 
+## Depicted Individual(s) 
 
 A person depicted in *Recordings*.
 
-#### Research Participant(s)
+## Research Participant(s)
 
 A person observed for purposes of *Research*.
 
-#### Third-Party User(s)
+## Third-Party User(s)
 
 An individual who wishes to obtain access to Databrary, but has not yet been granted *Principal Investigator* or *Affiliate Investigator* account.
 
-#### Private Person(s)
+## Private Person(s)
 
 Any individual (including an individual acting in his official capacity) and any private entity (i.e., non-government partnership, corporation, association, organization) or any combination thereof including family, household, school, neighborhood, health service, or *Institution*. 
 
-#### Representative of the Institution
+## Representative of the Institution
 
 A person authorized to enter into contractual agreements on behalf of an *Investigator's* *Institution*.
 
-#### Minor(s)
+## Minor(s)
 
 A person under the age of 18.
 
 ---
 
-### Entities
+# Entities
 
-#### Institutional Review Board (IRB)
+## Institutional Review Board (IRB)
 
 A research supervision entity or its equivalent charged with supervising research at an *Institution*.
 
-#### Institution(s)
+## Institution(s)
 
 A university or research organization (including commercial entities), or a government agency at which an *Investigator* will conduct scientific activities, including *Research* using *Data*.
 
 ---
 
-### Documents
+# Documents
 
-#### Databrary Investigator/Affiliate Investigator Agreement
+## Databrary Investigator/Affiliate Investigator Agreement
 
 Written or electronic agreement that sets out the rights and responsibilities of *Databrary Principal Investigators* and *Affiliate Investigators* in their use of Databrary resources.
 
-#### Permission/Assent to Share Recordings
+## Permission/Assent to Share Recordings
 
 Written or electronic documentation that an adult or *Minor* *Depicted Individual* has given permission/assent to allow *Recordings* to be shared.
 
-#### Permission/Asssent to Share Data
+## Permission/Asssent to Share Data
 
 Written or electronic documentation that an adult *Depicted Individual* has given permission to allow *Identifiable Data* to be shared.
 
-#### Permission/Assent to Excerpt
+## Permission/Assent to Excerpt
 
 Written or electronic permission or assent given by Depicted Individuals to allow *Investigators* to show or distribute *Excerpts* from *Recordings*.  
 
-#### Permission to Share Self-Reported Health-Related Information
+## Permission to Share Self-Reported Health-Related Information
 
 Written or electronic permission or assent to allow *De-identified* *Self-Reported Health-Related Information* to be shared with Databrary.
 
 ---
 
-### Data-types
+# Data-types
 
-#### Personally Identifying Information (PII)
+## Personally Identifying Information (PII)
 
 See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 
@@ -101,58 +99,58 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 - Telephone number
 - Faces and voices.
 
-#### Identifiable Data
+## Identifiable Data
 
 Collections of *PII* that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
 
-#### Non-Identifiable Data
+## Non-Identifiable Data
 
 Collections of information that do not contain *Identifiable Data*.
 
-#### De-identified Data
+## De-identified Data
 
 Collections of information from which *PII* has been removed or altered in such a way as to prevent the identification of individual persons.
 
-#### Recordings
+## Recordings
 
 Video or audio recordings or still (photographic) images.
 
-#### Shareable Identifiable Data
+## Shareable Identifiable Data
 
 *Identifiable Data* for which a *Depicted Individual* has granted *Assent to Share Data* or *Permission to Share Data*. 
-#### Metadata
+## Metadata
 
 Information that describes how, where, why, and by whom *Identifiable Data*, *De-Identified Data* or *Non-Identifiable Data* were collected.
 
-#### Self-Reported Health-Related Information
+## Self-Reported Health-Related Information
 
 Information about an individual or *Minor* child's health status that is reported by the individual or an individual's parent or legal guardian, not by a health-care provider.
 
-#### Data
+## Data
 
 Any *Identifiable Data*, *De-Identified Data*, *Non-Identifiable Data* or *Metadata*.
 
-### Contributed Data
+## Contributed Data
 
 Any *Data* that a *Data Contributor* has contributed to Databrary and permitted Databrary to share with others.
 
-#### Excerpts
+## Excerpts
 
 An excerpt is a still frame or a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length, substantially less than the full length of a *Recording*. *Investigators* or *Affiliate Investigators* may select segments of a recording as an *Excerpt* for display in public settings if the *Depicted Individuals* have granted appropriate sharing permission. 
 
-#### Digital Files
+## Digital Files
 
 Video or audio recordings or photographs stored in an electronic form that may be readily shared (copied or sent) to other people who are not *Research Staff* over electronic networks like the Internet.
 
-#### Best Practices in Data Security
+## Best Practices in Data Security
 
 Measures taken to shield digital information from unauthorized access and to preserve it for future authorized use. See Databrary [best practices](best-practices.md) for examples.
 
 ---
 
-### Actions
+# Actions
 
-#### Permission/Consent, Sharing Permission/Consent (Level)
+## Permission/Consent, Sharing Permission/Consent (Level)
 
 Specific rights for sharing and public release granted by *Depicted Individuals* in a *Permission to Share Data* document.
 
@@ -170,30 +168,30 @@ Databrary currently supports four (4) levels of *Sharing Permission*:
 4. **Public**
 	- *Data*, including recordings, may be shared openly with the *Public*.
 
-#### Access Permissions (Level)
+## Access Permissions (Level)
 
 Specific permissions placed on a study or other digital object by an *Investigator* controlling its access by other Databrary users. These are distinct from and may have more flexibility than Sharing Permission.
 
-#### Authorization, User/Investigator Authorization (Level)
+## Authorization, User/Investigator Authorization (Level)
 
 Privileges granted to individuals to access Databrary.
 
-#### Promise of Confidentiality
+## Promise of Confidentiality
 
 A promise to a respondent or *Research Participant* that the information the respondent provides will not be disseminated without the permission of the respondent; that the fact that the respondent participated in the study will not be disclosed; and that disseminated information will include no linkages to the identity of the respondent. Such a promise encompasses traditional notions of both confidentiality and anonymity. Names and other identifying information regarding respondents, proxies, or other persons on whom the respondent or proxy provides information, are presumed to be confidential.
 
-#### Deductive Disclosure
+## Deductive Disclosure
 
 The discerning of an individual's identity or confidential information through the use of known characteristics of that individual. Disclosure risk is present if an unacceptably narrow estimation of an individual’s confidential information is possible or if determining the exact attributes of the individual is possible with a high level of confidence.
 
-#### Public Showing
+## Public Showing
 
 Playing an audio or video segment or showing a photograph to an audience that is not limited to *Research Staff*.
 
-#### Research
+## Research
 
 A systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. [45 CFR 46.102(d)](http://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html#46.102)
 
-#### Non-Research, Non-Research Activities, Non-Research Scientific Activities
+## Non-Research, Non-Research Activities, Non-Research Scientific Activities
 
 Work by *Investigators* or *Affiliate Investigators* involving *Data* that falls outside the scope of *Research*, but respects research ethics principles.
