@@ -135,18 +135,17 @@ My signature signifies:
 
 <!--page_end-->
 
-Printed Name: _____________________________
+Printed Name: <!--FILLIN_NAME-->_____________________________
 
 Signature: ________________________________
 
-Date: ________________
+Date: <!--FILLIN_DATE-->________________
 
 I am not a *PI*, but my research activities are overseen by the following individual(s) who are *PI's* and who will be contacted to approve my application:
 
 Printed Name: _____________________________
 
 Email: _____________________________
-
 
 Printed Name: _____________________________
 
