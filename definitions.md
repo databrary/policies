@@ -2,7 +2,7 @@
 
 ## Principal Investigator (PI), Principal Investigator (PI) Status
 
-An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage a sponsored project. *Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
+An employee of an *Institution* who has the background and training in scientific and administrative oversight necessary to conduct and manage research. *Institutions* determine who may have PI status, but the definition typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted PI status.
 
 ## Databrary Principal Investigator(s) or Authorized Principal Investigator(s)
 
