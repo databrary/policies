@@ -32,9 +32,9 @@ An individual who wishes to obtain access to Databrary, but has not yet been gra
 
 Any individual (including an individual acting in his official capacity) and any private entity (i.e., non-government partnership, corporation, association, organization) or any combination thereof including family, household, school, neighborhood, health service, or *Institution*. 
 
-## Representative of the Institution
+## Authorized Organizational Representative (AOR)
 
-A person authorized to enter into contractual agreements on behalf of an *Investigator's* *Institution*.
+An AOR, or Authorizing Official is the designated individual who is authorized to sign and enter into contractual agreements on behalf of an *Investigator*'s *Institution*.
 
 ## Minor(s)
 
