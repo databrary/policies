@@ -1,7 +1,7 @@
 # Data Management Plan Template 
 
 
-Note: This is a template data management plan for researchers that plan to store and share data in Databrary.  to describe how the project will conform to [NSF Policy on dissemination and sharing of research results](http://www.nsf.gov/bfa/dias/policy/dmp.jsp), including the requirement to “share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered.”  In addition, we urge users to check for specific agency/directorate/program specific resource sharing plan or data management plan requirements.
+Note: This is a template data management plan to help researchers that plan to store and share data in Databrary to describe how the project will conform to [NSF Policy on dissemination and sharing of research results](http://www.nsf.gov/bfa/dias/policy/dmp.jsp), including the requirement to “share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered.”  In addition, we urge users to check for specific agency/directorate/program specific resource sharing plan or data management plan requirements.
 
 1. Data description <br/> <br/>
 [Briefly describe the types of data, samples, physical collections, software, curriculum materials, and other materials to be produced in the course of the project.]<br/> <br/>
