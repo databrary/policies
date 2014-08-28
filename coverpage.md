@@ -9,16 +9,16 @@ Databrary also contains Identifiable Data - video/audio recordings and photograp
 
 Data in the library might be used to determine the identity of research participants who have been promised confidentiality.
 
-Data might also be used to harm or embarrass Research Participants or other Depicted Individuals.
+Data could be used to harm or embarrass Research Participants or other Depicted Individuals.
 Accordingly, Databrary requires prior authorization for full access and requires those granted access to uphold the highest ethical standards.
 
 Individuals with authorized access to Databrary are called Investigators.
 
-With appropriate approval (if required) from an Institutional Review Board at an Institution, Investigators may browse, search, and download Data from Databrary for Non-Research purposes; use Databrary for Research purposes; and contribute Data, subject to the Sharing Permissions granted by Research Participants or other individuals depicted in Recordings.
+Once authorized, Investigators may browse, search, and download Data from Databrary for Non-Research purposes; use Databrary for Research purposes; and contribute Data, subject to the Sharing Permissions granted by Research Participants or other individuals depicted in Recordings.
 
 In order to have access, one must register on Databrary and receive approval before viewing or contributing Data.
-To qualify for Databrary Principal Investigator status, I must be a Principal Investigator (PI) at my Institution.
-If I am a researcher whose work is overseen by someone who is a Databrary Principal Investigator, I may apply to be a Databrary Affiliate Investigator.
+To qualify for Databrary Authorized Investigator status, one must be eligible to conduct independent research at their Institution. In most contexts, this is a person with a faculty position, or one who is allowed to submit grants as a principal investigator.
+If I am a researcher whose work is overseen by someone who is a Databrary Authorized Investigator, I may apply to be a Databrary Affiliate Investigator.
 
 If I do not meet either criterion, Databrary may deem me qualified based on my track record of scientific accomplishment or on the basis of a written reference from someone who is an authorized Databrary Principal Investigator and who verifies that my use of Data from the library will be strictly for the purpose of legitimate scientific research.
 
@@ -34,7 +34,7 @@ If applicable, I must also provide evidence of my record of scientific accomplis
 #### Sharing only within a research group
 
 Depicted Individuals may refuse to give permission to share Recordings or Self-Reported Health-Related Information outside a specific research group.
-In this case, Databrary may store Data, Recordings, or Self-Reported Health-Related Information but will not permit access by Investigators unless the Data Contributor gives permission.
+In this case, Databrary may store Data, Recordings, or Self-Reported Health-Related Information but will not permit access by Investigators unless the Data Contributor gives permission.S
 As Data Contributor, I may choose to permit access to my Data to other Investigators under an existing research protocol approved by a Research Supervision Entity.
 Institution, to the extent allowed by law, assumes full responsibility for specifying who is allowed access to my Data, for controlling that access using Databrary's tools, and for any actions others take with my Data.
 
