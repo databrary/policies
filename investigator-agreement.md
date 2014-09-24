@@ -57,7 +57,7 @@ I acknowledge that *De-Identified Data, Non-Identifiable Data*, and *Metadata* m
 - Respect the *Level of Sharing Permission* given by *Depicted Individuals*.
 - Use *Data* exclusively for the purpose of scientific research or education under the auspices of an academic, research, government, health, or commercial entity (but in the last case, solely for non-commercial purposes).
 
-I also agree not to sell or trade *Data* or us it for other commercial purposes.
+I also agree not to sell or trade *Data* or use it for other commercial purposes.
 
 ### Contributing data
 
