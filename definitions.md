@@ -1,7 +1,7 @@
 ## Affiliate 
-An individual, affiliated with an Authorized Investigator who operates under that Investigator's sponsorship and supervision. The access privileges of Affiliates are under the control of one or more Authorized Investigators.
+An individual, affiliated with an authorized investigator who operates under that Investigator's sponsorship and supervision. The access privileges of Affiliates are under the control of one or more authorized investigators.
 
-## Authorized Investigator
+## authorized investigator
 An individual who has permission from an Institution to conduct independent research, who has received authorization from Databrary to view, download, and contribute Data.
 
 An employee of an Institution who has the background and training in scientific and administrative oversight necessary to conduct and manage research. Institutions determine who may be eligible to conduct independent research, but this typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted permission to conduct independent research.
