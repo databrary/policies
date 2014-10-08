@@ -1,6 +1,8 @@
 # Data Management Plan Template 
 
-Note: This template data management plan is meant to help researchers who plan to store and share data in Databrary to describe how the project will conform to the NSF Policy on dissemination and sharing of research results, including the requirement to "share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered." Researchers should confirm agency/directorate/program-specific resource sharing plans or data management plan requirements.
+Note: This is boilerplate language for data management plans or resource sharing plans and is meant to help researchers who plan to store and share data in Databrary prepare their materials for submission.
+
+Researchers should confirm agency/directorate/program-specific resource sharing plan or data management plan requirements.
 
 1. Data and metadata standards <br/> <br/>
 Databrary transcodes all deposited video and audio data into standard and HTML5-compatible formats, currently H.264+AAC as MP4. Databrary stores other data in native formats (e.g., .doc, .docx, .xls, .xlsx, .txt, .csv, .pdf, .jpg, .png). Databrary expects to develop data mining mechanisms that will convert much of the metadata stored in non-text or non-XML formats into these standard forms for subsequent sharing.<br/> <br/>
