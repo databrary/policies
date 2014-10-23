@@ -1,4 +1,4 @@
-DOCS=best-practices bill-of-rights data-sharing-manifesto definitions investigator-agreement standard-operating-procedures release-template dmp-template
+DOCS=best-practices bill-of-rights data-sharing-manifesto definitions investigator-agreement standard-operating-procedures release-template dmp-template staff-release
 all: $(foreach d,$(DOCS),$(foreach e,pdf docx html shtml,doc/$d.$e))
 
 clean:
