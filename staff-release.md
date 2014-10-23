@@ -1,6 +1,6 @@
 # Databrary Staff Release Form
 
-I give my permission to share with Databrary any recordings where I am recording in the performance of my research duties.
+I give my permission to share with Databrary any recordings where I am recorded in the performance of my research duties.
 
 Signature of lab member:
 
