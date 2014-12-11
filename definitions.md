@@ -2,24 +2,27 @@
 An individual, affiliated with an authorized investigator who operates under that Investigator's sponsorship and supervision. The access privileges of Affiliates are under the control of one or more authorized investigators.
 
 ## Authorized investigator
-An individual who has permission from an Institution to conduct independent research, who has received authorization from Databrary to view, download, and contribute Data.
+An individual who has permission from an institution to conduct independent research, who has received authorization through their institution and from Databrary to view, download, and contribute Data.
 
-An employee of an Institution who has the background and training in scientific and administrative oversight necessary to conduct and manage research. Institutions determine who may be eligible to conduct independent research, but this typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted permission to conduct independent research.
+An employee of an institution who has the background and training in scientific and administrative oversight necessary to conduct and manage research. Institutions determine who may be eligible to conduct independent research, but this typically includes tenure-track faculty (Instructor through Professor, sometimes Emeritus), research or clinical faculty, and may include archivists, curators, and librarians. Research Associates, Research Assistants, and other staff are not considered to be independent investigators, and therefore are not typically granted permission to conduct independent research.
 
 ## Authorized Organizational Representative (AOR)
-An AOR, or Authorizing Official is the designated individual who is authorized to sign and enter into contractual agreements on behalf of an *Investigator*'s *Institution*.
+The designated individual who is authorized to sign and enter into contractual agreements on behalf of an Institution.
 
 ## Excerpts
-An excerpt is a still frame or a selection from a larger *Recording* that illustrates a particular point or demonstrates a finding. It is typically no more than a few seconds or minutes in length, substantially less than the full length of a *Recording*. *Investigators* or *Affiliate Investigators* may select segments of a recording as an *Excerpt* for display in public settings if the *Depicted Individuals* have granted appropriate sharing permission. 
+A still frame or a selection from a larger *recording* that illustrates a particular point or demonstrates a finding. Typically no more than a few seconds or minutes in length, substantially less than the full length of a *recording*. 
+
+*Investigators* or *affiliate investigators* may select segments of a recording as an *excerpt* for display in public settings if the *depicted individuals* have granted appropriate release level for using selected excerpts. 
 
 ## De-identified data
-Collections of information from which *PII* has been removed or altered in such a way as to prevent the identification of individual persons.
+Collections of information from which all identifiers have been removed or altered in such a way as to prevent the identification of individual persons.
 
 ## Identifiable data
-Collections of information that might be used singly or in combination to determine the identity of *Research Participants* or other individuals depicted in *Recordings*.
+Collections of information that might be used singly or in combination to determine the identity of research participants or other individuals depicted in *recordings* or data.
 
-<!--## Personally Identifying Information (PII)
-See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
+<!-- ## Personally Identifying Information (PII)
+See also: [HIPAA privacy rules](http://privacyruleandresearch.nih.gov/pr_08.asp)
+
 - Full name
 - National identification number (e.g., Social Security number)
 - Internet Protocol (IP) address
@@ -33,10 +36,10 @@ See also: [HIPAA indentifiers](http://privacyruleandresearch.nih.gov/pr_08.asp)
 - Birthplace
 - Address
 - Telephone number
-- Faces and voices. -->
+- Faces and voices -->
 
 ## Non-identifiable data
-Collections of information that do not contain *Identifiable Data*.
+Collections of information that do not contain *identifiable data*.
 
 ## Recordings
 Video or audio recordings or still (photographic) images.
