@@ -3,11 +3,10 @@ policies
 
 Databrary policies and procedures:
 
-- [Standard operating procedures - SOPs](standard-operating-procedures.md)
-- Investigator/Affiliate Investigator [Agreement](investigator-agreement.md)
+-  Access [Agreement](agreement.md)
 - Participant [Bill of Rights](bill-of-rights.md)
-- [Definitions of Terms](definitions.md)
-- [Data Management Best Practices](best-practices.md)
+- [Glossary](definitions.md)
+- Databrary's [Best Practices](best-practices.md) for Data Security
 
 IRB forms and instructions:
 
