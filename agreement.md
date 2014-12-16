@@ -35,7 +35,11 @@ Signature of AOR: ___________________________
 
 Date: ___________________________
 
+<div style="display:none;">
+
 \pagebreak
+
+</div>
 
 # Annex I
 
@@ -108,9 +112,9 @@ Authorized Investigators may authorize other users as their Affiliates. Authoriz
 
 _______ Initials of AOR
 
-\newpage
-
 <div style="display:none;">
+
+\newpage
 
 # Annex II
 
