@@ -23,7 +23,9 @@ As an Investigator, I acknowledge that I have read and understand the terms of t
 
 Name and title of Authorized Investigator: ___________________________
 
-Signature of Authorized Investigator: ___________________________
+Signature of Authorized Investigator: ___________________________ 
+
+Date: ___________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
