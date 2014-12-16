@@ -21,11 +21,11 @@ separate agreement between Databrary and the Institution and each of its Authori
 
 As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
 
-Name and title of Authorized Investigator: ___________________________
+Name and title of Authorized Investigator: <!--FILLIN_NAME-->___________________________
 
-Signature of Authorized Investigator: ___________________________ 
+Signature of Authorized Investigator: <!--FILLIN_NAME-->___________________________
 
-Date: ___________________________
+Date: <!--FILLIN_DATE-->___________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
