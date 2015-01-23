@@ -12,7 +12,7 @@ The designated individual who is authorized to sign and enter into contractual a
 ## Excerpts
 A still frame or a selection from a larger *recording* that illustrates a particular point or demonstrates a finding. Typically no more than a few seconds or minutes in length, substantially less than the full length of a *recording*. 
 
-*Investigators* or *affiliate investigators* may select segments of a recording as an *excerpt* for display in public settings if the *depicted individuals* have granted appropriate release level for using selected excerpts. 
+*Investigators* or *affiliates* may select segments of a recording as an *excerpt* for display in public settings if the *depicted individuals* have granted appropriate release level for using selected excerpts. 
 
 ## De-identified data
 Collections of information from which all identifiers have been removed or altered in such a way as to prevent the identification of individual persons.
