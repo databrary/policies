@@ -12,5 +12,5 @@
 - Investigators who use information shared by others should follow ethical principles. 
 	- They should cite resources contributed by other Investigators. Citation is an important currency of scholarly activity. 
 	- They should contribute data and analyses of their own to Databrary in a timely way. Not everyone has the resources to collect highly valuable data sets. But, secondary analyses of data sets should be shared and linked to their original sources. 
-	- Investigators who use datasets contributed but others should consider initiating a collaboration with a data contributor if embarking on a new analysis of a contributed data set.
+	- Investigators who use datasets contributed by others should consider contacting the data contributor when embarking on a new analysis of a contributed data set. It may also be appropriate to invite the data contributor to collaborate.
 - Databrary encourages data from unpublished studies to be shared. In fact, Databrary provides an excellent home for them.
