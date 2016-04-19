@@ -57,7 +57,7 @@ All people in the session must decide whether to provide permission for the foll
 I give permission to share the material from this session with authorized researchers in a secure data library called Databrary.
 
 ### Permission to show excerpts and images
-I give permission for authorized Databrary researchers to show selected video excerpts and images from recordings of this session for scientific presentations and/or informational and educational purposes, but never for commercial purposes. I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts and images to share.
+I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
 
 We will give you a copy of this form and the signature page for your records. If you have any questions about the data-sharing library, please email ethics@databrary.org. For questions about your rights as a research participant, you may contact [APPROPRIATE CONTACT FOR LOCAL INSTITUTION].
  
@@ -66,7 +66,8 @@ I give permission to share the material from this session with authorized resear
 
 ## Permission to show excerpts and images
 
-I give permission for authorized Databrary researchers to show selected video excerpts and images from recordings of this session for scientific presentations and/or informational and educational purposes, but never for commercial purposes. I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts and images to share.
+I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
+
 By signing below, I indicate that I understand the Databrary Release document and have recorded my own choices for sharing the material from this session in Databrary and allowing authorized Databrary researchers to show excerpts.
 
 ### ADULTS
