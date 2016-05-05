@@ -94,7 +94,9 @@ Authorized Investigators must adhere to the Databrary Rights and Responsibilitie
 - Treat Databrary data with the same high standard of care that they treat data collected in their own lab.
 - Ensure that participants' wishes about sharing their data are respected.
 - Take care in authorizing other people (affiliates and collaborators) and take responsibility for their conduct and use of Databrary data, just as in own lab.
- Additionally, Authorized Investigators agree to:
+
+Additionally, Authorized Investigators agree to:
+
 - Comply with their Institution's policies on the conduct of research.
 - Have completed research ethics training that meets the Institution's standards.
 - Keep your contact information and Institutional affiliation current on Databrary.
@@ -102,7 +104,9 @@ Authorized Investigators must adhere to the Databrary Rights and Responsibilitie
 - Cite all Databrary resources used in their scholarly work using Databrary's suggested format.
 - Share data with Databrary only in accordance with permission granted by subjects.
 Authorized Investigators must have the right to share with Databrary any data they contribute; no other entity or individual should have ownership rights that prevent an Investigator from contributing data to Databrary. Authorized Investigators must obtain the necessary approvals required by their Institution for contributing data.
- When contributing data, Authorized Investigators agree to:
+
+When contributing data, Authorized Investigators agree to:
+
 - Seek, secure, and maintain permission to conduct research from the entity that governs research at the Authorized Investigator's Institution, and faithfully represent to Databrary information about any research approval status if requested.
 - Receive approval from the entity that governs research at the Institution to ask depicted individuals or their legal parent or guardian for permission to share data in Databrary.
 - Ensure that depicted individuals document their wishes about data sharing by signing copies of the appropriate Databrary Release documents or through other equivalent means.
