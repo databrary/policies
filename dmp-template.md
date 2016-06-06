@@ -29,7 +29,7 @@ Access to videos and metadata will be available for educational and research pur
 
 ###6. Plans for archiving and preservation
 
-Data in Databrary will be preserved indefinitely in a secure data storage facility at New York University (NYU). The facility is managed by the university's Information Technology Services department. Central IT staff handle storage, network, and backup systems. NYU does routine tape backups that are stored off site and performs regular file fixity checks to monitor the integrity of stored assets.
+Data in Databrary will be preserved indefinitely in a secure data storage facility at New York University (NYU). The facility is managed by the university's Information Technology Services department. Central IT staff handle storage, network, and backup systems. NYU maintains a mirror copy and does routine tape backups, both stored off site.
 
 ###7. Versioning of stored assets
 
