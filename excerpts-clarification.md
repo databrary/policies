@@ -10,7 +10,7 @@ Databrary clarified language related to the "Excerpts" release level across the 
 
 ### New language
 
-**Permission to show excerpts and images**. I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
+**Permission to show excerpts and images**. I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube). I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts and images to share and with which audiences.
 
 ## Release levels legend
 
