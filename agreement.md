@@ -1,6 +1,6 @@
 # Databrary Access Agreement
 
-The undersigned Institution wishes to allow its Authorized Investigators identified in Annex II ("Authorized Investigators") to access Databrary. 
+The undersigned Institution wishes to allow its Authorized Investigators identified below and in Annex II ("Authorized Investigators") to access Databrary. 
 
 Databrary is a web-based data library housed at New York University designed for sharing developmental and behavioral data, including video files and associated metadata. 
 Authorized Investigators have both contributor and user privileges to all shared data in the library. 
@@ -13,7 +13,7 @@ The Databrary Access Guide may be amended from time to time. In addition, the In
 By signing this Access Agreement, the Institution verifies that (a) it maintains an ethics or Institutional review board that reviews and approves research involving human subjects, (b) the Authorized Investigator(s) are eligible to conduct independent research at this Institution and the Institution accepts responsibility for its Authorized Investigators' actions related to the use of Databrary, (c) it grants the Authorized Investigators the authority to choose and manage affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles, and (d) the person executing this Access Agreement on behalf of the Institution has the authority to do so.
 
 The Institution and the Authorized Investigators agree that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. 
-Except in cases where the Institution is expressly prohibited by law from indemnifying third parties, the Institution indemnifies and renders harmless Databrary, New York University, and The Pennsylvania State University from all claims, losses, liability, and other damages that arise from Institution's or Authorized Investigator's violations of this Access Agreement.
+Except in cases where the Institution is expressly prohibited by law from indemnifying third parties, the Institution indemnifies and renders harmless Databrary, New York University, and The Pennsylvania State University from all claims, losses, liability, and other damages that arise from the Institution's or Authorized Investigator's violations of this Access Agreement.
 In cases where the Institution is prohibited by law from indemnifying third parties, the Institution agrees that it will be responsible for the payment of claims, including for loss, personal injury, death, property damage, or otherwise, arising out of any act or omission of its employees or agents in connection with the performance of this agreement for which it is held liable under applicable law.
 
 It is understood and agreed that this document shall constitute a 
@@ -23,9 +23,9 @@ As an Investigator, I acknowledge that I have read and understand the terms of t
 
 Name and title of Authorized Investigator: <!--FILLIN_NAME-->___________________________
 
-Signature of Authorized Investigator: <!--FILLIN_NAME-->___________________________
+Signature of Authorized Investigator: ___________________________
 
-Date: <!--FILLIN_DATE-->___________________________
+Date: ___________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
@@ -60,14 +60,14 @@ Databrary reserves the right to:
 - Revoke access to Databrary for ethics violations by any person.
 Databrary reserves the right to limit the amount or kind of data stored without charge or the level of service provided to Investigators. Shared data may be given priority for storage and processing resources.
 
-_______ Initials of AOR
+**_______ Initials of AOR**
 
 ### Responsibilities of Institutions
 
 The Institution confirms the eligibility of its investigators by:
 
 - Verifying that Authorized Investigators are eligible to conduct independent research at the Institution.
-- Validating that Authorized Investigators have research ethics training that meets the Institution's standards.
+- Validating that Authorized Investigators have current research ethics training that meets the Institution's standards.
 
 The Institution:
 
@@ -85,7 +85,7 @@ Regarding data contribution and use, the Institution:
 The Institution agrees to inform Databrary of any suspected violation of confidentiality or ethics.
 If Databrary determines that an Authorized Investigator at the Institution has violated the terms of the Databrary Access Agreement or other Databrary policies, Databrary may remove the data in question and/or deny the Authorized Investigator or the Institution access to Databrary, temporarily or permanently.
 
-_______ Initials of AOR
+**_______ Initials of AOR**
 
 ### Responsibilities of Authorized Investigators
 
@@ -93,7 +93,7 @@ Authorized Investigators must adhere to the Databrary Rights and Responsibilitie
 
 - Treat Databrary data with the same high standard of care that they treat data collected in their own lab.
 - Ensure that participants' wishes about sharing their data are respected.
-- Take care in authorizing other people (affiliates and collaborators) and take responsibility for their conduct and use of Databrary data, just as in own lab.
+- Take care in authorizing other people (affiliates and collaborators) and take responsibility for their conduct and use of Databrary data, just as in their own lab.
 
 Additionally, Authorized Investigators agree to:
 
@@ -116,7 +116,7 @@ When contributing data, Authorized Investigators agree to:
 
 Authorized Investigators may authorize other users as their Affiliates. Authorized Investigators assume the responsibility for choosing Affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. Authorized Investigators agree to be responsible for the conduct of Affiliates that they select 
 
-_______ Initials of AOR
+**_______ Initials of AOR**
 
 <div style="display:none;">
 
@@ -143,3 +143,4 @@ Signature of AOR: ___________________________
 Date: ___________________________
 
 </div>
+
