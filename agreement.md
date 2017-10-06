@@ -14,27 +14,23 @@ It is understood and agreed that this document shall constitute a separate agree
 
 As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
 
-Name and title of Authorized Investigator: <!--FILLIN_NAME-->___________________________
+Name and title of Authorized Investigator: <!--FILLIN_NAME-->________________________________________________
 
-Signature of Authorized Investigator: ___________________________
+Signature of Authorized Investigator: _______________________________________________________________________
 
-Date: ___________________________
+Date: _______________________________________________________________________________________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
-Institution: ___________________________
+Institution: ________________________________________________________________________________________________
 
-Name & Title of AOR: ___________________________
+Name & Title of AOR: ________________________________________________________________________________________
 
-Signature of AOR: ___________________________
+Signature of AOR: ___________________________________________________________________________________________
 
-Date: ___________________________
+Date: ____________________________________________________
 
-<div style="display:none;">
 
-\pagebreak
-
-</div>
 
 # Annex I
 
@@ -111,30 +107,4 @@ Authorized Investigators may authorize other users as their Affiliates. Authoriz
 **_______ Initials of AOR**
 
 **_______ Initials of Authorized Investigator**
-
-<div style="display:none;">
-
-\newpage
-
-# Annex II
-
-## Additional Authorized Investigators
-
-Institution: ___________________________
-
-As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
-
-Name and title of Authorized Investigator: ___________________________
-
-Signature of Authorized Investigator: ___________________________
-
-As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
-
-Name & Title of AOR: ___________________________
-
-Signature of AOR: ___________________________
-
-Date: ___________________________
-
-</div>
 
