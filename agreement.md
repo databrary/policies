@@ -14,21 +14,21 @@ It is understood and agreed that this document shall constitute a separate agree
 
 As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
 
-Name and title of Authorized Investigator: <!--FILLIN_NAME-->________________________________________________
+Name and title of Authorized Investigator: <!--FILLIN_NAME-->___________________________________
 
-Signature of Authorized Investigator: _______________________________________________________________________
+Signature of Authorized Investigator: ___________________________________
 
-Date: _______________________________________________________________________________________________________
+Date: ___________________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
-Institution: ________________________________________________________________________________________________
+Institution: ___________________________________
 
-Name & Title of AOR: ________________________________________________________________________________________
+Name & Title of AOR: ___________________________________
 
-Signature of AOR: ___________________________________________________________________________________________
+Signature of AOR: ___________________________________
 
-Date: ____________________________________________________
+Date: ___________________________________
 
 
 
