@@ -29,10 +29,14 @@ Several of these organizations are collaborating on developing template language
 
 ### Be ready with answers to IRB questions about data reuse. 
 The IRB review plays a vital role in ensuring that standard consent, data management, and data sharing practices used for primary data collection enable future secondary uses while minimizing the risks to the original participants. Anticipating the questions that will be raised by IRBs and knowing how best to respond will enhance the likelihood of your IRB granting permission for data sharing. For example, in reviewing data sharing plans, IRBs may raise several practical questions that require an explicit response. For example:
-Q. 	Must minors be re-consented when they reach the age of majority? 
-A.	Federal officials say not if re-consenting is impractical or otherwise increases risks to participants (e.g., by requiring researchers to maintain links between identifiable information and collected data for extended time periods). 
-Q. 	Must data be destroyed after a particular time period? 
-A. 	Not if they are stored indefinitely in a recognized repository (as should become standard practice); data destruction is not mandated under federal regulations. 
+
+Q. Must minors be re-consented when they reach the age of majority? 
+
+A. Federal officials say not if re-consenting is impractical or otherwise increases risks to participants (e.g., by requiring researchers to maintain links between identifiable information and collected data for extended time periods). 
+
+Q. Must data be destroyed after a particular time period? 
+
+A. Not if they are stored indefinitely in a recognized repository (as should become standard practice); data destruction is not mandated under federal regulations. 
 
 ### Request participant consent for sharing _after_ their participation is complete.
 Because IRBs are concerned with participants being fully aware of what they are sharing, it is best practice to request participants' consent to share _after_ they have participated in a study, and therefore know exactly what data were gathered. Most developmental research is innocuous, and most parents are willing to share their children's data – including video recordings – after they see that the project was fun and their children enjoyed participating. Most parents of children with disabilities are willing to share their children's data because they hope to speed progress in research.
