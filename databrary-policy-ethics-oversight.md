@@ -25,15 +25,15 @@ We are aware of implications for international researchers in the following coun
 
 <table>
 	<tr>
-		<td>**Germany**</td>
+		<td><strong>Germany</strong></td>
 		<td>Oversight only required for sensitive research (e.g., HIV, genetics)</td>
 	</tr>
 	<tr>
-		<td>**Poland**</td>
+		<td><strong>Poland</strong></td>
 		<td>Oversight external to the institution, by regional and central ethics boards</td>
 	</tr>
 	<tr>
-		<td>**Sweden**</td>
+		<td><strong>Sweden</strong></td>
 		<td>Oversight external to the institution, by regional ethics boards</td>
 	</tr>
 </table>
