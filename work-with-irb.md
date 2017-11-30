@@ -43,5 +43,5 @@ A. Not if they are stored indefinitely in a recognized repository (as should bec
 ### Request participant consent for sharing _after_ their participation is complete.
 Because IRBs are concerned with participants being fully aware of what they are sharing, it is best practice to request participants' consent to share _after_ they have participated in a study, and therefore know exactly what data were gathered. Most developmental research is innocuous, and most parents are willing to share their children's data – including video recordings – after they see that the project was fun and their children enjoyed participating. Most parents of children with disabilities are willing to share their children's data because they hope to speed progress in research.
 
-### We have drafted [template language to assist you in completing your IRB applications here](https://www.databrary.org/resources/templates/irb-application.html).
+We have drafted [template language to assist you in completing your IRB applications here](https://www.databrary.org/resources/templates/irb-application.html).
 
