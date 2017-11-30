@@ -1,6 +1,6 @@
 # IRB Application Template
 
-## Please Note: 
+## ##
 Below is boilerplate language prepared by Databrary that researchers can use to help draft applications to their institutional review board (IRB). This document is intended to help researchers who plan to store and share video data in Databrary prepare IRB materials for approval. 
 
 Researchers should confirm institution/agency/directorate/program-specific application requirements before submission.
