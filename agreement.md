@@ -1,3 +1,5 @@
+You can also download a [.docx](/policies/agreement.docx) version of this agreement.
+
 # Databrary Access Agreement
 
 The undersigned Institution wishes to allow its Authorized Investigators identified below and in Annex II (“Authorized Investigators”) to access Databrary.
