@@ -39,7 +39,6 @@ Date: _____________________________
 ### Rights Granted to Databrary
 
 Databrary reserves the right to:
-
 - Redistribute the data in Databrary in accordance with investigator's wishes and the permissions chosen by depicted individuals.
 - Promote and advertise data.
 - Describe, catalog, validate and document data.
