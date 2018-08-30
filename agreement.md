@@ -1,5 +1,3 @@
-You can also download a [.docx](/policies/agreement.docx) version of this agreement.
-
 # Databrary Access Agreement
 
 The undersigned Institution wishes to allow its Authorized Investigators identified below and in Annex II (“Authorized Investigators”) to access Databrary.
@@ -88,7 +86,7 @@ Authorized Investigators must adhere to the Databrary Rights and Responsibilitie
 
 Additionally, Authorized Investigators agree to:
 
-- Comply with their Institution's policies on the conduct of research
+- Comply with their Institution's policies on the conduct of research.
 - Complete research ethics training addressing human subjects policy and issues that meets the Institution's standards.
 - Keep contact information and Institutional affiliation current on Databrary.
 - Not share or disclose login information.
