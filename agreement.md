@@ -88,7 +88,7 @@ Authorized Investigators must adhere to the Databrary Rights and Responsibilitie
 
 Additionally, Authorized Investigators agree to:
 
-- Comply with their Institution's policies on the conduct of research.
+- Comply with their Institution's policies on the conduct of research
 - Complete research ethics training addressing human subjects policy and issues that meets the Institution's standards.
 - Keep contact information and Institutional affiliation current on Databrary.
 - Not share or disclose login information.
