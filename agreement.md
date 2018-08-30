@@ -9,15 +9,14 @@ By signing this Access Agreement, effective as of the date entered below, both t
 By signing this Access Agreement, the Institution verifies that (a) it maintains an ethics or Institutional Review Board with U.S.-equivalent standards that reviews and approves research involving human subjects, (b) the Authorized Investigator(s) have ethics training that addresses human subjects policy and issues, (c) the Authorized Investigator(s) are eligible to conduct independent research at this Institution and the Institution accepts responsibility for its Authorized Investigators’ actions related to the use of Databrary, (d) it grants the Authorized Investigators the authority to choose and manage affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles, and (e) the person executing this Access Agreement on behalf of the Institution has the authority to do so.
 
 The Institution and the Authorized Investigators agree that Databrary, New York University, The Pennsylvania State University, and the relevant funding agencies bear no responsibility for the use of Databrary or the information contained within it. Except in cases where the Institution is expressly prohibited by law from indemnifying third parties, the Institution indemnifies and renders harmless Databrary, New York University, and The Pennsylvania State University from all claims, losses, liability, and other damages that arise from the Institution’s or Authorized Investigator’s violations of this Access Agreement. In cases where the Institution is prohibited by law from indemnifying third parties, the Institution agrees that it will be responsible for the payment of claims, including for loss, personal injury, death, property damage, or otherwise, arising out of any act or omission of its employees or agents in connection with the performance of this agreement for which it is held liable under applicable law.
+
 It is understood and agreed that this document shall constitute a separate agreement between Databrary and the Institution, as amended from time to time by the Institution and Databrary, to include additional Authorized Investigators as listed in Annex II.
 
 As an Investigator, I acknowledge that I have read and understand the terms of this agreement.
 
 Name and title of Authorized Investigator: <!--FILLIN_NAME-->________________________
 
-Signature of Authorized Investigator: ____________________________
-
-Date: __________________________
+Signature of Authorized Investigator: ____________________________ Date: __________________________
 
 As the Authorized Organizational Representative (AOR), my signature below indicates that I have authority to bind my Institution under this agreement.
 
