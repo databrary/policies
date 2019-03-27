@@ -54,7 +54,7 @@ The Institution confirms the eligibility of its investigators by:
 The Institution:
 
 - Maintains an ethics or Institutional Review Board with U.S.-equivalent standards that reviews and approves research involving human subjects.
-- Grants Authorized Investigators the responsibility to choose and manage Affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. The Institution holds Authorized Investigators responsible for the conduct of Affiliates that they select.
+- Grants Authorized Investigators the responsibility to choose and manage affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. The Institution holds Authorized Investigators responsible for the conduct of affiliates that they select.
 - Accepts responsibility for its Authorized Investigator(s) actions related to the use of Databrary.
 
 Regarding data contribution and use, the Institution:
@@ -95,7 +95,7 @@ When contributing data, Authorized Investigators agree to:
 - For any identifiable information, provide information to Databrary about the release level permitted that respects the wishes of depicted individuals.
 - Exercise professional judgment in determining what to share.
 
-Authorized Investigators may authorize other users as their Affiliates. Authorized Investigators assume the responsibility for choosing Affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. Authorized Investigators agree to be responsible for the conduct of Affiliates that they select 
+Authorized Investigators may authorize other users as their affiliates. Authorized Investigators assume the responsibility for choosing affiliates who meet Databrary's qualifications and who agree to follow Databrary's ethical principles. Authorized Investigators agree to be responsible for the conduct of affiliates that they select 
 
 **_______ Initials of AOR**
 
