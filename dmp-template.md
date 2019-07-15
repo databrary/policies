@@ -10,7 +10,7 @@ Databrary transcodes all deposited video data into standard and HTML5-compatible
 
 ###2. Metadata
 
-Databrary transcodes all deposited video data into standard and HTML5-compatible formats, currently H.264+AAC as MP4. It stores the original video file along with the transformed, web accessible video file. Databrary stores other data in their original formats (e.g., .doc, .docx, .xls, .xlsx, .txt, .csv, .pdf, .jpg, .png). As standards for preferred video file formats change over time, Databrary will perform file format migrations to those preferred formats.
+Databrary takes and stores metadata related to a full dataset (e.g., title, authors, related publication, description of study, keywords or tags, associated URLs), individual study sessions (e.g. metadata related to participants, study groups and conditions, location, language, and session date and tasks), and video files (e.g., title, duration, tags) related to a dataset. Metadata is added through a user-friendly web interface where auto-completion, suggested terms, and integration with third party services (e.g., CrossRef) guide users through its creation. Metadata may be accessed through the web interface, via API, or downloaded as a comma separated values (CSV) file.
 
 ###3. Documentation
 
