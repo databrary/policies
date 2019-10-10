@@ -1,4 +1,4 @@
-You can also download a [.docx](/policies/release-template.docx) version of this template to modify.
+You can also download a [.docx](/policies/doc/release-template.docx) version of this template to modify.
 
 # Databrary Release for [STUDY NAME]
 
