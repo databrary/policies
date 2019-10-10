@@ -51,22 +51,25 @@ There will be no compensation for sharing information in the library.
 
 ## Signatures
 
-All people in the session must decide whether to provide permission for the following:
+All people in the session must decide whether to provide permission for one of the following types of sharing:
 
 ### Permission to share with authorized researchers
-I give permission to share the material from this session with authorized researchers in a secure data library called Databrary.
+I give permission to share the material from this session with authorized researchers in a secure data library called Databrary. Authorized researchers may use the material for research purposes.
+
+OR
 
 ### Permission to show excerpts and images
-I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube).
+I give permission to share the material from this session with authorized researchers in a secure data library called Databrary.
+Authorized researchers may use the material for research purposes.
+
+In addition, I give permission for authorized researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. 
+I understand that researchers may use these excerpts in presentations. 
+I also understand that at times these presentations may be videotaped or recorded and made available to the public via the internet (e.g., YouTube). 
+In giving my permission, I trust that authorized researchers will use their professional judgment and uphold ethical principles in determining which excerpts and images to present and to which audiences.
+
+---
 
 We will give you a copy of this form and the signature page for your records. If you have any questions about the data-sharing library, please email ethics@databrary.org. For questions about your rights as a research participant, you may contact [APPROPRIATE CONTACT FOR LOCAL INSTITUTION].
-
-## Permission to share with authorized researchers
-I give permission to share the material from this session with authorized researchers in a secure data library called Databrary.
-
-## Permission to show excerpts and images
-
-I give permission for authorized Databrary researchers to show selected excerpts from shared research videos in public settings for informational or educational purposes. I understand that such uses (e.g., research presentations) may be videotaped or recorded and that those videos or recordings may then be made available to the public via the internet (e.g., YouTube). I trust that authorized researchers will use professional judgment and uphold ethical principles in determining which excerpts and images to share and with which audiences.
 
 By signing below, I indicate that I understand the Databrary Release document and have recorded my own choices for sharing the material from this session in Databrary and allowing authorized Databrary researchers to show excerpts.
 

@@ -1,7 +1,9 @@
 /doc/
 .DS_Store
 /*.log
-
 *.docx
 /*.iml
 /.idea
+.Rproj.user
+.Rhistory
+policies.Rproj
