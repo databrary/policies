@@ -1,5 +1,7 @@
 # Data Sharing Manifesto
 
+WHAT's A MANIFESTO?
+
 - Databrary's primary purpose is to foster open data-sharing among a community of researchers in developmental science in particular, and in psychological and neural science more generally.
 - Open data-sharing is entirely voluntary. Investigators choose whether to share, when to share, and what to share. Databrary hopes that most Investigators will choose to share, will share early on in the research process, and will share most or all of the information they have permission to share. But, there is no requirement to do so. 
 - Some models for when to share are as follows:
