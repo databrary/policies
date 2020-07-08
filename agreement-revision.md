@@ -1,5 +1,7 @@
 # Databrary Access Agreement Revision Details 2017
 
+WOOT
+
 The Databrary Access Agreement (DAA) was revised in September, 2017 to accommodate international institutions with external ethics review processes, to note the necessity of proper training in human subjects research ethics, and to fix minor typos and spacing issues. In addition, Annex II was removed to a separate document on Databrary letterhead.
  
 ### LIST OF AMENDMENTS
