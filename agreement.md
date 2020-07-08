@@ -1,4 +1,4 @@
-# Databrary Access Agreement WOOT
+# Databrary Access Agreement
 
 The undersigned Institution wishes to allow its Authorized Investigators identified below and in Annex II (“Authorized Investigators”) to access Databrary.
 
