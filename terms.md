@@ -6,8 +6,8 @@ Databrary Terms and Conditions of Use
 1. Introduction
 ---------------
 
-Databrary (\"we\", \"our\") is a web-based data library operated by New
-York University (\"NYU\"). Databrary is designed for the storage,
+Databrary ("we", "our") is a web-based data library operated by New
+York University ("NYU"). Databrary is designed for the storage,
 sharing, and re-use of Research Data, especially video and audio
 recordings and associated Contents, some of which may contain personally
 identifying or sensitive information about human or non-human animal
@@ -34,7 +34,7 @@ Authorized Investigator and his or her Institution and NYU on behalf of
 Databrary.
 
 **Affiliate**: A person, affiliated with an Authorized Investigator who
-operates under that Authorized Investigator\'s sponsorship and
+operates under that Authorized Investigator's sponsorship and
 supervision and who has been authorized to access Restricted Data on our
 Websites by that Authorized Investigator.
 
@@ -81,7 +81,7 @@ www.datavyu.org.
 ------------------------------
 
 In order to use our Websites, whether by accessing our Websites directly
-or by using a public application programming interface (\"Public API\")
+or by using a public application programming interface ("Public API")
 to access our Websites, you must first agree to these Terms and
 Conditions of Use. You may not use the Websites if you do not accept
 these terms.
@@ -118,7 +118,7 @@ If there is a conflict between these Terms and Conditions of Use and the
 updated and/or additional Terms and Conditions of Use, the updated
 and/or additional terms and conditions will control. If you have
 questions about our Websites, please contact us by email at
-contact\@databrary.org.
+contact@databrary.org.
 
 5. Rules and Conduct
 --------------------
@@ -135,10 +135,10 @@ or other service available on or through Databrary, that:
     publicity, right of privacy or other right of any other person or
     entity;
 -   Is unlawful, threatening, abusive, harassing, defamatory, libelous,
-    deceptive, fraudulent, invasive of another\'s privacy, tortious,
+    deceptive, fraudulent, invasive of another's privacy, tortious,
     obscene, offensive, or profane;
 -   Constitutes unauthorized or unsolicited advertising, junk or bulk
-    e-mail (\"spamming\"); or
+    e-mail ("spamming"); or
 -   Contains software viruses or any other computer codes, files, or
     programs that are designed or intended to disrupt, damage, limit or
     interfere with the proper function of any software, hardware, or
@@ -182,14 +182,14 @@ login information and should never use another user's account. You are
 solely responsible for activity that occurs on your account; you shall
 not allow anyone else to use your account, and you are responsible for
 maintaining the confidentiality of your password. You will immediately
-notify Databrary by email to contact\@databrary.org of any unauthorized
+notify Databrary by email to contact@databrary.org of any unauthorized
 use of your account, or other account-related security breach of which
 you become aware.
 
 7. Institutional Authorization
 ------------------------------
 
-Users who seek access to Databrary\'s Restricted Data must gain
+Users who seek access to Databrary's Restricted Data must gain
 authorization from an Institution or from an existing Authorized
 Investigator (as an Affiliate). Seeking authorization is the final step
 in the account creation and registration process. Databrary will work
@@ -219,13 +219,13 @@ will:
 
 In addition, you agree to:
 
--   Comply with your Institution\'s policies on the conduct of research,
+-   Comply with your Institution's policies on the conduct of research,
     and be familiar with Databrary's guidance on the type of ethics
     oversight typically required for various Research Data uses.
--   Complete research ethics training that meets your Institution\'s
+-   Complete research ethics training that meets your Institution's
     standards concerning policies and protections for human research
     subjects, as applicable.
--   Complete research ethics training that meets your Institution\'s
+-   Complete research ethics training that meets your Institution's
     standards concerning policies and protections for non-human animals,
     as applicable.
 -   Seek, secure, and maintain permission to conduct research from the
@@ -241,7 +241,7 @@ In addition, you agree to:
     sharing using language consistent with the Databrary Release
     Template
     (https://www.databrary.org/resources/templates/release-template.html),
-    which can be mapped to Databrary\'s Sharing Release Levels
+    which can be mapped to Databrary's Sharing Release Levels
     (https://www.databrary.org/resources/guide/investigators/release/release-levels.html
     and 10. Sharing Release Levels).
 -   Obtain necessary approvals required by your Institution prior to
@@ -273,7 +273,7 @@ Authorized Investigators agree to:
 Additionally, Authorized Investigators agree to:
 
 -   Keep their contact information current on Databrary.
--   Notify Databrary, contact\@databrary.org, in the event of a change
+-   Notify Databrary, contact@databrary.org, in the event of a change
     in their Institutional affiliation in order to obtain and execute a
     new Databrary Access Agreement with their new Institution.
 -   Keep login information private and secure and avoid sharing or
@@ -421,7 +421,7 @@ We reserve the right to:
 These Terms and Conditions of Use apply to your use of the Websites and
 are effective until terminated or modified by Databrary. If you no
 longer agree to be bound by these Terms, you must cease use of the
-Websites. If you\'re dissatisfied with the Websites or their content, or
+Websites. If you're dissatisfied with the Websites or their content, or
 any of these terms, conditions, and policies, your sole legal remedy is
 to discontinue using the Websites. We reserve the right to terminate or
 suspend your access to and use of the Websites, or parts of the
@@ -439,7 +439,7 @@ contributions.
 14. Warranty Disclaimer
 -----------------------
 
-THE WEBSITES ARE PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. TO
+THE WEBSITES ARE PROVIDED ON AN "AS IS" AND "AS AVAILABLE" BASIS. TO
 THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, DATABRARY DISCLAIMS ALL
 WARRANTIES, EXPRESS OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, IMPLIED
 WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE OR
@@ -498,9 +498,9 @@ FAILURE OR MALFUNCTION, EVEN IF AN AUTHORIZED REPRESENTATIVE OF
 DATABRARY HAS BEEN ADVISED OF OR SHOULD HAVE KNOWN OF THE POSSIBILITY OF
 SUCH DAMAGES.
 
-DATABRARY\'S TOTAL CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS IN
+DATABRARY'S TOTAL CUMULATIVE LIABILITY FOR ANY AND ALL CLAIMS IN
 CONNECTION WITH THE WEBSITE WILL NOT EXCEED ONE THOUSAND U.S. DOLLARS
-(\$1,000.00). YOU AGREE AND ACKNOWLEDGE THAT THE FOREGOING LIMITATIONS
+($1,000.00). YOU AGREE AND ACKNOWLEDGE THAT THE FOREGOING LIMITATIONS
 ON LIABILITY ARE AN ESSENTIAL BASIS OF THE BARGAIN AND THAT DATABRARY
 WOULD NOT PROVIDE THE WEBSITES ABSENT SUCH LIMITATION.
 
@@ -510,10 +510,10 @@ WOULD NOT PROVIDE THE WEBSITES ABSENT SUCH LIMITATION.
 The Users agree that Databrary bears no responsibility for their use of
 Databrary or the information contained within it. Users indemnify and
 render harmless Databrary from all claims, losses, liability, and other
-damages that arise from the Users\' violations of these Terms and
-Conditions of Use, except where an Authorized User\'s Institution is
+damages that arise from the Users' violations of these Terms and
+Conditions of Use, except where an Authorized User's Institution is
 expressly prohibited by law from indemnifying third parties. In cases
-where an Authorized User\'s Institution is prohibited by law from
+where an Authorized User's Institution is prohibited by law from
 indemnifying third parties, the Institution agrees that it will be
 responsible for the payment of claims, including for loss, personal
 injury, death, property damage, or otherwise, arising out of any act or
@@ -593,7 +593,7 @@ by Databrary and any search software, user guides, documentation and any
 other intellectual property that is prepared by Databrary to assist
 users belongs to Databrary as creator of the content.
 
-You may not use the name \"New York University,\" or "Databrary" (alone
+You may not use the name "New York University," or "Databrary" (alone
 or as part of another name), or any other trademark of NYU or Databrary,
 in advertising or promotional materials without NYU's prior written
 approval.

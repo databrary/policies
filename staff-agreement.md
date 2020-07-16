@@ -1,6 +1,9 @@
 # Lab Staff Access Agreement
 
-Databrary's three guiding ethical principles embody the commitment that is expected of all Databrary members to build a community that follows the highest ethical standards. As a member of the Databrary community, you promise to:
+*Version date: April 29, 2020*
+
+Databrary's three guiding ethical principles embody the commitment that is expected of all Databrary members to build a community that follows the highest ethical standards. 
+As a member of the Databrary community, you promise to:
 
 1. Treat Databrary data with the same high standard of care that you treat data collected in your own laboratory.
 2. Ensure that participants' wishes about sharing their data are respected.

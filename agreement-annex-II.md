@@ -1,6 +1,8 @@
 Annex II -- Additional Authorized Investigators
 ===============================================
 
+*Version date: April 29, 2020*
+
 Please complete this section to add new authorized investigators to the
 original Databrary Access Agreement executed for the first user at your
 institution. You do not need to re-execute the entire Databrary Access

@@ -1,6 +1,8 @@
 Annex I -- Statement of Rights and Responsibilities
 ===================================================
 
+*Version date: April 29, 2020*
+
 ### Rights Granted to Databrary
 
 Databrary reserves the right to:
@@ -52,7 +54,7 @@ The Institution confirms the eligibility of its investigators by:
 
 -   Verifying that Authorized Investigators who collect or use data from
     non-human animal subjects have completed research ethics training
-    that meets the Institution\'s standards concerning policies and
+    that meets the Institution's standards concerning policies and
     protections for non-human animals.
 
 Further, the Institution agrees that it:
@@ -122,7 +124,7 @@ Access Agreement, Annex I ("Statement of Rights and Responsibilities"),
 and Annex III ("Databrary Access Guide").
 
 Authorized Investigators acknowledge and agree to comply with
-Databrary\'s three guiding ethical principles, which are to:
+Databrary's three guiding ethical principles, which are to:
 
 -   Treat data stored and shared via Databrary with the same high
     standard of care that Authorized Investigators treat data collected
@@ -136,10 +138,10 @@ Databrary\'s three guiding ethical principles, which are to:
 
 Additionally, Authorized Investigators agree to:
 
--   Comply with their Institution\'s policies on the conduct of
+-   Comply with their Institution's policies on the conduct of
     research.
 
--   Complete training that meets the Institution\'s standards addressing
+-   Complete training that meets the Institution's standards addressing
     the ethics of research with human subjects, and as applicable,
     research with non-human animal subjects.
 
@@ -150,14 +152,14 @@ Additionally, Authorized Investigators agree to:
     person.
 
 -   Cite all Databrary resources used in scholarly work using
-    Databrary\'s suggested format or an equivalent.
+    Databrary's suggested format or an equivalent.
 
 -   Ensure that Affiliates complete training in the ethical use of
     research data, including the protection of confidentiality, and see
-    to it that Affiliates follow Databrary\'s ethical principles.
+    to it that Affiliates follow Databrary's ethical principles.
 
 -   Secure data downloaded from Databrary with the highest safeguards
-    specified by the Institution\'s policies concerning sensitive
+    specified by the Institution's policies concerning sensitive
     research data.
 
 -   Refrain from attempting to reidentify or recontact research
@@ -170,7 +172,7 @@ Additionally, Authorized Investigators agree to:
 When contributing data, Authorized Investigators agree to:
 
 -   Seek, secure, and maintain permission to conduct research from the
-    entity that governs research at the Authorized Investigator\'s
+    entity that governs research at the Authorized Investigator's
     Institution, and faithfully represent to Databrary information about
     any research approval status if requested.
 

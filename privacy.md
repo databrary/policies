@@ -6,8 +6,8 @@ Databrary Privacy Policy
 1. Introduction
 ---------------
 
-Databrary (\"we\", \"our\") is a web-based data library provided by New
-York University (\"NYU\"). Databrary is designed for the storage,
+Databrary ("we", "our") is a web-based data library provided by New
+York University ("NYU"). Databrary is designed for the storage,
 sharing, and re-use of Research Data, especially video and audio
 recordings and associated Contents, some of which may contain personally
 identifying or sensitive information about human or non-human animal
@@ -37,7 +37,7 @@ authorization from an Institution and from Databrary to access
 Databrary.
 
 **Affiliate**: A person who conducts research under an Authorized
-Investigator\'s sponsorship and supervision and who has been granted
+Investigator's sponsorship and supervision and who has been granted
 access to Databrary by the Authorized Investigator. In most cases,
 Affiliates are students or research staff and are not eligible for
 Authorized Investigator status.
@@ -104,7 +104,7 @@ described in this Privacy Policy.
 5. Content
 ----------
 
-Databrary\'s mission is to accelerate scientific discovery by
+Databrary's mission is to accelerate scientific discovery by
 facilitating the storage, sharing, and re-use of Research Data,
 including Restricted Data like video and audio recordings. Where
 Restricted Data about humans are stored and shared, the permission of
@@ -121,7 +121,7 @@ out in the Databrary Access Agreement
 Authorized Users are in control of both the nature of the Content stored
 on Databrary, and with whom and to what extent that Content is shared,
 within the bounds of what Research Data participants agreed to share and
-what use has been authorized by the Authorized User\'s Institution.
+what use has been authorized by the Authorized User's Institution.
 
 6. Information Collected
 ------------------------
@@ -132,7 +132,7 @@ Unless you are a member of the general public with limited viewing
 rights to Content, in order to fully use our Websites, you must register
 and create an account that provides us with your name, institutional
 email address, institution name, profile web page at your institution, a
-password, and permission to contact your institution\'s appointed
+password, and permission to contact your institution's appointed
 contracts agent and related contact information in order to complete a
 Databrary Access Agreement on your behalf.
 
@@ -178,8 +178,8 @@ We may collect information from the devices and networks that you use to
 visit our Websites in order to help improve the services we provide,
 including the date and time of your visit, the operating system of your
 computer or device, the version of the web browser or other program you
-use, the Application Programming Interface (\"API\") you use, your
-mobile device carrier, your Internet Service Provider (\"ISP\"), and
+use, the Application Programming Interface ("API") you use, your
+mobile device carrier, your Internet Service Provider ("ISP"), and
 your Internet Protocol Address (IP Address). An IP address is a number
 that is automatically assigned to your computer whenever you access the
 Internet. For example, when you request a page from one of our sites,
@@ -188,11 +188,11 @@ demographics, traffic patterns, and for purposes of system
 administration. Every time you request or download a file from one of
 our Websites, Databrary may store data about these events and your IP
 address in a log file. We may use this information to analyze trends,
-administer the site, track users\' movements, and gather broad
+administer the site, track users' movements, and gather broad
 demographic information for aggregate use or for other business
 purposes. When you access or leave our Websites by clicking on a
 hyperlink, we may receive the URL from the site from which you last
-visited or the one to which you\'re directed. We also may receive
+visited or the one to which you're directed. We also may receive
 location data passed to us from third-party services or GPS-enabled
 devices that you have set up in order to customize your experience based
 on location information.
@@ -205,18 +205,18 @@ Services. By accessing our Websites, you are consenting to the placement
 of cookies and other similar technologies in your browser in accordance
 with this Privacy Policy and our Terms of Use.
 
-Cookies are small packets of information that a site\'s computer stores
+Cookies are small packets of information that a site's computer stores
 on your computer. Databrary can read the cookies whenever you visit our
 Websites. We may use cookies in a number of ways, such as to save the
-fact that you are logged into the system so you don\'t have to login in
+fact that you are logged into the system so you don't have to login in
 each time you visit our Website, to deliver content specific to your
-interests, and to track the pages you\'ve visited. These cookies allow
+interests, and to track the pages you've visited. These cookies allow
 us to use the information we collect to customize your experience so
 that your visit to our Websites and your use of our Services are as
 relevant and as valuable to you as possible. You may modify and control
 how and when cookies are set through your browser settings. Most
 browsers offer instructions on how to reset the browser to control or
-reject cookies in the \"Help\" section of the toolbar. We do not link
+reject cookies in the "Help" section of the toolbar. We do not link
 non-personal information from cookies to personally identifiable
 information without your permission.
 
@@ -316,7 +316,7 @@ possible at <info@databrary.org>.
 
 We will keep your personal information for as long as your account is
 active or as needed to comply with our legal obligations, even after
-you\'ve closed your account, such as to fulfill our obligations to our
+you've closed your account, such as to fulfill our obligations to our
 others (including as described in Section 8), meet regulatory
 requirements, resolve disputes between users, to prevent fraud and
 abuse, or to enforce this Privacy Policy. We may be required to retain
@@ -404,7 +404,7 @@ email <info@databrary.org>.
 
 ### GDPR and Research Contents
 
-Because Databrary\'s Contents are stored on servers located in the
+Because Databrary's Contents are stored on servers located in the
 United States, Restricted Data stored on Databrary may be accessed and
 re-used by researchers outside of the EEA. As described in the Databrary
 Access Agreement, Institutions and Authorized Users have obligations to
