@@ -37,4 +37,4 @@ Files uploaded to Databrary are assigned a unique identifier and have metadata a
 
 ###8. Data Security 
 
-Data and metadata stored in Databrary are subject to the security policies and best practices implemented by NYU. For more information about these policies and services, please visit NYU ITS Computer & Network Security at http://www.nyu.edu/its/security/.
+Data and metadata stored in Databrary are subject to the security policies and best practices implemented by NYU. For more information about these policies and services, please visit NYU ITS Computer & Network Security at <http://www.nyu.edu/its/security/>.
