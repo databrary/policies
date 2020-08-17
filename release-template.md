@@ -134,16 +134,16 @@ Adults
 
 By signing below, I indicate that I understand this Databrary Release document and have recorded my own choices for sharing the data from this session in Databrary and allowing authorized researchers to show excerpts.
 
-+--------------------------------------------------------+------------+
-| I give permission to share my data with authorized     | ☐ Yes ☐ No |
-| researchers.                                           |            |
-|                                                        |            |
-| **OR**                                                 |            |
++--------------------------------------------------------+--------------+
+| I give permission to share my data with authorized     | [] Yes [] No |
+| researchers.                                           |              |
+|                                                        |              |
+| **OR**                                                 |              |
 +========================================================+============+
-| I give permission to share my data with authorized     | ☐ Yes ☐ No |
-| researchers AND permission for authorized researchers  |            |
-| to show excerpts and images.                           |            |
-+--------------------------------------------------------+------------+
+| I give permission to share my data with authorized     | [] Yes [] No |
+| researchers AND permission for authorized researchers  |              |
+| to show excerpts and images.                           |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_
@@ -151,16 +151,16 @@ By signing below, I indicate that I understand this Databrary Release document a
 
 Signature Date Printed Name
 
-+--------------------------------------------------------+------------+
-| I give permission to share my data with authorized     | ☐ Yes ☐ No |
-| researchers.                                           |            |
-|                                                        |            |
-| **OR**                                                 |            |
++--------------------------------------------------------+--------------+
+| I give permission to share my data with authorized     | [] Yes [] No |
+| researchers.                                           |              |
+|                                                        |              |
+| **OR**                                                 |              |
 +========================================================+============+
-| I give permission to share my data with authorized     | ☐ Yes ☐ No |
-| researchers AND permission for authorized researchers  |            |
-| to show excerpts and images.                           |            |
-+--------------------------------------------------------+------------+
+| I give permission to share my data with authorized     | [] Yes [] No |
+| researchers AND permission for authorized researchers  |              |
+| to show excerpts and images.                           |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_\_
@@ -174,16 +174,16 @@ Children Deciding for Themselves (also requires parental consent)
 A researcher must read through the Assent to Share Script with those that can provide oral or written assent. 
 A parent or guardian must also decide whether to allow their child to share, and then sign on their behalf.
 
-+--------------------------------------------------------+------------+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers.                                |            |
-|                                                        |            |
-| **OR**                                                 |            |
-+========================================================+============+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers AND permission for authorized   |            |
-| researchers to show excerpts and images.               |            |
-+--------------------------------------------------------+------------+
++--------------------------------------------------------+--------------+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers.                                |              |
+|                                                        |              |
+| **OR**                                                 |              |
++========================================================+==============+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers AND permission for authorized   |              |
+| researchers to show excerpts and images.               |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -195,16 +195,16 @@ Printed name of child
 
 Signature of Parent/Guardian Date Printed Name
 
-+--------------------------------------------------------+------------+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers.                                |            |
-|                                                        |            |
-| **OR**                                                 |            |
-+========================================================+============+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers AND permission for authorized   |            |
-| researchers to show excerpts and images.               |            |
-+--------------------------------------------------------+------------+
++--------------------------------------------------------+--------------+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers.                                |              |
+|                                                        |              |
+| **OR**                                                 |              |
++========================================================+==============+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers AND permission for authorized   |              |
+| researchers to show excerpts and images.               |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -221,16 +221,16 @@ Young Children With Parent or Guardian Providing Consent
 
 A parent or guardian must decide whether to allow their child's data to be shared and sign on their behalf.
 
-+--------------------------------------------------------+------------+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers.                                |            |
-|                                                        |            |
-| **OR**                                                 |            |
-+========================================================+============+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers AND permission for authorized   |            |
-| researchers to show excerpts and images.               |            |
-+--------------------------------------------------------+------------+
++--------------------------------------------------------+--------------+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers.                                |              |
+|                                                        |              |
+| **OR**                                                 |              |
++========================================================+==============+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers AND permission for authorized   |              |
+| researchers to show excerpts and images.               |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -242,16 +242,16 @@ Printed name of child
 
 Signature of Parent/Guardian Date Printed Name
 
-+--------------------------------------------------------+------------+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers.                                |            |
-|                                                        |            |
-| **OR**                                                 |            |
-+========================================================+============+
-| I give permission to share my child's data with        | ☐ Yes ☐ No |
-| authorized researchers AND permission for authorized   |            |
-| researchers to show excerpts and images.               |            |
-+--------------------------------------------------------+------------+
++--------------------------------------------------------+--------------+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers.                                |              |
+|                                                        |              |
+| **OR**                                                 |              |
++========================================================+==============+
+| I give permission to share my child's data with        | [] Yes [] No |
+| authorized researchers AND permission for authorized   |              |
+| researchers to show excerpts and images.               |              |
++--------------------------------------------------------+--------------+
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
@@ -266,9 +266,9 @@ Signature of Parent/Guardian Date Printed Name
 To Be Completed By Researcher Obtaining Permission
 --------------------------------------------------
 
-  --------------------------------------------------------------------------------------------------------------------------- ------------
-  I certify that all participants who were recorded have given their decision about whether or not to share with Databrary.   ☐ Yes ☐ No
-  --------------------------------------------------------------------------------------------------------------------------- ------------
+  --------------------------------------------------------------------------------------------------------------------------- -------------
+  I certify that all participants who were recorded have given their decision about whether or not to share with Databrary.   [] Yes [] No
+  --------------------------------------------------------------------------------------------------------------------------- -------------
 
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 \_\_\_\_\_\_\_\_\_
