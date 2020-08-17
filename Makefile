@@ -1,4 +1,4 @@
-DOCS=irb-application work-with-irb agreement agreement-revision best-practices bill-of-rights data-sharing-manifesto definitions standard-operating-procedures release-template dmp-template staff-release staff-agreement terms privacy
+DOCS=irb-application work-with-irb agreement agreement-annex-I agreement-annex-II agreement-annex-III staff-release staff-agreement agreement-revision best-practices bill-of-rights data-sharing-manifesto definitions standard-operating-procedures release-template dmp-template terms privacy
 all: $(foreach d,$(DOCS),$(foreach e,pdf docx html shtml,doc/$d.$e))
 
 clean:
