@@ -240,9 +240,9 @@ In addition, you agree to:
 -   Ensure that depicted individuals document their wishes about data
     sharing using language consistent with the Databrary Release
     Template
-    (https://www.databrary.org/resources/templates/release-template.html),
+    (https://databrary.org/support/irb/release-template.html),
     which can be mapped to Databrary's Sharing Release Levels
-    (https://www.databrary.org/resources/guide/investigators/release/release-levels.html
+    (https://databrary.org/support/irb/release-levels.html
     and 10. Sharing Release Levels).
 -   Obtain necessary approvals required by your Institution prior to
     uploading Content to our Websites.
