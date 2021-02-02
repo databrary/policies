@@ -100,7 +100,7 @@ you do not so qualify, do not attempt to use our Websites. We may refuse
 use to any person or entity at any time and may change our eligibility
 criteria at any time, at our sole discretion.
 
-Our Privacy Policy (LINK TO PRIVACY POLICY), which is incorporated by
+Our Privacy Policy <https://databrary.org/about/policies/privacy.html>, which is incorporated by
 reference into these Terms and Conditions of Use, explains how we treat
 your personal data and your privacy when you use our Websites. By using
 our Websites, you agree that Databrary can use your personal data in
@@ -240,10 +240,9 @@ In addition, you agree to:
 -   Ensure that depicted individuals document their wishes about data
     sharing using language consistent with the Databrary Release
     Template
-    (https://databrary.org/support/irb/release-template.html),
+    <https://databrary.org/support/irb/release-template.html>,
     which can be mapped to Databrary's Sharing Release Levels
-    (https://databrary.org/support/irb/release-levels.html
-    and 10. Sharing Release Levels).
+    <https://databrary.org/support/irb/release-levels.html>.
 -   Obtain necessary approvals required by your Institution prior to
     uploading Content to our Websites.
 -   Ensure all Content stored on Databrary are accompanied by
@@ -284,31 +283,19 @@ Additionally, Authorized Investigators agree to:
 Regarding the uploading, storage, and sharing of Content on our
 Websites, you:
 
--   Assert that you have rights to share with us any Content you
-    > contribute and that no other entity or individual has rights that
-    > prevent you from contributing Content to Databrary.
+-   Assert that you have rights to share with us any Content you contribute and that no other entity or individual has rights that prevent you from contributing Content to Databrary.
 
--   Agree to allow us to use the Content exclusively for the purpose of
-    > scientific research or education.
+-   Agree to allow us to use the Content exclusively for the purpose scientific research or education.
 
--   Agree to provide licensing information if you are uploading Content
-    > subject to copyright and seek to restrict access to shared Content
-    > via a license.
+-   Agree to provide licensing information if you are uploading Content subject to copyright and seek to restrict access to shared Content via a license.
 
--   Take responsibility for deciding when and with which other
-    > Authorized Users Content you store on Databrary are shared,
-    > consistent with the Sharing Release Level granted by Research
-    > Participants.
+-   Take responsibility for deciding when and with which other Authorized Users Content you store on Databrary are shared, consistent with the Sharing Release Level granted by Research Participants.
 
 Furthermore, you agree to:
 
--   Follow all relevant international, national, state, and local laws
-    > and regulations that pertain to the access, storage, security and
-    > use of Research Data.
+-   Follow all relevant international, national, state, and local laws and regulations that pertain to the access, storage, security and use of Research Data.
 
--   Inform Databrary of any suspected violation of confidentiality or
-    > ethics and cooperate with Databrary in any investigation about
-    > suspected violations
+-   Inform Databrary of any suspected violation of confidentiality or ethics and cooperate with Databrary in any investigation about suspected violations.
 
 9. Responsible Use of Data and Data Confidentiality
 ---------------------------------------------------
@@ -348,7 +335,7 @@ was supposed to be anonymous, you must not make use of this information.
 
 Access to Content on our Websites is based on the following Sharing
 Release Levels
-(https://www.databrary.org/resources/guide/investigators/release/release-levels.html):
+<https://www.databrary.org/resources/guide/investigators/release/release-levels.html>:
 
 **Unknown**: Consent missing or not obtained. Access to this Content is
 restricted to Authorized Users chosen by the Authorized Investigator who
@@ -371,7 +358,7 @@ recordings may then be made available to the public via the internet
 these Terms and Conditions of Use).
 
 All Content on our Websites must be labeled with one of these Sharing
-Release Levels. The default setting is Private.
+Release Levels. The default setting is **Private**.
 
 11. Derived Data and Re-dissemination of Data
 ---------------------------------------------
@@ -395,25 +382,19 @@ without prior written permission.
 
 We reserve the right to:
 
--   Redistribute Content in Databrary in accordance with the Authorized
-    > Investigators' wishes and the Sharing Release Levels provided by
-    > participants, staff, or others who are recorded during research.
+-   Redistribute Content in Databrary in accordance with the Authorized Investigators' wishes and the Sharing Release Levels provided by participants, staff, or others who are recorded during research.
 
--   Promote the availability of shared data (via the Databrary
-    > newsletter, website, email or social media)
+-   Promote the availability of shared data (via the Databrary newsletter, website, email or social media).
 
 -   Describe, catalog, validate, and document data.
 
--   Store, translate, copy, or re-format Data in any way to ensure its
-    > future preservation and accessibility.
+-   Store, translate, copy, or re-format Data in any way to ensure its future preservation and accessibility.
 
 -   Incorporate metadata or documentation.
 
--   Limit the amount or kind of Data stored free of charge or the level
-    > of service provided.
+-   Limit the amount or kind of Data stored free of charge or the level of service provided.
 
--   Give shared Data priority over privately stored data for storage and
-    > processing resources.
+-   Give shared Data priority over privately stored data for storage and processing resources.
 
 13. Termination
 ---------------
@@ -603,7 +584,7 @@ expects its users to do the same. Databrary operates in in accordance
 with the safe harbor provisions of 17 U.S.C. 512 (the Digital Millennium
 Copyright Act of 1998, the text of which may be found on the U.S.
 Copyright Office website at
-http://www.copyright.gov/legislation/dmca.pdf). Databrary will respond
+<http://www.copyright.gov/legislation/dmca.pdf>. Databrary will respond
 expeditiously to claims of copyright infringement committed using our
 Sites if such claims are reported to us. Upon receipt of such notice,
 Databrary will take whatever action, in its sole discretion, it deems
