@@ -2,6 +2,7 @@ Databrary Privacy Policy
 ========================
 
 ### Effective Date: June 1, 2020
+### Revised: February 1, 2021
 
 1. Introduction
 ---------------
@@ -116,8 +117,8 @@ files, procedural videos, videos of research participation, consent
 forms, participant demographics or characteristics, coding sheets, and
 analysis scripts and output. In uploading or downloading Content,
 Authorized Users agree to uphold the highest ethical standards, as laid
-out in the Databrary Access Agreement
-(https://www.databrary.org/resources/agreement.html). Ultimately,
+out in the [Databrary Access Agreement]
+(https://databrary.org/about/agreement.html). Ultimately,
 Authorized Users are in control of both the nature of the Content stored
 on Databrary, and with whom and to what extent that Content is shared,
 within the bounds of what Research Data participants agreed to share and
@@ -147,7 +148,7 @@ access, you may delete your user account by emailing
 <contact@databrary.org>.
 
 You may optionally provide a profile picture and your unique ORCID
-(https://orcid.org/) identifier. If you choose to provide us with any
+<https://orcid.org/> identifier. If you choose to provide us with any
 additional information about yourself, including through an e-mail
 message, form, survey, etc., we will take every precaution to keep the
 information confidential and protect your privacy to the extent
@@ -385,7 +386,7 @@ right to lodge a complaint with a supervisory authority responsible for
 data protection. You may do so in the EU member state of your habitual
 residence, your place of work or the place of the alleged infringement.
 
-Contact Databrary at <support@databrary.org> if you have concerns
+Contact Databrary at <contact@databrary.org> if you have concerns
 regarding your personal data, or wish to exercise any of these listed
 rights.
 

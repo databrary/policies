@@ -2,6 +2,7 @@ Databrary Terms and Conditions of Use
 =====================================
 
 ### Effective Date: June 1, 2020
+### Revised: February 2, 2021
 
 1. Introduction
 ---------------
@@ -100,10 +101,7 @@ you do not so qualify, do not attempt to use our Websites. We may refuse
 use to any person or entity at any time and may change our eligibility
 criteria at any time, at our sole discretion.
 
-Our Privacy Policy <https://databrary.org/about/policies/privacy.html>, which is incorporated by
-reference into these Terms and Conditions of Use, explains how we treat
-your personal data and your privacy when you use our Websites. By using
-our Websites, you agree that Databrary can use your personal data in
+Our Privacy Policy <https://databrary.org/about/policies/privacy.html>, which is incorporated by reference into these Terms and Conditions of Use, explains how we treat your personal data and your privacy when you use our Websites. By using our Websites, you agree that Databrary can use your personal data in
 accordance with our Privacy Policy.
 
 4. Modifications to these Terms and Conditions of Use
