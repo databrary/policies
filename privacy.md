@@ -117,8 +117,7 @@ files, procedural videos, videos of research participation, consent
 forms, participant demographics or characteristics, coding sheets, and
 analysis scripts and output. In uploading or downloading Content,
 Authorized Users agree to uphold the highest ethical standards, as laid
-out in the [Databrary Access Agreement]
-(https://databrary.org/about/agreement.html). Ultimately,
+out in the [Databrary Access Agreement](https://databrary.org/about/agreement.html). Ultimately,
 Authorized Users are in control of both the nature of the Content stored
 on Databrary, and with whom and to what extent that Content is shared,
 within the bounds of what Research Data participants agreed to share and
